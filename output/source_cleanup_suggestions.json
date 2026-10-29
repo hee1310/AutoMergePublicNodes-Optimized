@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29 21:55:03",
+  "generated_at": "2026-10-29 22:03:21",
   "min_tested": 5,
   "disable_dead_threshold": 2,
   "summary": {
     "disable": 19,
     "downweight": 0,
     "prefer": 4,
-    "observe": 84
+    "observe": 88
   },
   "suggestions": {
     "disable": [
@@ -225,10 +225,10 @@
       {
         "name": "ermaozi",
         "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt",
-        "score": 0.94,
+        "score": 0.937,
         "recommendation": "prefer",
-        "tested": 23,
-        "pass_rate": 0.957,
+        "tested": 22,
+        "pass_rate": 0.955,
         "parsed_nodes": 510,
         "consecutive_dead": 0,
         "reason": "源评分较高"
@@ -236,10 +236,10 @@
       {
         "name": "Au1rxx-base64",
         "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt",
-        "score": 0.918,
+        "score": 0.901,
         "recommendation": "prefer",
-        "tested": 323,
-        "pass_rate": 0.851,
+        "tested": 320,
+        "pass_rate": 0.834,
         "parsed_nodes": 1722,
         "consecutive_dead": 0,
         "reason": "源评分较高"
@@ -247,10 +247,10 @@
       {
         "name": "Surfboard-tg-mixed",
         "url": "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed",
-        "score": 0.827,
+        "score": 0.9,
         "recommendation": "prefer",
-        "tested": 97,
-        "pass_rate": 0.753,
+        "tested": 98,
+        "pass_rate": 0.827,
         "parsed_nodes": 7837,
         "consecutive_dead": 0,
         "reason": "源评分较高"
@@ -258,10 +258,10 @@
       {
         "name": "mheidari-all",
         "url": "https://raw.githubusercontent.com/mheidari98/.proxy/main/all",
-        "score": 0.737,
+        "score": 0.72,
         "recommendation": "prefer",
-        "tested": 170,
-        "pass_rate": 0.659,
+        "tested": 176,
+        "pass_rate": 0.642,
         "parsed_nodes": 33474,
         "consecutive_dead": 0,
         "reason": "源评分较高"
@@ -288,6 +288,28 @@
         "pass_rate": null,
         "parsed_nodes": 5005,
         "consecutive_dead": 0,
+        "reason": "证据不足或评分中性"
+      },
+      {
+        "name": "ALL",
+        "url": "https://github.com/hee1310/ZnJlZW5vZGVz/blob/main/ZnJlZW5vZGU=/ZnJlZW5vZGU=.txt",
+        "score": 0.025,
+        "recommendation": "observe",
+        "tested": 0,
+        "pass_rate": null,
+        "parsed_nodes": 0,
+        "consecutive_dead": 1,
+        "reason": "证据不足或评分中性"
+      },
+      {
+        "name": "ALL2",
+        "url": "https://github.com/hee1310/ZnJlZW5vZGVz/blob/main/ZnJlZW5vZGU%3D/ZnJlZW5vZGUx.txt",
+        "score": 0.025,
+        "recommendation": "observe",
+        "tested": 0,
+        "pass_rate": null,
+        "parsed_nodes": 0,
+        "consecutive_dead": 1,
         "reason": "证据不足或评分中性"
       },
       {
@@ -456,6 +478,17 @@
         "reason": "证据不足或评分中性"
       },
       {
+        "name": "github_links",
+        "url": "https://github.com/hee1310/ZnJlZW5vZGVz/blob/main/linktree/github_links.txt",
+        "score": 0.025,
+        "recommendation": "observe",
+        "tested": 0,
+        "pass_rate": null,
+        "parsed_nodes": 0,
+        "consecutive_dead": 1,
+        "reason": "证据不足或评分中性"
+      },
+      {
         "name": "mahdibland-V2RayAggregator",
         "url": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
         "score": 0.255,
@@ -508,6 +541,17 @@
         "pass_rate": null,
         "parsed_nodes": 1791,
         "consecutive_dead": 0,
+        "reason": "证据不足或评分中性"
+      },
+      {
+        "name": "non_github_links",
+        "url": "https://github.com/hee1310/ZnJlZW5vZGVz/blob/main/linktree/non_github_links.txt",
+        "score": 0.025,
+        "recommendation": "observe",
+        "tested": 0,
+        "pass_rate": null,
+        "parsed_nodes": 0,
+        "consecutive_dead": 1,
         "reason": "证据不足或评分中性"
       },
       {
@@ -579,11 +623,11 @@
       {
         "name": "tg-ConfigV2rayNG",
         "url": "https://t.me/s/ConfigV2rayNG",
-        "score": 0.183,
+        "score": 0.186,
         "recommendation": "observe",
         "tested": 0,
         "pass_rate": null,
-        "parsed_nodes": 200,
+        "parsed_nodes": 270,
         "consecutive_dead": 0,
         "reason": "证据不足或评分中性"
       },
@@ -1173,10 +1217,10 @@
       {
         "name": "xiaoji235-airport-v2ray-all",
         "url": "https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt",
-        "score": 0.391,
+        "score": 0.287,
         "recommendation": "observe",
         "tested": 2,
-        "pass_rate": 1.0,
+        "pass_rate": 0.5,
         "parsed_nodes": 6752,
         "consecutive_dead": 0,
         "reason": "证据不足或评分中性"

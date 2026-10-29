@@ -1,14 +1,14 @@
 # 订阅源质量评分
 
-生成时间：2026-10-29 21:55:02
+生成时间：2026-10-29 22:03:21
 
 ## 摘要
 
 | 指标 | 值 |
 | --- | --- |
-| 已评分订阅源总数 | 88 |
+| 已评分订阅源总数 | 92 |
 | 建议优先 | 4 |
-| 继续观察 | 84 |
+| 继续观察 | 88 |
 | 建议降权 | 0 |
 | 建议禁用 | 0 |
 
@@ -16,10 +16,10 @@
 
 | 订阅源 | 评分 | 建议 | 已测 | 通过 | 失败 | 通过率 | 解析数 | 连续死亡 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ermaozi | 0.94 | prefer | 23 | 22 | 1 | 0.957 | 510 | 0 |
-| Au1rxx-base64 | 0.918 | prefer | 323 | 275 | 48 | 0.851 | 1722 | 0 |
-| Surfboard-tg-mixed | 0.827 | prefer | 97 | 73 | 24 | 0.753 | 7837 | 0 |
-| mheidari-all | 0.737 | prefer | 170 | 112 | 58 | 0.659 | 33474 | 0 |
+| ermaozi | 0.937 | prefer | 22 | 21 | 1 | 0.955 | 510 | 0 |
+| Au1rxx-base64 | 0.901 | prefer | 320 | 267 | 53 | 0.834 | 1722 | 0 |
+| Surfboard-tg-mixed | 0.9 | prefer | 98 | 81 | 17 | 0.827 | 7837 | 0 |
+| mheidari-all | 0.72 | prefer | 176 | 113 | 63 | 0.642 | 33474 | 0 |
 
 ## 建议降权
 
@@ -33,11 +33,11 @@
 
 | 订阅源 | 评分 | 建议 | 已测 | 通过 | 失败 | 通过率 | 解析数 | 连续死亡 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ermaozi | 0.94 | prefer | 23 | 22 | 1 | 0.957 | 510 | 0 |
-| Au1rxx-base64 | 0.918 | prefer | 323 | 275 | 48 | 0.851 | 1722 | 0 |
-| Surfboard-tg-mixed | 0.827 | prefer | 97 | 73 | 24 | 0.753 | 7837 | 0 |
-| mheidari-all | 0.737 | prefer | 170 | 112 | 58 | 0.659 | 33474 | 0 |
-| xiaoji235-airport-v2ray-all | 0.391 | observe | 2 | 2 | 0 | 1.0 | 6752 | 0 |
+| ermaozi | 0.937 | prefer | 22 | 21 | 1 | 0.955 | 510 | 0 |
+| Au1rxx-base64 | 0.901 | prefer | 320 | 267 | 53 | 0.834 | 1722 | 0 |
+| Surfboard-tg-mixed | 0.9 | prefer | 98 | 81 | 17 | 0.827 | 7837 | 0 |
+| mheidari-all | 0.72 | prefer | 176 | 113 | 63 | 0.642 | 33474 | 0 |
+| xiaoji235-airport-v2ray-all | 0.287 | observe | 2 | 1 | 1 | 0.5 | 6752 | 0 |
 | tg-LonUp_M | 0.262 | observe | 1 | 1 | 0 | 1.0 | 176 | 0 |
 | SoliSpirit-all | 0.255 | observe | 0 | 0 | 0 | None | 10376 | 0 |
 | barry-far-vless | 0.255 | observe | 0 | 0 | 0 | None | 6033 | 0 |
@@ -53,11 +53,11 @@
 | barry-far-Sub2 | 0.195 | observe | 0 | 0 | 0 | None | 500 | 0 |
 | barry-far-Sub1 | 0.195 | observe | 0 | 0 | 0 | None | 489 | 0 |
 | ermaozi-get_subscribe | 0.19 | observe | 0 | 0 | 0 | None | 374 | 0 |
+| tg-ConfigV2rayNG | 0.186 | observe | 0 | 0 | 0 | None | 270 | 0 |
 | chromego_merge | 0.186 | observe | 0 | 0 | 0 | None | 268 | 0 |
 | tg-V2RAYProxy | 0.184 | observe | 0 | 0 | 0 | None | 217 | 0 |
 | ts-sf-Fly | 0.183 | observe | 0 | 0 | 0 | None | 201 | 0 |
 | MatinGhanbari-super-sub | 0.183 | observe | 0 | 0 | 0 | None | 200 | 0 |
-| tg-ConfigV2rayNG | 0.183 | observe | 0 | 0 | 0 | None | 200 | 0 |
 | tg-Farah_VPN | 0.183 | observe | 0 | 0 | 0 | None | 200 | 0 |
 | ts-sf | 0.183 | observe | 0 | 0 | 0 | None | 200 | 0 |
 | tg-Outline_Vpn | 0.182 | observe | 0 | 0 | 0 | None | 175 | 0 |
@@ -68,7 +68,11 @@
 
 | 订阅源 | 评分 | 建议 | 已测 | 通过 | 失败 | 通过率 | 解析数 | 连续死亡 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ALL | 0.025 | observe | 0 | 0 | 0 | None | 0 | 1 |
+| ALL2 | 0.025 | observe | 0 | 0 | 0 | None | 0 | 1 |
 | Epodonios-all | 0.025 | observe | 0 | 0 | 0 | None | 0 | 1 |
+| github_links | 0.025 | observe | 0 | 0 | 0 | None | 0 | 1 |
+| non_github_links | 0.025 | observe | 0 | 0 | 0 | None | 0 | 1 |
 | Mr8AHAL | 0.175 | observe | 0 | 0 | 0 | None | 1 | 0 |
 | ninja-tuic | 0.175 | observe | 0 | 0 | 0 | None | 1 | 0 |
 | tg-GrizzlyVPN | 0.175 | observe | 0 | 0 | 0 | None | 1 | 0 |

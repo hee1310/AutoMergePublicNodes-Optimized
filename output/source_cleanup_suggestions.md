@@ -1,6 +1,6 @@
 # 订阅源清理建议
 
-生成时间：2026-10-29 21:55:03
+生成时间：2026-10-29 22:03:21
 
 本报告默认只读。修改 `config/sources.yaml` 前请人工复核。
 
@@ -11,7 +11,7 @@
 | disable | 19 |
 | downweight | 0 |
 | prefer | 4 |
-| observe | 84 |
+| observe | 88 |
 
 ## 建议禁用
 
@@ -45,10 +45,10 @@
 
 | 订阅源 | 评分 | 已测 | 通过率 | 解析数 | 连续死亡 | 原因 | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ermaozi | 0.94 | 23 | 0.957 | 510 | 0 | 源评分较高 | https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt |
-| Au1rxx-base64 | 0.918 | 323 | 0.851 | 1722 | 0 | 源评分较高 | https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt |
-| Surfboard-tg-mixed | 0.827 | 97 | 0.753 | 7837 | 0 | 源评分较高 | https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed |
-| mheidari-all | 0.737 | 170 | 0.659 | 33474 | 0 | 源评分较高 | https://raw.githubusercontent.com/mheidari98/.proxy/main/all |
+| ermaozi | 0.937 | 22 | 0.955 | 510 | 0 | 源评分较高 | https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt |
+| Au1rxx-base64 | 0.901 | 320 | 0.834 | 1722 | 0 | 源评分较高 | https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt |
+| Surfboard-tg-mixed | 0.9 | 98 | 0.827 | 7837 | 0 | 源评分较高 | https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed |
+| mheidari-all | 0.72 | 176 | 0.642 | 33474 | 0 | 源评分较高 | https://raw.githubusercontent.com/mheidari98/.proxy/main/all |
 
 ## 继续观察
 
@@ -56,6 +56,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10ium-HighSpeed | 0.209 | 0 | None | 839 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/10ium/free-config/refs/heads/main/HighSpeed.txt |
 | 10ium-ScrapeCategorize-Vless | 0.255 | 0 | None | 5005 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt |
+| ALL | 0.025 | 0 | None | 0 | 1 | 证据不足或评分中性 | https://github.com/hee1310/ZnJlZW5vZGVz/blob/main/ZnJlZW5vZGU=/ZnJlZW5vZGU=.txt |
+| ALL2 | 0.025 | 0 | None | 0 | 1 | 证据不足或评分中性 | https://github.com/hee1310/ZnJlZW5vZGVz/blob/main/ZnJlZW5vZGU%3D/ZnJlZW5vZGUx.txt |
 | Au1rxx-clash | 0.244 | 0 | None | 1722 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml |
 | DeltaKronecker-all | 0.255 | 0 | None | 2709 | 0 | 证据不足或评分中性 | https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/all_configs.txt |
 | Epodonios-all | 0.025 | 0 | None | 0 | 1 | 证据不足或评分中性 | https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt |
@@ -71,18 +73,20 @@
 | chromego_merge | 0.186 | 0 | None | 268 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/merged_proxies_new.yaml |
 | ermaozi-get_subscribe | 0.19 | 0 | None | 374 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml |
 | freefq | 0.176 | 0 | None | 14 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/freefq/free/master/v2 |
+| github_links | 0.025 | 0 | None | 0 | 1 | 证据不足或评分中性 | https://github.com/hee1310/ZnJlZW5vZGVz/blob/main/linktree/github_links.txt |
 | mahdibland-V2RayAggregator | 0.255 | 0 | None | 4444 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt |
 | moneyfly1-collectSub | 0.222 | 0 | None | 1164 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/moneyfly1/collectSub/refs/heads/main/config_all_merged_nodes.txt |
 | ninja-hy2 | 0.175 | 0 | None | 3 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/ninjastrikers/v2ray-configs/main/splitted/hysteria.txt |
 | ninja-tuic | 0.175 | 0 | None | 1 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/ninjastrikers/v2ray-configs/main/splitted/tuic.txt |
 | ninja-vless | 0.247 | 0 | None | 1791 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/ninjastrikers/v2ray-configs/main/splitted/vless.txt |
+| non_github_links | 0.025 | 0 | None | 0 | 1 | 证据不足或评分中性 | https://github.com/hee1310/ZnJlZW5vZGVz/blob/main/linktree/non_github_links.txt |
 | peasoft-NoMoreWalls | 0.181 | 0 | None | 143 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml |
 | ripaojiedian-freenode | 0.176 | 0 | None | 14 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash |
 | roosterkid-openproxylist-v2ray | 0.181 | 0 | None | 150 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt |
 | tg-Ahmedhamoomi_Servers | 0.175 | 0 | None | 2 | 0 | 证据不足或评分中性 | https://t.me/s/Ahmedhamoomi_Servers |
 | tg-An0nymousTeam | 0.177 | 0 | None | 46 | 0 | 证据不足或评分中性 | https://t.me/s/An0nymousTeam |
 | tg-BESTFORBEST66 | 0.175 | 0 | None | 8 | 0 | 证据不足或评分中性 | https://t.me/s/BESTFORBEST66 |
-| tg-ConfigV2rayNG | 0.183 | 0 | None | 200 | 0 | 证据不足或评分中性 | https://t.me/s/ConfigV2rayNG |
+| tg-ConfigV2rayNG | 0.186 | 0 | None | 270 | 0 | 证据不足或评分中性 | https://t.me/s/ConfigV2rayNG |
 | tg-CryptoGuardVPN | 0.176 | 0 | None | 16 | 0 | 证据不足或评分中性 | https://t.me/s/CryptoGuardVPN |
 | tg-DarkVPNpro | 0.175 | 0 | None | 7 | 0 | 证据不足或评分中性 | https://t.me/s/DarkVPNpro |
 | tg-DirectVPN | 0.176 | 0 | None | 14 | 0 | 证据不足或评分中性 | https://t.me/s/DirectVPN |
@@ -136,5 +140,5 @@
 | ts-sf | 0.183 | 0 | None | 200 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/ts-sf/fly/main/clash |
 | ts-sf-Fly | 0.183 | 0 | None | 201 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/ts-sf/Fly/main/v2 |
 | vxiaov | 0.176 | 0 | None | 28 | 0 | 证据不足或评分中性 | https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml |
-| xiaoji235-airport-v2ray-all | 0.391 | 2 | 1.0 | 6752 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt |
+| xiaoji235-airport-v2ray-all | 0.287 | 2 | 0.5 | 6752 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt |
 | zhangkai | 0.177 | 0 | None | 43 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml |
