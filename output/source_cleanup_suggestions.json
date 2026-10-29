@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29 22:03:21",
+  "generated_at": "2026-10-29 22:10:44",
   "min_tested": 5,
   "disable_dead_threshold": 2,
   "summary": {
     "disable": 19,
     "downweight": 0,
-    "prefer": 4,
-    "observe": 88
+    "prefer": 3,
+    "observe": 89
   },
   "suggestions": {
     "disable": [
@@ -225,10 +225,10 @@
       {
         "name": "ermaozi",
         "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt",
-        "score": 0.937,
+        "score": 0.94,
         "recommendation": "prefer",
-        "tested": 22,
-        "pass_rate": 0.955,
+        "tested": 23,
+        "pass_rate": 0.957,
         "parsed_nodes": 510,
         "consecutive_dead": 0,
         "reason": "源评分较高"
@@ -236,10 +236,10 @@
       {
         "name": "Au1rxx-base64",
         "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt",
-        "score": 0.901,
+        "score": 0.923,
         "recommendation": "prefer",
-        "tested": 320,
-        "pass_rate": 0.834,
+        "tested": 327,
+        "pass_rate": 0.856,
         "parsed_nodes": 1722,
         "consecutive_dead": 0,
         "reason": "源评分较高"
@@ -247,22 +247,11 @@
       {
         "name": "Surfboard-tg-mixed",
         "url": "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed",
-        "score": 0.9,
+        "score": 0.853,
         "recommendation": "prefer",
-        "tested": 98,
-        "pass_rate": 0.827,
+        "tested": 95,
+        "pass_rate": 0.779,
         "parsed_nodes": 7837,
-        "consecutive_dead": 0,
-        "reason": "源评分较高"
-      },
-      {
-        "name": "mheidari-all",
-        "url": "https://raw.githubusercontent.com/mheidari98/.proxy/main/all",
-        "score": 0.72,
-        "recommendation": "prefer",
-        "tested": 176,
-        "pass_rate": 0.642,
-        "parsed_nodes": 33474,
         "consecutive_dead": 0,
         "reason": "源评分较高"
       }
@@ -496,6 +485,17 @@
         "tested": 0,
         "pass_rate": null,
         "parsed_nodes": 4444,
+        "consecutive_dead": 0,
+        "reason": "证据不足或评分中性"
+      },
+      {
+        "name": "mheidari-all",
+        "url": "https://raw.githubusercontent.com/mheidari98/.proxy/main/all",
+        "score": 0.696,
+        "recommendation": "observe",
+        "tested": 162,
+        "pass_rate": 0.617,
+        "parsed_nodes": 33474,
         "consecutive_dead": 0,
         "reason": "证据不足或评分中性"
       },
@@ -1056,7 +1056,7 @@
         "recommendation": "observe",
         "tested": 0,
         "pass_rate": null,
-        "parsed_nodes": 19,
+        "parsed_nodes": 18,
         "consecutive_dead": 0,
         "reason": "证据不足或评分中性"
       },

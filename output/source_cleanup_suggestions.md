@@ -1,6 +1,6 @@
 # 订阅源清理建议
 
-生成时间：2026-10-29 22:03:21
+生成时间：2026-10-29 22:10:44
 
 本报告默认只读。修改 `config/sources.yaml` 前请人工复核。
 
@@ -10,8 +10,8 @@
 | --- | --- |
 | disable | 19 |
 | downweight | 0 |
-| prefer | 4 |
-| observe | 88 |
+| prefer | 3 |
+| observe | 89 |
 
 ## 建议禁用
 
@@ -45,10 +45,9 @@
 
 | 订阅源 | 评分 | 已测 | 通过率 | 解析数 | 连续死亡 | 原因 | URL |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ermaozi | 0.937 | 22 | 0.955 | 510 | 0 | 源评分较高 | https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt |
-| Au1rxx-base64 | 0.901 | 320 | 0.834 | 1722 | 0 | 源评分较高 | https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt |
-| Surfboard-tg-mixed | 0.9 | 98 | 0.827 | 7837 | 0 | 源评分较高 | https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed |
-| mheidari-all | 0.72 | 176 | 0.642 | 33474 | 0 | 源评分较高 | https://raw.githubusercontent.com/mheidari98/.proxy/main/all |
+| ermaozi | 0.94 | 23 | 0.957 | 510 | 0 | 源评分较高 | https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt |
+| Au1rxx-base64 | 0.923 | 327 | 0.856 | 1722 | 0 | 源评分较高 | https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt |
+| Surfboard-tg-mixed | 0.853 | 95 | 0.779 | 7837 | 0 | 源评分较高 | https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed |
 
 ## 继续观察
 
@@ -75,6 +74,7 @@
 | freefq | 0.176 | 0 | None | 14 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/freefq/free/master/v2 |
 | github_links | 0.025 | 0 | None | 0 | 1 | 证据不足或评分中性 | https://github.com/hee1310/ZnJlZW5vZGVz/blob/main/linktree/github_links.txt |
 | mahdibland-V2RayAggregator | 0.255 | 0 | None | 4444 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt |
+| mheidari-all | 0.696 | 162 | 0.617 | 33474 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/mheidari98/.proxy/main/all |
 | moneyfly1-collectSub | 0.222 | 0 | None | 1164 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/moneyfly1/collectSub/refs/heads/main/config_all_merged_nodes.txt |
 | ninja-hy2 | 0.175 | 0 | None | 3 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/ninjastrikers/v2ray-configs/main/splitted/hysteria.txt |
 | ninja-tuic | 0.175 | 0 | None | 1 | 0 | 证据不足或评分中性 | https://raw.githubusercontent.com/ninjastrikers/v2ray-configs/main/splitted/tuic.txt |
@@ -125,7 +125,7 @@
 | tg-tv2rayrr | 0.18 | 0 | None | 113 | 0 | 证据不足或评分中性 | https://t.me/s/tv2rayrr |
 | tg-v2Source | 0.177 | 0 | None | 61 | 0 | 证据不足或评分中性 | https://t.me/s/v2Source |
 | tg-v2nodes | 0.176 | 0 | None | 20 | 0 | 证据不足或评分中性 | https://t.me/s/v2nodes |
-| tg-v2ray_free_conf | 0.176 | 0 | None | 19 | 0 | 证据不足或评分中性 | https://t.me/s/v2ray_free_conf |
+| tg-v2ray_free_conf | 0.176 | 0 | None | 18 | 0 | 证据不足或评分中性 | https://t.me/s/v2ray_free_conf |
 | tg-v2raybaz | 0.176 | 0 | None | 37 | 0 | 证据不足或评分中性 | https://t.me/s/v2raybaz |
 | tg-v2rayfree | 0.175 | 0 | None | 3 | 0 | 证据不足或评分中性 | https://t.me/s/v2rayfree |
 | tg-v2raying | 0.178 | 0 | None | 86 | 0 | 证据不足或评分中性 | https://t.me/s/v2raying |
