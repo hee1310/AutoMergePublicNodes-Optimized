@@ -2,51 +2,21 @@ mixed-port: 7890
 allow-lan: false
 mode: rule
 proxies:
-- name: 🇺🇸 [352.5ms +/-4ms] vless-1945385726
-  server: 185.168.208.190
-  port: 47443
-  type: vless
-  uuid: 1fe01c8a-ab37-4e95-bbfc-95d4a608931e
-  udp: true
-  flow: xtls-rprx-vision
+- name: '[359.7ms +/-4ms] http-44.248.167.117'
+  server: 44.248.167.117
+  port: 8443
+  type: http
   tls: true
-  servername: us-1.waspguard.ru
   skip-cert-verify: true
-  reality-opts:
-    public-key: hz7rzdHvTAVwfy48pa6313yBF-sV7V0svvPVnl95bgY
-    short-id: ae97246a8f799854
-  client-fingerprint: firefox
-- name: 🇸🇪 [403.3ms +/-1ms] hysteria2-1945507344
-  server: 192.142.23.46
-  port: 443
-  type: hysteria2
-  password: a0052f4f-4c63-0002-a16f-ab2d5d718cd3
-  sni: diffoscope.com
-  skip-cert-verify: true
-- name: 🇨🇦 [310.1ms +/-36ms] trojan-1945502329
-  server: 216.152.147.79
-  port: 443
-  type: trojan
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  sni: blog.connectingpeoplewithgreatjobs.com
-  skip-cert-verify: true
-  udp: true
-- name: 🇮🇹 [508.6ms +/-2ms] shadowsocks-1875023009
+- name: 🇮🇹 [620.6ms +/-2ms] shadowsocks-1875023009
   server: 202.50.253.27
   port: 19999
   type: ss
   cipher: aes-256-gcm
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   udp: true
-- name: 🇮🇹 [514.0ms +/-2ms] shadowsocks-1875023031
-  server: 202.50.253.99
-  port: 19999
-  type: ss
-  cipher: aes-256-gcm
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  udp: true
-- name: '[263.5ms +/-2ms] vless-1944902761'
-  server: fast.145779.xyz
+- name: '[402.9ms +/-3ms] vless-1946224541'
+  server: 172.67.199.126
   port: 2053
   type: vless
   uuid: c83f15bf-1817-4ec8-a19f-6393d226434c
@@ -59,141 +29,27 @@ proxies:
     path: /ws-tesla
     headers:
       Host: fast.145779.xyz
-- name: 🇮🇹 [487.4ms +/-5ms] shadowsocks-1875023048
+- name: 🇮🇹 [618.4ms +/-3ms] shadowsocks-1875023048
   server: 202.50.253.72
   port: 19999
   type: ss
   cipher: aes-256-gcm
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   udp: true
-- name: '[386.5ms +/-2ms] http-38.247.141.135'
+- name: '[576.1ms +/-3ms] http-38.247.141.135'
   server: 38.247.141.135
   port: 443
   type: http
   tls: true
   skip-cert-verify: true
-- name: 🇮🇹 [519.5ms +/-4ms] shadowsocks-1875023019
+- name: 🇮🇹 [633.8ms +/-9ms] shadowsocks-1875023019
   server: 202.50.253.63
   port: 19999
   type: ss
   cipher: aes-256-gcm
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   udp: true
-- name: 🇮🇹 [530.7ms +/-2ms] shadowsocks-1875023050
-  server: 202.50.253.36
-  port: 19999
-  type: ss
-  cipher: aes-256-gcm
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  udp: true
-- name: 🇫🇷 [351.0ms +/-1ms] vless-1946055078
-  server: 82.22.2.225
-  port: 443
-  type: vless
-  uuid: 7b22dce8-7ebd-425b-8ca4-7b6190321985
-  udp: true
-  tls: true
-  servername: b-wl.fr-2.bnc-gt.co.uk
-  skip-cert-verify: true
-  network: grpc
-  grpc-opts:
-    grpc-service-name: grpc
-- name: '[361.6ms +/-0ms] vless-1946593165'
-  server: 189.74.114.119
-  port: 443
-  type: vless
-  uuid: abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5
-  udp: true
-  tls: true
-  servername: api.mediaklenov.cc
-  skip-cert-verify: true
-  network: grpc
-  grpc-opts:
-    grpc-service-name: 3e99d50d5740985d
-- name: 🇮🇹 [506.7ms +/-2ms] shadowsocks-1875022975
-  server: 202.50.253.81
-  port: 19999
-  type: ss
-  cipher: aes-256-gcm
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  udp: true
-- name: '[401.2ms +/-2ms] vless-1946595158'
-  server: 5.149.249.94
-  port: 443
-  type: vless
-  uuid: ed77c1dc-3df2-412b-b855-49286f979c21
-  udp: true
-  tls: true
-  servername: nlb.kosmosapp.net
-  skip-cert-verify: true
-  reality-opts:
-    public-key: pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ
-    short-id: 27350908de933e09
-  client-fingerprint: firefox
-  network: grpc
-  grpc-opts:
-    grpc-service-name: neurex
-- name: 🇨🇭 [538.7ms +/-6ms] trojan-1945021228
-  server: 208.69.78.19
-  port: 443
-  type: trojan
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  sni: www.yourultimateprofessionalcareerhub.com
-  skip-cert-verify: true
-  udp: true
-- name: 🇮🇹 [559.8ms +/-2ms] shadowsocks-1875023007
-  server: 202.50.253.45
-  port: 19999
-  type: ss
-  cipher: aes-256-gcm
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  udp: true
-- name: 🇳🇱 [495.1ms +/-2ms] vless-1935750593
-  server: 185.14.30.98
-  port: 8443
-  type: vless
-  uuid: f5e70ce3-cfb4-4df1-b25c-d19bfae627c0
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  servername: twitch.tv
-  skip-cert-verify: true
-  reality-opts:
-    public-key: Q0dPyF2hFWgxL7hxntJWJammcb6zcRCyA-NOiOFrsAo
-    short-id: 1433a38abea1191c
-  client-fingerprint: safari
-- name: 🇯🇵 [476.4ms +/-3ms] vless-1946596126
-  server: 31.76.91.31
-  port: 443
-  type: vless
-  uuid: 7b22dce8-7ebd-425b-8ca4-7b6190321985
-  udp: true
-  tls: true
-  servername: b.jp-1.bnc-gt.co.uk
-  skip-cert-verify: true
-  network: grpc
-  grpc-opts:
-    grpc-service-name: grpc
-- name: '[440.0ms +/-4ms] http-44.248.167.117'
-  server: 44.248.167.117
-  port: 8443
-  type: http
-  tls: true
-  skip-cert-verify: true
-- name: '[460.8ms +/-1ms] http-34.249.214.108'
-  server: 34.249.214.108
-  port: 443
-  type: http
-  tls: true
-  skip-cert-verify: true
-- name: '[489.1ms +/-4ms] shadowsocks-1875022930'
-  server: 202.50.253.18
-  port: 19999
-  type: ss
-  cipher: aes-256-gcm
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  udp: true
-- name: '[423.7ms +/-2ms] @tootffarangi🍓'
+- name: '[374.6ms +/-3ms] @pass_net🎃🕸️🎃'
   server: 151.101.36.120
   port: 443
   type: trojan
@@ -206,21 +62,8 @@ proxies:
     path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
     headers:
       Host: mitivpn--mitivpn.ac.ir
-- name: '[455.6ms +/-5ms] 🇫🇷'
-  server: 212.183.88.136
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[373.3ms +/-2ms] vless-1946594163'
-  server: api.mediaklenov.cc
+- name: 🇷🇺 [607.9ms +/-2ms] vless-1946593165
+  server: 189.74.114.119
   port: 443
   type: vless
   uuid: abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5
@@ -231,89 +74,42 @@ proxies:
   network: grpc
   grpc-opts:
     grpc-service-name: 3e99d50d5740985d
-- name: '[519.8ms +/-2ms] http-158.173.154.5'
+- name: 🇳🇱 [478.2ms +/-1ms] vless-1947293818
+  server: 5.149.248.151
+  port: 443
+  type: vless
+  uuid: a1195f62-7dc3-48c0-8d65-7eeaf3c2df40
+  udp: true
+  tls: true
+  servername: nla.kosmosapp.net
+  skip-cert-verify: true
+  reality-opts:
+    public-key: pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ
+    short-id: 27350908de933e09
+  client-fingerprint: firefox
+  network: grpc
+  grpc-opts:
+    grpc-service-name: neurex
+- name: '[716.6ms +/-4ms] http-158.173.154.5'
   server: 158.173.154.5
   port: 9002
   type: http
   tls: true
   skip-cert-verify: true
-- name: '[553.9ms +/-1ms] http-84.17.47.125'
-  server: 84.17.47.125
+- name: '[721.0ms +/-2ms] http-158.173.154.1'
+  server: 158.173.154.1
   port: 9002
   type: http
   tls: true
   skip-cert-verify: true
-- name: '[485.4ms +/-8ms] vless-1946061464'
-  server: 45.144.52.187
-  port: 443
-  type: vless
-  uuid: 7b22dce8-7ebd-425b-8ca4-7b6190321985
-  udp: true
-  tls: true
-  servername: b.fi-1.bnc-gt.co.uk
-  skip-cert-verify: true
-  network: grpc
-  grpc-opts:
-    grpc-service-name: grpc
-- name: 🇮🇹 [703.7ms +/-3ms] shadowsocks-1875022929
-  server: 202.50.253.90
-  port: 19999
-  type: ss
-  cipher: aes-256-gcm
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  udp: true
-- name: '[531.2ms +/-13ms] 🇨🇦202913'
-  server: 104.17.0.1
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[605.0ms +/-2ms] http-82.65.162.76'
-  server: 82.65.162.76
-  port: 443
-  type: http
-  tls: true
-  skip-cert-verify: true
-- name: '[561.2ms +/-17ms] http-84.17.47.124'
-  server: 84.17.47.124
-  port: 9002
-  type: http
-  tls: true
-  skip-cert-verify: true
-- name: '[587.9ms +/-4ms] http-84.17.47.148'
-  server: 84.17.47.148
-  port: 9002
-  type: http
-  tls: true
-  skip-cert-verify: true
-- name: '[603.8ms +/-2ms] http-213.109.163.119'
+- name: '[772.5ms +/-3ms] http-213.109.163.119'
   server: 213.109.163.119
   port: 443
   type: http
   tls: true
   skip-cert-verify: true
-- name: '[451.0ms +/-1ms] 4Mohsen-0359eb4116'
-  server: 141.101.115.104
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[443.4ms +/-1ms] @tootffarangi🍓'
-  server: 146.75.57.120
+- name: '[381.1ms +/-5ms] @mehrosaboran'
+  server: 199.232.78.120
   port: 443
   type: trojan
   password: MiTiVPN
@@ -322,230 +118,22 @@ proxies:
   udp: true
   network: ws
   ws-opts:
-    path: /---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN
+    path: /
     headers:
       Host: mitivpn--mitivpn.ac.ir
-- name: '[450.2ms +/-2ms] 4Mohsen-28c1e109ec'
-  server: 172.67.217.240
+- name: '[793.6ms +/-1ms] http-82.65.162.76'
+  server: 82.65.162.76
   port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
+  type: http
+  tls: true
   skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[387.8ms +/-2ms] 4Mohsen-f18a98b302'
-  server: 2.28.226.197
-  port: 443
-  type: hysteria2
-  password: 24266838d888d903594cc6e33910aeeb
-  sni: vpn.172908710.dpdns.org
-  skip-cert-verify: true
-  obfs: salamander
-  obfs-password: 27b960aa5b199a215c3a84fd4818e5d2
-- name: '[598.9ms +/-6ms] http-84.17.47.149'
+- name: '[809.8ms +/-4ms] http-84.17.47.149'
   server: 84.17.47.149
   port: 9002
   type: http
   tls: true
   skip-cert-verify: true
-- name: '[458.5ms +/-3ms] 4Jadi-f9c3a2c979'
-  server: 104.16.72.2
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[597.8ms +/-10ms] http-84.17.47.123'
-  server: 84.17.47.123
-  port: 9002
-  type: http
-  tls: true
-  skip-cert-verify: true
-- name: '[469.2ms +/-2ms] 4Kian-20bc7d40d5'
-  server: 104.20.6.134
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[469.9ms +/-3ms] 4Jadi-c2e6ff7722'
-  server: 104.18.37.228
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[453.2ms +/-15ms] 4Jadi-e9e54a67be'
-  server: 104.18.19.2
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: //assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[476.8ms +/-3ms] @pass_net🎃🕸️🎃'
-  server: 104.18.8.83
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[470.8ms +/-3ms] 4FreeIran-0d4214d2c4'
-  server: 45.130.125.190
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[468.2ms +/-10ms] 4Mohsen-6e716badfc'
-  server: 104.17.121.9
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[479.2ms +/-9ms] 4Kian-1c86882a96'
-  server: 172.64.150.28
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[561.2ms +/-4ms] @FarazV2ray'
-  server: 208.69.78.29
-  port: 443
-  type: trojan
-  password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-  sni: learn.yourultimateprofessionalcareerhub.com
-  skip-cert-verify: true
-  udp: true
-- name: '[647.4ms +/-7ms] http-51.159.225.196'
-  server: 51.159.225.196
-  port: 23856
-  type: http
-  username: 'null'
-  password: 'null'
-  tls: true
-  skip-cert-verify: true
-- name: '[618.8ms +/-2ms] http-51.159.225.197'
-  server: 51.159.225.197
-  port: 19362
-  type: http
-  tls: true
-  skip-cert-verify: true
-- name: '[628.1ms +/-17ms] http-158.173.154.1'
-  server: 158.173.154.1
-  port: 9002
-  type: http
-  tls: true
-  skip-cert-verify: true
-- name: '[506.8ms +/-6ms] 🚀@VPNine1'
-  server: 104.17.121.71
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[491.8ms +/-11ms] @VPsave'
-  server: 201.58.183.42
-  port: 443
-  type: vless
-  uuid: 50a87e21-f0e2-4b53-a787-91adfe748f63
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  servername: 13oktober.live
-  skip-cert-verify: true
-  reality-opts:
-    public-key: y0wgEdmPNIKlAMJHeC0teOW_fBnX8tmRE8n1CwOZSwU
-    short-id: ''
-  client-fingerprint: chrome
-- name: '[459.3ms +/-1ms] @VPsave'
-  server: 94.249.189.41
-  port: 43000
-  type: vless
-  uuid: cec0cf85-cf9f-44ce-9eb0-cb1f9b8d7ba1
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  servername: 94.249.189.41
-  skip-cert-verify: true
-  reality-opts:
-    public-key: YagqjrSaICX5_qhcRvWOfM_yatBa5FtJexO9IlZeIEo
-    short-id: 093e1846
-  client-fingerprint: chrome
-- name: '[544.8ms +/-5ms] @ConfigV2RayNG'
-  server: 104.17.148.22
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: 🇮🇹 [794.7ms +/-4ms] vless-1930538329
+- name: 🇮🇹 [720.6ms +/-0ms] vless-1930538329
   server: 147.45.51.171
   port: 8443
   type: vless
@@ -559,139 +147,122 @@ proxies:
     public-key: dPa581kev2x9-st7VQ-DTh3NjXlHJ2830YDySuI8n2U
     short-id: e723d26df67888b9
   client-fingerprint: firefox
-- name: '[470.0ms +/-2ms] 4Jadi-362b39a19c'
-  server: 162.159.140.245
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[456.5ms +/-1ms] 4Jadi-0f7a9f43f3'
-  server: 104.18.12.149
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[524.7ms +/-1ms] 4FreeIran-4dd82db815'
-  server: 188.114.97.8
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.pleadcourt.org
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.pleadcourt.org
-- name: '[473.1ms +/-3ms] 4Sarina-2d889a5ab7'
-  server: 104.18.33.97
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: //assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[476.8ms +/-1ms] 4Sarina-dcf22bb81e'
-  server: 104.25.124.54
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: //assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[478.2ms +/-8ms] 4Kian-b136b572f9'
-  server: 172.64.153.61
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[611.6ms +/-3ms] 4FreeIran-418618b6e4'
-  server: 57.128.183.108
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.pleadcourt.org
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.pleadcourt.org
-- name: '[544.7ms +/-56ms] @pass_net🎃🕸️🎃'
-  server: 88.216.69.253
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.pleadcourt.org
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.pleadcourt.org
-- name: '[790.6ms +/-3ms] http-185.219.159.16'
-  server: 185.219.159.16
-  port: 443
-  type: http
-  tls: true
-  skip-cert-verify: true
-- name: '[736.6ms +/-7ms] http-103.97.88.154'
-  server: 103.97.88.154
-  port: 443
+- name: '[833.0ms +/-3ms] http-51.159.225.196'
+  server: 51.159.225.196
+  port: 23856
   type: http
   username: 'null'
   password: 'null'
   tls: true
   skip-cert-verify: true
-- name: '[497.1ms +/-1ms] 4FreeIran-4c06e360a8'
-  server: 104.234.239.139
+- name: '[405.2ms +/-0ms] vless-1947401655'
+  server: www.speedtest.net
+  port: 443
+  type: vless
+  uuid: ec23f217-23a1-4f62-b98d-ba56070de89c
+  udp: true
+  tls: true
+  servername: wallweb4.pages.dev
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /fp=chrome
+    headers:
+      Host: wallweb4.pages.dev
+- name: 🇳🇱 [729.1ms +/-9ms] vless-1935750593
+  server: 185.14.30.98
+  port: 8443
+  type: vless
+  uuid: f5e70ce3-cfb4-4df1-b25c-d19bfae627c0
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: twitch.tv
+  skip-cert-verify: true
+  reality-opts:
+    public-key: Q0dPyF2hFWgxL7hxntJWJammcb6zcRCyA-NOiOFrsAo
+    short-id: 1433a38abea1191c
+  client-fingerprint: safari
+- name: '[652.7ms +/-6ms] @pass_net🎃🕸️🎃'
+  server: 212.183.88.136
   port: 443
   type: trojan
-  password: 70756c73-0000-4000-8000-650000000000
-  sni: parsa-panel-u48we.wotic15356.workers.dev
+  password: humanity
+  sni: www.calmlunch.com
   skip-cert-verify: true
   udp: true
   network: ws
   ws-opts:
-    path: /pulse
+    path: //assignment
     headers:
-      Host: parsa-panel-u48we.wotic15356.workers.dev
-- name: '[620.7ms +/-28ms] @tootffarangi🍓'
-  server: 5.44.46.142
+      Host: www.calmlunch.com
+- name: '[846.2ms +/-4ms] http-84.17.47.124'
+  server: 84.17.47.124
+  port: 9002
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[703.7ms +/-12ms] http-149.36.50.157'
+  server: 149.36.50.157
+  port: 443
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[893.4ms +/-0ms] http-84.17.47.123'
+  server: 84.17.47.123
+  port: 9002
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[450.0ms +/-203ms] vless-1944902761'
+  server: fast.145779.xyz
+  port: 2053
+  type: vless
+  uuid: c83f15bf-1817-4ec8-a19f-6393d226434c
+  udp: true
+  tls: true
+  servername: fast.145779.xyz
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /ws-tesla
+    headers:
+      Host: fast.145779.xyz
+- name: '[549.0ms +/-2ms] vless-1947250691'
+  server: api.mediaklenov.cc
+  port: 443
+  type: vless
+  uuid: abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5
+  udp: true
+  tls: true
+  servername: api.mediaklenov.cc
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: 3e99d50d5740985d
+- name: '[799.6ms +/-0ms] http-185.164.138.156'
+  server: 185.164.138.156
+  port: 443
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[494.8ms +/-1ms] 4Mohsen-f18a98b302'
+  server: 2.28.226.197
+  port: 443
+  type: hysteria2
+  password: 24266838d888d903594cc6e33910aeeb
+  sni: vpn.172908710.dpdns.org
+  skip-cert-verify: true
+  obfs: salamander
+  obfs-password: 27b960aa5b199a215c3a84fd4818e5d2
+- name: '[937.8ms +/-5ms] http-84.17.47.148'
+  server: 84.17.47.148
+  port: 9002
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[622.1ms +/-3ms] 4Jadi-661f0ef3b2'
+  server: 104.17.0.1
   port: 443
   type: trojan
   password: humanity
@@ -703,20 +274,237 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: '[527.5ms +/-6ms] 4Jadi-8dd5af2945'
-  server: 188.114.97.5
+- name: '[459.5ms +/-0ms] 4Nika-9d3b68ad0c'
+  server: jp005.421421.xyz
+  port: 20230
+  type: trojan
+  password: 0400697c-b581-4575-9d2f-0bbd4659312d
+  sni: www.alibaba.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers: {}
+- name: '[839.3ms +/-83ms] http-51.159.225.197'
+  server: 51.159.225.197
+  port: 19362
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[960.7ms +/-8ms] http-31.186.220.204'
+  server: 31.186.220.204
+  port: 443
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: 🇮🇹 [1052.0ms +/-48ms] shadowsocks-1875022929
+  server: 202.50.253.90
+  port: 19999
+  type: ss
+  cipher: aes-256-gcm
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  udp: true
+- name: '[631.7ms +/-8ms] 4Mohsen-0359eb4116'
+  server: 141.101.115.104
   port: 443
   type: trojan
   password: humanity
-  sni: www.pleadcourt.org
+  sni: www.calmlunch.com
   skip-cert-verify: true
   udp: true
   network: ws
   ws-opts:
     path: /assignment
     headers:
-      Host: www.pleadcourt.org
-- name: '[556.5ms +/-1ms] 4Mohsen-81a94351d2'
+      Host: www.calmlunch.com
+- name: '[902.8ms +/-52ms] http-84.17.47.125'
+  server: 84.17.47.125
+  port: 9002
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[645.7ms +/-11ms] 4Jadi-e9e54a67be'
+  server: 104.18.19.2
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: //assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[646.3ms +/-10ms] 4Mohsen-28c1e109ec'
+  server: 172.67.217.240
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[662.5ms +/-8ms] 4Jadi-c2e6ff7722'
+  server: 104.18.37.228
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[586.9ms +/-5ms] 🇦🇺AU_4|123KB/s|R002-260618 01'
+  server: 152.67.115.203
+  port: 443
+  type: hysteria2
+  password: 633bc3be486b646190661ac2387c150a
+  sni: www.bing.com
+  skip-cert-verify: true
+  obfs: salamander
+  obfs-password: 850a3fb1cd33a28f12d837578ae1a2e7
+- name: '[656.5ms +/-15ms] 4Kian-1c86882a96'
+  server: 172.64.150.28
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[659.2ms +/-13ms] 4FreeIran-f1680a3201'
+  server: 104.16.72.2
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[674.3ms +/-14ms] 4FreeIran-0d4214d2c4'
+  server: 45.130.125.190
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[671.2ms +/-12ms] 4Kian-20bc7d40d5'
+  server: 104.20.6.134
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[940.4ms +/-10ms] http-83.206.1.225'
+  server: 83.206.1.225
+  port: 8090
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[883.2ms +/-2ms] http-37.120.213.210'
+  server: 37.120.213.210
+  port: 9443
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[659.8ms +/-18ms] 🇫🇷'
+  server: 104.16.72.41
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[928.2ms +/-2ms] http-146.70.244.2'
+  server: 146.70.244.2
+  port: 443
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[903.6ms +/-21ms] http-185.183.105.146'
+  server: 185.183.105.146
+  port: 443
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[943.7ms +/-0ms] http-146.70.242.130'
+  server: 146.70.242.130
+  port: 443
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[953.1ms +/-5ms] http-185.216.35.130'
+  server: 185.216.35.130
+  port: 443
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[949.4ms +/-11ms] http-146.70.242.146'
+  server: 146.70.242.146
+  port: 443
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[708.8ms +/-19ms] @ConfigV2RayNG'
+  server: 104.17.148.22
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[1138.6ms +/-1ms] http-185.219.159.16'
+  server: 185.219.159.16
+  port: 443
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[906.6ms +/-44ms] http-146.70.244.18'
+  server: 146.70.244.18
+  port: 443
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[745.8ms +/-2ms] 🇫🇷'
   server: 185.114.72.31
   port: 2053
   type: trojan
@@ -729,112 +517,53 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: '[812.8ms +/-24ms] http-31.186.220.204'
-  server: 31.186.220.204
-  port: 443
-  type: http
-  tls: true
-  skip-cert-verify: true
-- name: '[538.6ms +/-5ms] 4Mohsen-564111d142'
-  server: 104.18.192.53
+- name: '[629.3ms +/-3ms] 4Sarina-dcf22bb81e'
+  server: 104.25.124.54
   port: 443
   type: trojan
   password: humanity
-  sni: www.pleadcourt.org
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: //assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[657.7ms +/-6ms] 4Sarina-2d889a5ab7'
+  server: 104.18.33.97
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: //assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[666.1ms +/-4ms] 4Jadi-0f7a9f43f3'
+  server: 104.18.12.149
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
   skip-cert-verify: true
   udp: true
   network: ws
   ws-opts:
     path: /assignment
     headers:
-      Host: www.pleadcourt.org
-- name: '[515.6ms +/-2ms] 4Sarina-6cdb2ca8e8'
-  server: 144.31.140.125
-  port: 8443
-  type: vless
-  uuid: f5e70ce3-cfb4-4df1-b25c-d19bfae627c0
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  servername: twitch.tv
-  skip-cert-verify: true
-  reality-opts:
-    public-key: wgyw3OxZw4HEzedNdY_eHdcVkrtT7GEeZSHfzcZ8iDo
-    short-id: 168c15efac9df5fd
-  client-fingerprint: firefox
-- name: '[558.9ms +/-7ms] 4Kian-c88d45ced9'
-  server: 104.25.10.54
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.pleadcourt.org
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.pleadcourt.org
-- name: '[827.3ms +/-3ms] @pass_net🎃🕸️🎃🇨🇷'
-  server: 190.93.245.148
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.pleadcourt.org
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.pleadcourt.org
-- name: '[913.7ms +/-1ms] http-185.219.159.15'
+      Host: www.calmlunch.com
+- name: '[1195.7ms +/-1ms] http-185.219.159.15'
   server: 185.219.159.15
   port: 443
   type: http
   tls: true
   skip-cert-verify: true
-- name: '[781.3ms +/-1ms] @FarazV2ray'
-  server: 172.64.145.133
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.pleadcourt.org
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.pleadcourt.org
-- name: '[690.6ms +/-31ms] @ICV2RAY'
-  server: 95.85.54.197
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.pleadcourt.org
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.pleadcourt.org
-- name: '[587.5ms +/-2ms] 4Kian-f5f14b5287'
-  server: 188.114.97.1
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.pleadcourt.org
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.pleadcourt.org
-- name: 🇩🇪 [670.3ms +/-3ms] 4Nika-e671a7d9cf
-  server: 185.220.100.168
+- name: '[694.9ms +/-7ms] 4Sarina-595948fa49'
+  server: 104.21.13.204
   port: 443
   type: trojan
   password: humanity
@@ -846,140 +575,8 @@ proxies:
     path: /assignment
     headers:
       Host: www.calmlunch.com
-- name: '[573.7ms +/-2ms] 4Jadi-30209cfd51'
-  server: 185.22.155.121
-  port: 18443
-  type: ss
-  cipher: aes-256-gcm
-  password: NTiHBg64fsY8u8DbGrtypD9gPGSL386p
-  udp: true
-- name: '[830.3ms +/-5ms] 4Sarina-5df0730adb'
-  server: 91.245.225.79
-  port: 2053
-  type: trojan
-  password: humanity
-  sni: www.calmlunch.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.calmlunch.com
-- name: '[846.3ms +/-3ms] vless-1943108707'
-  server: n04.jinggai.online
-  port: 8443
-  type: vless
-  uuid: 91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a
-  udp: true
-  tls: true
-  servername: n04.jinggai.online
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /nvl-n04-ws/e0577fe8fd7c8823
-    headers:
-      Host: n04.jinggai.online
-- name: '[668.8ms +/-82ms] 4Jadi-04e4d8e9ae'
-  server: 153.92.127.26
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.pleadcourt.org
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.pleadcourt.org
-- name: '[557.0ms +/-2ms] 4Sarina-7314697a4f'
-  server: 128.241.25.11
-  port: 30021
-  type: vless
-  uuid: 088b8483-f76b-46be-b710-4f756a0fe487
-  udp: true
-  tls: true
-  servername: 8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /@Marisa_kristi
-    headers:
-      Host: 8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev
-- name: '[750.4ms +/-89ms] 4Kian-456531a680'
-  server: 162.159.84.189
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.trusteeforward.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.trusteeforward.com
-- name: '[636.1ms +/-0ms] 4Kian-358857ac06'
-  server: 8.6.112.242
-  port: 443
-  type: vless
-  uuid: 64726966-0000-4000-8000-740000000000
-  udp: true
-  tls: true
-  servername: parsa-panel-dy55x.railway1385-2a46.workers.dev
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: parsa-panel-dy55x.railway1385-2a46.workers.dev
-- name: '[478.9ms +/-2ms] 4FreeIran-09d2759cfd'
-  server: 104.21.64.198
-  port: 2086
-  type: vless
-  uuid: 73796e63-0000-4000-8000-000000000007
-  udp: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev
-- name: '[533.1ms +/-1ms] 4Jadi-a32cd2a5a1'
-  server: 172.67.155.136
-  port: 2086
-  type: vless
-  uuid: 73796e63-0000-4000-8000-000000000007
-  udp: true
-  network: ws
-  ws-opts:
-    path: /sync
-    headers:
-      Host: vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev
-- name: '[691.6ms +/-5ms] 🇦🇺AU_4|123KB/s|R002-260618 01'
-  server: 152.67.115.203
-  port: 443
-  type: hysteria2
-  password: 633bc3be486b646190661ac2387c150a
-  sni: www.bing.com
-  skip-cert-verify: true
-  obfs: salamander
-  obfs-password: 850a3fb1cd33a28f12d837578ae1a2e7
-- name: '[869.1ms +/-43ms] 4Sarina-5fc58a0a86'
-  server: 104.17.206.147
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.trusteeforward.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.trusteeforward.com
-- name: '[816.6ms +/-0ms] 4Jadi-88d106e77c'
-  server: 172.67.166.188
+- name: '[601.8ms +/-6ms] @tootffarangi🍓'
+  server: 104.17.11.191
   port: 443
   type: vless
   uuid: fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349
@@ -992,7 +589,191 @@ proxies:
     path: /vlessws
     headers:
       Host: vpn.cintaku.qzz.io
-- name: '[816.2ms +/-1ms] 4Mohsen-b9c7cdaf18'
+- name: '[667.7ms +/-4ms] @VPsave'
+  server: 150.241.79.124
+  port: 443
+  type: vless
+  uuid: 1fe01c8a-ab37-4e95-bbfc-95d4a608931e
+  udp: true
+  flow: xtls-rprx-vision
+  tls: true
+  servername: de1.waspnest.space
+  skip-cert-verify: true
+  reality-opts:
+    public-key: dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM
+    short-id: 5212dad2aa9723d7
+  client-fingerprint: chrome
+- name: '[811.9ms +/-62ms] @B2Hub'
+  server: 202.50.253.18
+  port: 19999
+  type: ss
+  cipher: aes-256-gcm
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  udp: true
+- name: '[621.9ms +/-1ms] @tootffarangi🍓'
+  server: vpn.cintaku.qzz.io
+  port: 443
+  type: vless
+  uuid: fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349
+  udp: true
+  tls: true
+  servername: vpn.cintaku.qzz.io
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /vlessws
+    headers:
+      Host: vpn.cintaku.qzz.io
+- name: 🇮🇹 [712.3ms +/-35ms] @V2ray_Alpha🌴
+  server: 202.50.253.81
+  port: 19999
+  type: ss
+  cipher: aes-256-gcm
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  udp: true
+- name: '[954.6ms +/-108ms] http-37.120.156.34'
+  server: 37.120.156.34
+  port: 443
+  type: http
+  tls: true
+  skip-cert-verify: true
+- name: '[894.4ms +/-187ms] vless-1832764138'
+  server: 104.17.210.74
+  port: 443
+  type: vless
+  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
+  udp: true
+  tls: true
+  servername: jp3.yohototo.top
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tyxyws
+    headers:
+      Host: jp3.yohototo.top
+- name: '[912.7ms +/-7ms] @prrofile_purple'
+  server: 141.193.213.172
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[769.7ms +/-5ms] 🇷🇺203170'
+  server: 185.22.155.121
+  port: 18443
+  type: ss
+  cipher: aes-256-gcm
+  password: NTiHBg64fsY8u8DbGrtypD9gPGSL386p
+  udp: true
+- name: '[781.4ms +/-19ms] 4Mohsen-fd99ebedc1'
+  server: 104.18.49.85
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.trusteeforward.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.trusteeforward.com
+- name: 🇩🇪 [817.0ms +/-1ms] 4Nika-e671a7d9cf
+  server: 185.220.100.168
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[1062.2ms +/-4ms] vless-1939847000'
+  server: sg2-xr.zgrelay.com
+  port: 443
+  type: vless
+  uuid: E221699D-E705-4664-9162-A75A82AA3997
+  udp: true
+  tls: true
+  servername: sg2-xr.zgrelay.com
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /700gvl-kr3
+    headers:
+      Host: sg2-xr.zgrelay.com
+- name: '[812.6ms +/-11ms] 4Mohsen-6780fe3fa1'
+  server: 104.16.223.61
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.trusteeforward.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.trusteeforward.com
+- name: '[1078.0ms +/-35ms] 🇨🇦203183'
+  server: 162.159.84.189
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.trusteeforward.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.trusteeforward.com
+- name: '[949.9ms +/-210ms] vless-1863474247'
+  server: 104.21.34.106
+  port: 443
+  type: vless
+  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
+  udp: true
+  tls: true
+  servername: jp3.yohototo.top
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tyxyws
+    headers:
+      Host: jp3.yohototo.top
+- name: '[832.4ms +/-4ms] 4Mohsen-a7ea4d8b2d'
+  server: en001.zestapp778.com
+  port: 29813
+  type: trojan
+  password: 5t6i121em5lkmsmk
+  sni: en001.zestapp778.com
+  skip-cert-verify: true
+  udp: true
+- name: '[835.1ms +/-4ms] @tootffarangi🍓'
+  server: 155.212.240.10
+  port: 443
+  type: vless
+  uuid: f27b6f65-6e59-4f89-b929-afa397ca587f
+  udp: true
+  tls: true
+  servername: n.bitpulse.me
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /019bcbad-3813-7cce-8786-3ac0e418f128
+    headers:
+      Host: n.bitpulse.me
+- name: '[699.3ms +/-57ms] 4Mohsen-b9c7cdaf18'
   server: 104.21.91.49
   port: 443
   type: vless
@@ -1006,21 +787,8 @@ proxies:
     path: /vlessws
     headers:
       Host: vpn.cintaku.qzz.io
-- name: '[1184.7ms +/-3ms] @FarazV2ray'
-  server: 108.162.194.134
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.pleadcourt.org
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.pleadcourt.org
-- name: '[826.4ms +/-12ms] 4Jadi-45c3c99988'
-  server: 8.35.211.242
+- name: '[699.3ms +/-83ms] 4Jadi-88d106e77c'
+  server: 172.67.166.188
   port: 443
   type: vless
   uuid: fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349
@@ -1033,34 +801,14 @@ proxies:
     path: /vlessws
     headers:
       Host: vpn.cintaku.qzz.io
-- name: '[810.7ms +/-6ms] 4FreeIran-39aa34720b'
-  server: 23.27.20.142
-  port: 48537
-  type: vless
-  uuid: 0b583bdc-401c-4715-bfec-500a25584133
+- name: 🇮🇹 [762.6ms +/-266ms] @v2ray_configs_pools
+  server: 202.50.253.45
+  port: 19999
+  type: ss
+  cipher: aes-256-gcm
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   udp: true
-  tls: true
-  servername: 8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /@Marisa_kristi
-    headers:
-      Host: 8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev
-- name: '[1283.5ms +/-10ms] @ICV2RAY'
-  server: 172.66.1.36
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.pleadcourt.org
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.pleadcourt.org
-- name: '[1803.1ms +/-9ms] Channel'
+- name: '[1036.1ms +/-50ms] Channel'
   server: 104.20.55.137
   port: 443
   type: trojan
@@ -1073,8 +821,61 @@ proxies:
     path: /assignment
     headers:
       Host: www.trusteeforward.com
-- name: '[956.5ms +/-171ms] 4Mohsen-6780fe3fa1'
-  server: 104.16.223.61
+- name: '[993.9ms +/-320ms] vless-1867102735'
+  server: 104.19.48.107
+  port: 443
+  type: vless
+  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
+  udp: true
+  tls: true
+  servername: jp3.yohototo.top
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tyxyws
+    headers:
+      Host: jp3.yohototo.top
+- name: '[1425.2ms +/-0ms] @tootffarangi🍓'
+  server: 104.17.175.201
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[1447.6ms +/-2ms] trojan-104.26.0.1'
+  server: 104.26.0.1
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[1420.2ms +/-4ms] trojan-104.16.0.1'
+  server: 104.16.0.1
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: //assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[1720.6ms +/-72ms] @ConfigV2RayNG'
+  server: 104.18.37.127
   port: 443
   type: trojan
   password: humanity
@@ -1086,93 +887,115 @@ proxies:
     path: /assignment
     headers:
       Host: www.trusteeforward.com
-- name: '[1459.1ms +/-72ms] 4Mohsen-a167b98104'
+- name: '[691.3ms +/-245ms] 4Kian-b136b572f9'
+  server: 172.64.153.61
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.calmlunch.com
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.calmlunch.com
+- name: '[1037.1ms +/-305ms] vless-1832764140'
+  server: 172.67.156.147
+  port: 443
+  type: vless
+  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
+  udp: true
+  tls: true
+  servername: jp3.yohototo.top
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tyxyws
+    headers:
+      Host: jp3.yohototo.top
+- name: '[729.2ms +/-145ms] 4Mohsen-0609e0e76f'
+  server: 104.17.108.213
+  port: 443
+  type: vless
+  uuid: fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349
+  udp: true
+  tls: true
+  servername: vpn.cintaku.qzz.io
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /vlessws
+    headers:
+      Host: vpn.cintaku.qzz.io
+- name: 🇯🇵 [1031.4ms +/-363ms] vless-1946596126
+  server: 31.76.91.31
+  port: 443
+  type: vless
+  uuid: 7b22dce8-7ebd-425b-8ca4-7b6190321985
+  udp: true
+  tls: true
+  servername: b.jp-1.bnc-gt.co.uk
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: grpc
+- name: 🇮🇹 [1252.9ms +/-142ms] 🇮🇹
+  server: 202.50.253.36
+  port: 19999
+  type: ss
+  cipher: aes-256-gcm
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  udp: true
+- name: '[1831.0ms +/-162ms] @tootffarangi🍓'
+  server: 104.18.192.53
+  port: 443
+  type: trojan
+  password: humanity
+  sni: www.pleadcourt.org
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  ws-opts:
+    path: /assignment
+    headers:
+      Host: www.pleadcourt.org
+- name: '[1157.9ms +/-1302ms] vless-1827152152'
+  server: 104.21.0.87
+  port: 443
+  type: vless
+  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
+  udp: true
+  tls: true
+  servername: jp3.yohototo.top
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tyxyws
+    headers:
+      Host: jp3.yohototo.top
+- name: '[1273.2ms +/-73ms] @ConfigV2RayNG'
+  server: 79.182.39.37
+  port: 27591
+  type: vless
+  uuid: 056405e8-de9f-4d0d-8145-956f13cc34da
+  udp: true
+  tls: true
+  servername: www.samsung.com
+  skip-cert-verify: true
+  reality-opts:
+    public-key: LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM
+    short-id: 6c5c7900406a1ae7
+  client-fingerprint: chrome
+- name: 🇮🇹 [1123.0ms +/-287ms] 🇮🇹
+  server: 202.50.253.99
+  port: 19999
+  type: ss
+  cipher: aes-256-gcm
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  udp: true
+- name: '[1331.3ms +/-429ms] @tootffarangi🍓'
   server: 104.16.34.14
-  port: 443
-  type: trojan
-  password: humanity
-  sni: www.trusteeforward.com
-  skip-cert-verify: true
-  udp: true
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.trusteeforward.com
-- name: '[1260.6ms +/-476ms] vless-1827151478'
-  server: 104.16.111.102
-  port: 443
-  type: vless
-  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
-  udp: true
-  tls: true
-  servername: jp3.yohototo.top
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /tyxyws
-    headers:
-      Host: jp3.yohototo.top
-- name: '[1340.0ms +/-33ms] @VPsave'
-  server: 103.133.1.160
-  port: 80
-  type: vless
-  uuid: eaf76557-2219-4799-8171-d7020adfefd0
-  udp: true
-  network: ws
-  ws-opts:
-    path: /ws
-    headers:
-      Host: soft-shadow-1e33.xicav73335.workers.dev
-- name: '[1292.5ms +/-266ms] vless-1944436569'
-  server: sg2-xr.zgrelay.com
-  port: 443
-  type: vless
-  uuid: E221699D-E705-4664-9162-A75A82AA3997
-  udp: true
-  tls: true
-  servername: sg2-xr.zgrelay.com
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /700gvl-kr3
-    headers: {}
-- name: '[1839.1ms +/-471ms] vless-1878721256'
-  server: 104.21.6.186
-  port: 443
-  type: vless
-  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
-  udp: true
-  tls: true
-  servername: jp3.yohototo.top
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /tyxyws
-    headers:
-      Host: jp3.yohototo.top
-- name: '[1344.6ms +/-381ms] vless-1853491095'
-  server: 104.18.153.10
-  port: 443
-  type: vless
-  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
-  udp: true
-  tls: true
-  servername: jp3.yohototo.top
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /tyxyws
-    headers:
-      Host: jp3.yohototo.top
-- name: '[1319.3ms +/-1339ms] http-83.206.1.225'
-  server: 83.206.1.225
-  port: 8090
-  type: http
-  tls: true
-  skip-cert-verify: true
-- name: '[1040.3ms +/-402ms] 4Mohsen-fd99ebedc1'
-  server: 104.18.49.85
   port: 443
   type: trojan
   password: humanity
@@ -1191,332 +1014,310 @@ proxy-groups:
   - ♻️ Auto
   - 其他
   - 🇮🇹 其他
-  - 🇺🇸 [352.5ms +/-4ms] vless-1945385726
-  - 🇸🇪 [403.3ms +/-1ms] hysteria2-1945507344
-  - 🇨🇦 [310.1ms +/-36ms] trojan-1945502329
-  - 🇮🇹 [508.6ms +/-2ms] shadowsocks-1875023009
-  - 🇮🇹 [514.0ms +/-2ms] shadowsocks-1875023031
-  - '[263.5ms +/-2ms] vless-1944902761'
-  - 🇮🇹 [487.4ms +/-5ms] shadowsocks-1875023048
-  - '[386.5ms +/-2ms] http-38.247.141.135'
-  - 🇮🇹 [519.5ms +/-4ms] shadowsocks-1875023019
-  - 🇮🇹 [530.7ms +/-2ms] shadowsocks-1875023050
-  - 🇫🇷 [351.0ms +/-1ms] vless-1946055078
-  - '[361.6ms +/-0ms] vless-1946593165'
-  - 🇮🇹 [506.7ms +/-2ms] shadowsocks-1875022975
-  - '[401.2ms +/-2ms] vless-1946595158'
-  - 🇨🇭 [538.7ms +/-6ms] trojan-1945021228
-  - 🇮🇹 [559.8ms +/-2ms] shadowsocks-1875023007
-  - 🇳🇱 [495.1ms +/-2ms] vless-1935750593
-  - 🇯🇵 [476.4ms +/-3ms] vless-1946596126
-  - '[440.0ms +/-4ms] http-44.248.167.117'
-  - '[460.8ms +/-1ms] http-34.249.214.108'
-  - '[489.1ms +/-4ms] shadowsocks-1875022930'
-  - '[423.7ms +/-2ms] @tootffarangi🍓'
-  - '[455.6ms +/-5ms] 🇫🇷'
-  - '[373.3ms +/-2ms] vless-1946594163'
-  - '[519.8ms +/-2ms] http-158.173.154.5'
-  - '[553.9ms +/-1ms] http-84.17.47.125'
-  - '[485.4ms +/-8ms] vless-1946061464'
-  - 🇮🇹 [703.7ms +/-3ms] shadowsocks-1875022929
-  - '[531.2ms +/-13ms] 🇨🇦202913'
-  - '[605.0ms +/-2ms] http-82.65.162.76'
-  - '[561.2ms +/-17ms] http-84.17.47.124'
-  - '[587.9ms +/-4ms] http-84.17.47.148'
-  - '[603.8ms +/-2ms] http-213.109.163.119'
-  - '[451.0ms +/-1ms] 4Mohsen-0359eb4116'
-  - '[443.4ms +/-1ms] @tootffarangi🍓'
-  - '[450.2ms +/-2ms] 4Mohsen-28c1e109ec'
-  - '[387.8ms +/-2ms] 4Mohsen-f18a98b302'
-  - '[598.9ms +/-6ms] http-84.17.47.149'
-  - '[458.5ms +/-3ms] 4Jadi-f9c3a2c979'
-  - '[597.8ms +/-10ms] http-84.17.47.123'
-  - '[469.2ms +/-2ms] 4Kian-20bc7d40d5'
-  - '[469.9ms +/-3ms] 4Jadi-c2e6ff7722'
-  - '[453.2ms +/-15ms] 4Jadi-e9e54a67be'
-  - '[476.8ms +/-3ms] @pass_net🎃🕸️🎃'
-  - '[470.8ms +/-3ms] 4FreeIran-0d4214d2c4'
-  - '[468.2ms +/-10ms] 4Mohsen-6e716badfc'
-  - '[479.2ms +/-9ms] 4Kian-1c86882a96'
-  - '[561.2ms +/-4ms] @FarazV2ray'
-  - '[647.4ms +/-7ms] http-51.159.225.196'
-  - '[618.8ms +/-2ms] http-51.159.225.197'
-  - '[628.1ms +/-17ms] http-158.173.154.1'
-  - '[506.8ms +/-6ms] 🚀@VPNine1'
-  - '[491.8ms +/-11ms] @VPsave'
-  - '[459.3ms +/-1ms] @VPsave'
-  - '[544.8ms +/-5ms] @ConfigV2RayNG'
-  - 🇮🇹 [794.7ms +/-4ms] vless-1930538329
-  - '[470.0ms +/-2ms] 4Jadi-362b39a19c'
-  - '[456.5ms +/-1ms] 4Jadi-0f7a9f43f3'
-  - '[524.7ms +/-1ms] 4FreeIran-4dd82db815'
-  - '[473.1ms +/-3ms] 4Sarina-2d889a5ab7'
-  - '[476.8ms +/-1ms] 4Sarina-dcf22bb81e'
-  - '[478.2ms +/-8ms] 4Kian-b136b572f9'
-  - '[611.6ms +/-3ms] 4FreeIran-418618b6e4'
-  - '[544.7ms +/-56ms] @pass_net🎃🕸️🎃'
-  - '[790.6ms +/-3ms] http-185.219.159.16'
-  - '[736.6ms +/-7ms] http-103.97.88.154'
-  - '[497.1ms +/-1ms] 4FreeIran-4c06e360a8'
-  - '[620.7ms +/-28ms] @tootffarangi🍓'
-  - '[527.5ms +/-6ms] 4Jadi-8dd5af2945'
-  - '[556.5ms +/-1ms] 4Mohsen-81a94351d2'
-  - '[812.8ms +/-24ms] http-31.186.220.204'
-  - '[538.6ms +/-5ms] 4Mohsen-564111d142'
-  - '[515.6ms +/-2ms] 4Sarina-6cdb2ca8e8'
-  - '[558.9ms +/-7ms] 4Kian-c88d45ced9'
-  - '[827.3ms +/-3ms] @pass_net🎃🕸️🎃🇨🇷'
-  - '[913.7ms +/-1ms] http-185.219.159.15'
-  - '[781.3ms +/-1ms] @FarazV2ray'
-  - '[690.6ms +/-31ms] @ICV2RAY'
-  - '[587.5ms +/-2ms] 4Kian-f5f14b5287'
-  - 🇩🇪 [670.3ms +/-3ms] 4Nika-e671a7d9cf
-  - '[573.7ms +/-2ms] 4Jadi-30209cfd51'
-  - '[830.3ms +/-5ms] 4Sarina-5df0730adb'
-  - '[846.3ms +/-3ms] vless-1943108707'
-  - '[668.8ms +/-82ms] 4Jadi-04e4d8e9ae'
-  - '[557.0ms +/-2ms] 4Sarina-7314697a4f'
-  - '[750.4ms +/-89ms] 4Kian-456531a680'
-  - '[636.1ms +/-0ms] 4Kian-358857ac06'
-  - '[478.9ms +/-2ms] 4FreeIran-09d2759cfd'
-  - '[533.1ms +/-1ms] 4Jadi-a32cd2a5a1'
-  - '[691.6ms +/-5ms] 🇦🇺AU_4|123KB/s|R002-260618 01'
-  - '[869.1ms +/-43ms] 4Sarina-5fc58a0a86'
-  - '[816.6ms +/-0ms] 4Jadi-88d106e77c'
-  - '[816.2ms +/-1ms] 4Mohsen-b9c7cdaf18'
-  - '[1184.7ms +/-3ms] @FarazV2ray'
-  - '[826.4ms +/-12ms] 4Jadi-45c3c99988'
-  - '[810.7ms +/-6ms] 4FreeIran-39aa34720b'
-  - '[1283.5ms +/-10ms] @ICV2RAY'
-  - '[1803.1ms +/-9ms] Channel'
-  - '[956.5ms +/-171ms] 4Mohsen-6780fe3fa1'
-  - '[1459.1ms +/-72ms] 4Mohsen-a167b98104'
-  - '[1260.6ms +/-476ms] vless-1827151478'
-  - '[1340.0ms +/-33ms] @VPsave'
-  - '[1292.5ms +/-266ms] vless-1944436569'
-  - '[1839.1ms +/-471ms] vless-1878721256'
-  - '[1344.6ms +/-381ms] vless-1853491095'
-  - '[1319.3ms +/-1339ms] http-83.206.1.225'
-  - '[1040.3ms +/-402ms] 4Mohsen-fd99ebedc1'
+  - 🇳🇱 荷兰
+  - '[359.7ms +/-4ms] http-44.248.167.117'
+  - 🇮🇹 [620.6ms +/-2ms] shadowsocks-1875023009
+  - '[402.9ms +/-3ms] vless-1946224541'
+  - 🇮🇹 [618.4ms +/-3ms] shadowsocks-1875023048
+  - '[576.1ms +/-3ms] http-38.247.141.135'
+  - 🇮🇹 [633.8ms +/-9ms] shadowsocks-1875023019
+  - '[374.6ms +/-3ms] @pass_net🎃🕸️🎃'
+  - 🇷🇺 [607.9ms +/-2ms] vless-1946593165
+  - 🇳🇱 [478.2ms +/-1ms] vless-1947293818
+  - '[716.6ms +/-4ms] http-158.173.154.5'
+  - '[721.0ms +/-2ms] http-158.173.154.1'
+  - '[772.5ms +/-3ms] http-213.109.163.119'
+  - '[381.1ms +/-5ms] @mehrosaboran'
+  - '[793.6ms +/-1ms] http-82.65.162.76'
+  - '[809.8ms +/-4ms] http-84.17.47.149'
+  - 🇮🇹 [720.6ms +/-0ms] vless-1930538329
+  - '[833.0ms +/-3ms] http-51.159.225.196'
+  - '[405.2ms +/-0ms] vless-1947401655'
+  - 🇳🇱 [729.1ms +/-9ms] vless-1935750593
+  - '[652.7ms +/-6ms] @pass_net🎃🕸️🎃'
+  - '[846.2ms +/-4ms] http-84.17.47.124'
+  - '[703.7ms +/-12ms] http-149.36.50.157'
+  - '[893.4ms +/-0ms] http-84.17.47.123'
+  - '[450.0ms +/-203ms] vless-1944902761'
+  - '[549.0ms +/-2ms] vless-1947250691'
+  - '[799.6ms +/-0ms] http-185.164.138.156'
+  - '[494.8ms +/-1ms] 4Mohsen-f18a98b302'
+  - '[937.8ms +/-5ms] http-84.17.47.148'
+  - '[622.1ms +/-3ms] 4Jadi-661f0ef3b2'
+  - '[459.5ms +/-0ms] 4Nika-9d3b68ad0c'
+  - '[839.3ms +/-83ms] http-51.159.225.197'
+  - '[960.7ms +/-8ms] http-31.186.220.204'
+  - 🇮🇹 [1052.0ms +/-48ms] shadowsocks-1875022929
+  - '[631.7ms +/-8ms] 4Mohsen-0359eb4116'
+  - '[902.8ms +/-52ms] http-84.17.47.125'
+  - '[645.7ms +/-11ms] 4Jadi-e9e54a67be'
+  - '[646.3ms +/-10ms] 4Mohsen-28c1e109ec'
+  - '[662.5ms +/-8ms] 4Jadi-c2e6ff7722'
+  - '[586.9ms +/-5ms] 🇦🇺AU_4|123KB/s|R002-260618 01'
+  - '[656.5ms +/-15ms] 4Kian-1c86882a96'
+  - '[659.2ms +/-13ms] 4FreeIran-f1680a3201'
+  - '[674.3ms +/-14ms] 4FreeIran-0d4214d2c4'
+  - '[671.2ms +/-12ms] 4Kian-20bc7d40d5'
+  - '[940.4ms +/-10ms] http-83.206.1.225'
+  - '[883.2ms +/-2ms] http-37.120.213.210'
+  - '[659.8ms +/-18ms] 🇫🇷'
+  - '[928.2ms +/-2ms] http-146.70.244.2'
+  - '[903.6ms +/-21ms] http-185.183.105.146'
+  - '[943.7ms +/-0ms] http-146.70.242.130'
+  - '[953.1ms +/-5ms] http-185.216.35.130'
+  - '[949.4ms +/-11ms] http-146.70.242.146'
+  - '[708.8ms +/-19ms] @ConfigV2RayNG'
+  - '[1138.6ms +/-1ms] http-185.219.159.16'
+  - '[906.6ms +/-44ms] http-146.70.244.18'
+  - '[745.8ms +/-2ms] 🇫🇷'
+  - '[629.3ms +/-3ms] 4Sarina-dcf22bb81e'
+  - '[657.7ms +/-6ms] 4Sarina-2d889a5ab7'
+  - '[666.1ms +/-4ms] 4Jadi-0f7a9f43f3'
+  - '[1195.7ms +/-1ms] http-185.219.159.15'
+  - '[694.9ms +/-7ms] 4Sarina-595948fa49'
+  - '[601.8ms +/-6ms] @tootffarangi🍓'
+  - '[667.7ms +/-4ms] @VPsave'
+  - '[811.9ms +/-62ms] @B2Hub'
+  - '[621.9ms +/-1ms] @tootffarangi🍓'
+  - 🇮🇹 [712.3ms +/-35ms] @V2ray_Alpha🌴
+  - '[954.6ms +/-108ms] http-37.120.156.34'
+  - '[894.4ms +/-187ms] vless-1832764138'
+  - '[912.7ms +/-7ms] @prrofile_purple'
+  - '[769.7ms +/-5ms] 🇷🇺203170'
+  - '[781.4ms +/-19ms] 4Mohsen-fd99ebedc1'
+  - 🇩🇪 [817.0ms +/-1ms] 4Nika-e671a7d9cf
+  - '[1062.2ms +/-4ms] vless-1939847000'
+  - '[812.6ms +/-11ms] 4Mohsen-6780fe3fa1'
+  - '[1078.0ms +/-35ms] 🇨🇦203183'
+  - '[949.9ms +/-210ms] vless-1863474247'
+  - '[832.4ms +/-4ms] 4Mohsen-a7ea4d8b2d'
+  - '[835.1ms +/-4ms] @tootffarangi🍓'
+  - '[699.3ms +/-57ms] 4Mohsen-b9c7cdaf18'
+  - '[699.3ms +/-83ms] 4Jadi-88d106e77c'
+  - 🇮🇹 [762.6ms +/-266ms] @v2ray_configs_pools
+  - '[1036.1ms +/-50ms] Channel'
+  - '[993.9ms +/-320ms] vless-1867102735'
+  - '[1425.2ms +/-0ms] @tootffarangi🍓'
+  - '[1447.6ms +/-2ms] trojan-104.26.0.1'
+  - '[1420.2ms +/-4ms] trojan-104.16.0.1'
+  - '[1720.6ms +/-72ms] @ConfigV2RayNG'
+  - '[691.3ms +/-245ms] 4Kian-b136b572f9'
+  - '[1037.1ms +/-305ms] vless-1832764140'
+  - '[729.2ms +/-145ms] 4Mohsen-0609e0e76f'
+  - 🇯🇵 [1031.4ms +/-363ms] vless-1946596126
+  - 🇮🇹 [1252.9ms +/-142ms] 🇮🇹
+  - '[1831.0ms +/-162ms] @tootffarangi🍓'
+  - '[1157.9ms +/-1302ms] vless-1827152152'
+  - '[1273.2ms +/-73ms] @ConfigV2RayNG'
+  - 🇮🇹 [1123.0ms +/-287ms] 🇮🇹
+  - '[1331.3ms +/-429ms] @tootffarangi🍓'
 - name: ♻️ Auto
   type: url-test
   proxies:
-  - 🇺🇸 [352.5ms +/-4ms] vless-1945385726
-  - 🇸🇪 [403.3ms +/-1ms] hysteria2-1945507344
-  - 🇨🇦 [310.1ms +/-36ms] trojan-1945502329
-  - 🇮🇹 [508.6ms +/-2ms] shadowsocks-1875023009
-  - 🇮🇹 [514.0ms +/-2ms] shadowsocks-1875023031
-  - '[263.5ms +/-2ms] vless-1944902761'
-  - 🇮🇹 [487.4ms +/-5ms] shadowsocks-1875023048
-  - '[386.5ms +/-2ms] http-38.247.141.135'
-  - 🇮🇹 [519.5ms +/-4ms] shadowsocks-1875023019
-  - 🇮🇹 [530.7ms +/-2ms] shadowsocks-1875023050
-  - 🇫🇷 [351.0ms +/-1ms] vless-1946055078
-  - '[361.6ms +/-0ms] vless-1946593165'
-  - 🇮🇹 [506.7ms +/-2ms] shadowsocks-1875022975
-  - '[401.2ms +/-2ms] vless-1946595158'
-  - 🇨🇭 [538.7ms +/-6ms] trojan-1945021228
-  - 🇮🇹 [559.8ms +/-2ms] shadowsocks-1875023007
-  - 🇳🇱 [495.1ms +/-2ms] vless-1935750593
-  - 🇯🇵 [476.4ms +/-3ms] vless-1946596126
-  - '[440.0ms +/-4ms] http-44.248.167.117'
-  - '[460.8ms +/-1ms] http-34.249.214.108'
-  - '[489.1ms +/-4ms] shadowsocks-1875022930'
-  - '[423.7ms +/-2ms] @tootffarangi🍓'
-  - '[455.6ms +/-5ms] 🇫🇷'
-  - '[373.3ms +/-2ms] vless-1946594163'
-  - '[519.8ms +/-2ms] http-158.173.154.5'
-  - '[553.9ms +/-1ms] http-84.17.47.125'
-  - '[485.4ms +/-8ms] vless-1946061464'
-  - 🇮🇹 [703.7ms +/-3ms] shadowsocks-1875022929
-  - '[531.2ms +/-13ms] 🇨🇦202913'
-  - '[605.0ms +/-2ms] http-82.65.162.76'
-  - '[561.2ms +/-17ms] http-84.17.47.124'
-  - '[587.9ms +/-4ms] http-84.17.47.148'
-  - '[603.8ms +/-2ms] http-213.109.163.119'
-  - '[451.0ms +/-1ms] 4Mohsen-0359eb4116'
-  - '[443.4ms +/-1ms] @tootffarangi🍓'
-  - '[450.2ms +/-2ms] 4Mohsen-28c1e109ec'
-  - '[387.8ms +/-2ms] 4Mohsen-f18a98b302'
-  - '[598.9ms +/-6ms] http-84.17.47.149'
-  - '[458.5ms +/-3ms] 4Jadi-f9c3a2c979'
-  - '[597.8ms +/-10ms] http-84.17.47.123'
-  - '[469.2ms +/-2ms] 4Kian-20bc7d40d5'
-  - '[469.9ms +/-3ms] 4Jadi-c2e6ff7722'
-  - '[453.2ms +/-15ms] 4Jadi-e9e54a67be'
-  - '[476.8ms +/-3ms] @pass_net🎃🕸️🎃'
-  - '[470.8ms +/-3ms] 4FreeIran-0d4214d2c4'
-  - '[468.2ms +/-10ms] 4Mohsen-6e716badfc'
-  - '[479.2ms +/-9ms] 4Kian-1c86882a96'
-  - '[561.2ms +/-4ms] @FarazV2ray'
-  - '[647.4ms +/-7ms] http-51.159.225.196'
-  - '[618.8ms +/-2ms] http-51.159.225.197'
-  - '[628.1ms +/-17ms] http-158.173.154.1'
-  - '[506.8ms +/-6ms] 🚀@VPNine1'
-  - '[491.8ms +/-11ms] @VPsave'
-  - '[459.3ms +/-1ms] @VPsave'
-  - '[544.8ms +/-5ms] @ConfigV2RayNG'
-  - 🇮🇹 [794.7ms +/-4ms] vless-1930538329
-  - '[470.0ms +/-2ms] 4Jadi-362b39a19c'
-  - '[456.5ms +/-1ms] 4Jadi-0f7a9f43f3'
-  - '[524.7ms +/-1ms] 4FreeIran-4dd82db815'
-  - '[473.1ms +/-3ms] 4Sarina-2d889a5ab7'
-  - '[476.8ms +/-1ms] 4Sarina-dcf22bb81e'
-  - '[478.2ms +/-8ms] 4Kian-b136b572f9'
-  - '[611.6ms +/-3ms] 4FreeIran-418618b6e4'
-  - '[544.7ms +/-56ms] @pass_net🎃🕸️🎃'
-  - '[790.6ms +/-3ms] http-185.219.159.16'
-  - '[736.6ms +/-7ms] http-103.97.88.154'
-  - '[497.1ms +/-1ms] 4FreeIran-4c06e360a8'
-  - '[620.7ms +/-28ms] @tootffarangi🍓'
-  - '[527.5ms +/-6ms] 4Jadi-8dd5af2945'
-  - '[556.5ms +/-1ms] 4Mohsen-81a94351d2'
-  - '[812.8ms +/-24ms] http-31.186.220.204'
-  - '[538.6ms +/-5ms] 4Mohsen-564111d142'
-  - '[515.6ms +/-2ms] 4Sarina-6cdb2ca8e8'
-  - '[558.9ms +/-7ms] 4Kian-c88d45ced9'
-  - '[827.3ms +/-3ms] @pass_net🎃🕸️🎃🇨🇷'
-  - '[913.7ms +/-1ms] http-185.219.159.15'
-  - '[781.3ms +/-1ms] @FarazV2ray'
-  - '[690.6ms +/-31ms] @ICV2RAY'
-  - '[587.5ms +/-2ms] 4Kian-f5f14b5287'
-  - 🇩🇪 [670.3ms +/-3ms] 4Nika-e671a7d9cf
-  - '[573.7ms +/-2ms] 4Jadi-30209cfd51'
-  - '[830.3ms +/-5ms] 4Sarina-5df0730adb'
-  - '[846.3ms +/-3ms] vless-1943108707'
-  - '[668.8ms +/-82ms] 4Jadi-04e4d8e9ae'
-  - '[557.0ms +/-2ms] 4Sarina-7314697a4f'
-  - '[750.4ms +/-89ms] 4Kian-456531a680'
-  - '[636.1ms +/-0ms] 4Kian-358857ac06'
-  - '[478.9ms +/-2ms] 4FreeIran-09d2759cfd'
-  - '[533.1ms +/-1ms] 4Jadi-a32cd2a5a1'
-  - '[691.6ms +/-5ms] 🇦🇺AU_4|123KB/s|R002-260618 01'
-  - '[869.1ms +/-43ms] 4Sarina-5fc58a0a86'
-  - '[816.6ms +/-0ms] 4Jadi-88d106e77c'
-  - '[816.2ms +/-1ms] 4Mohsen-b9c7cdaf18'
-  - '[1184.7ms +/-3ms] @FarazV2ray'
-  - '[826.4ms +/-12ms] 4Jadi-45c3c99988'
-  - '[810.7ms +/-6ms] 4FreeIran-39aa34720b'
-  - '[1283.5ms +/-10ms] @ICV2RAY'
-  - '[1803.1ms +/-9ms] Channel'
-  - '[956.5ms +/-171ms] 4Mohsen-6780fe3fa1'
-  - '[1459.1ms +/-72ms] 4Mohsen-a167b98104'
-  - '[1260.6ms +/-476ms] vless-1827151478'
-  - '[1340.0ms +/-33ms] @VPsave'
-  - '[1292.5ms +/-266ms] vless-1944436569'
-  - '[1839.1ms +/-471ms] vless-1878721256'
-  - '[1344.6ms +/-381ms] vless-1853491095'
-  - '[1319.3ms +/-1339ms] http-83.206.1.225'
-  - '[1040.3ms +/-402ms] 4Mohsen-fd99ebedc1'
+  - '[359.7ms +/-4ms] http-44.248.167.117'
+  - 🇮🇹 [620.6ms +/-2ms] shadowsocks-1875023009
+  - '[402.9ms +/-3ms] vless-1946224541'
+  - 🇮🇹 [618.4ms +/-3ms] shadowsocks-1875023048
+  - '[576.1ms +/-3ms] http-38.247.141.135'
+  - 🇮🇹 [633.8ms +/-9ms] shadowsocks-1875023019
+  - '[374.6ms +/-3ms] @pass_net🎃🕸️🎃'
+  - 🇷🇺 [607.9ms +/-2ms] vless-1946593165
+  - 🇳🇱 [478.2ms +/-1ms] vless-1947293818
+  - '[716.6ms +/-4ms] http-158.173.154.5'
+  - '[721.0ms +/-2ms] http-158.173.154.1'
+  - '[772.5ms +/-3ms] http-213.109.163.119'
+  - '[381.1ms +/-5ms] @mehrosaboran'
+  - '[793.6ms +/-1ms] http-82.65.162.76'
+  - '[809.8ms +/-4ms] http-84.17.47.149'
+  - 🇮🇹 [720.6ms +/-0ms] vless-1930538329
+  - '[833.0ms +/-3ms] http-51.159.225.196'
+  - '[405.2ms +/-0ms] vless-1947401655'
+  - 🇳🇱 [729.1ms +/-9ms] vless-1935750593
+  - '[652.7ms +/-6ms] @pass_net🎃🕸️🎃'
+  - '[846.2ms +/-4ms] http-84.17.47.124'
+  - '[703.7ms +/-12ms] http-149.36.50.157'
+  - '[893.4ms +/-0ms] http-84.17.47.123'
+  - '[450.0ms +/-203ms] vless-1944902761'
+  - '[549.0ms +/-2ms] vless-1947250691'
+  - '[799.6ms +/-0ms] http-185.164.138.156'
+  - '[494.8ms +/-1ms] 4Mohsen-f18a98b302'
+  - '[937.8ms +/-5ms] http-84.17.47.148'
+  - '[622.1ms +/-3ms] 4Jadi-661f0ef3b2'
+  - '[459.5ms +/-0ms] 4Nika-9d3b68ad0c'
+  - '[839.3ms +/-83ms] http-51.159.225.197'
+  - '[960.7ms +/-8ms] http-31.186.220.204'
+  - 🇮🇹 [1052.0ms +/-48ms] shadowsocks-1875022929
+  - '[631.7ms +/-8ms] 4Mohsen-0359eb4116'
+  - '[902.8ms +/-52ms] http-84.17.47.125'
+  - '[645.7ms +/-11ms] 4Jadi-e9e54a67be'
+  - '[646.3ms +/-10ms] 4Mohsen-28c1e109ec'
+  - '[662.5ms +/-8ms] 4Jadi-c2e6ff7722'
+  - '[586.9ms +/-5ms] 🇦🇺AU_4|123KB/s|R002-260618 01'
+  - '[656.5ms +/-15ms] 4Kian-1c86882a96'
+  - '[659.2ms +/-13ms] 4FreeIran-f1680a3201'
+  - '[674.3ms +/-14ms] 4FreeIran-0d4214d2c4'
+  - '[671.2ms +/-12ms] 4Kian-20bc7d40d5'
+  - '[940.4ms +/-10ms] http-83.206.1.225'
+  - '[883.2ms +/-2ms] http-37.120.213.210'
+  - '[659.8ms +/-18ms] 🇫🇷'
+  - '[928.2ms +/-2ms] http-146.70.244.2'
+  - '[903.6ms +/-21ms] http-185.183.105.146'
+  - '[943.7ms +/-0ms] http-146.70.242.130'
+  - '[953.1ms +/-5ms] http-185.216.35.130'
+  - '[949.4ms +/-11ms] http-146.70.242.146'
+  - '[708.8ms +/-19ms] @ConfigV2RayNG'
+  - '[1138.6ms +/-1ms] http-185.219.159.16'
+  - '[906.6ms +/-44ms] http-146.70.244.18'
+  - '[745.8ms +/-2ms] 🇫🇷'
+  - '[629.3ms +/-3ms] 4Sarina-dcf22bb81e'
+  - '[657.7ms +/-6ms] 4Sarina-2d889a5ab7'
+  - '[666.1ms +/-4ms] 4Jadi-0f7a9f43f3'
+  - '[1195.7ms +/-1ms] http-185.219.159.15'
+  - '[694.9ms +/-7ms] 4Sarina-595948fa49'
+  - '[601.8ms +/-6ms] @tootffarangi🍓'
+  - '[667.7ms +/-4ms] @VPsave'
+  - '[811.9ms +/-62ms] @B2Hub'
+  - '[621.9ms +/-1ms] @tootffarangi🍓'
+  - 🇮🇹 [712.3ms +/-35ms] @V2ray_Alpha🌴
+  - '[954.6ms +/-108ms] http-37.120.156.34'
+  - '[894.4ms +/-187ms] vless-1832764138'
+  - '[912.7ms +/-7ms] @prrofile_purple'
+  - '[769.7ms +/-5ms] 🇷🇺203170'
+  - '[781.4ms +/-19ms] 4Mohsen-fd99ebedc1'
+  - 🇩🇪 [817.0ms +/-1ms] 4Nika-e671a7d9cf
+  - '[1062.2ms +/-4ms] vless-1939847000'
+  - '[812.6ms +/-11ms] 4Mohsen-6780fe3fa1'
+  - '[1078.0ms +/-35ms] 🇨🇦203183'
+  - '[949.9ms +/-210ms] vless-1863474247'
+  - '[832.4ms +/-4ms] 4Mohsen-a7ea4d8b2d'
+  - '[835.1ms +/-4ms] @tootffarangi🍓'
+  - '[699.3ms +/-57ms] 4Mohsen-b9c7cdaf18'
+  - '[699.3ms +/-83ms] 4Jadi-88d106e77c'
+  - 🇮🇹 [762.6ms +/-266ms] @v2ray_configs_pools
+  - '[1036.1ms +/-50ms] Channel'
+  - '[993.9ms +/-320ms] vless-1867102735'
+  - '[1425.2ms +/-0ms] @tootffarangi🍓'
+  - '[1447.6ms +/-2ms] trojan-104.26.0.1'
+  - '[1420.2ms +/-4ms] trojan-104.16.0.1'
+  - '[1720.6ms +/-72ms] @ConfigV2RayNG'
+  - '[691.3ms +/-245ms] 4Kian-b136b572f9'
+  - '[1037.1ms +/-305ms] vless-1832764140'
+  - '[729.2ms +/-145ms] 4Mohsen-0609e0e76f'
+  - 🇯🇵 [1031.4ms +/-363ms] vless-1946596126
+  - 🇮🇹 [1252.9ms +/-142ms] 🇮🇹
+  - '[1831.0ms +/-162ms] @tootffarangi🍓'
+  - '[1157.9ms +/-1302ms] vless-1827152152'
+  - '[1273.2ms +/-73ms] @ConfigV2RayNG'
+  - 🇮🇹 [1123.0ms +/-287ms] 🇮🇹
+  - '[1331.3ms +/-429ms] @tootffarangi🍓'
   url: https://www.gstatic.com/generate_204
   interval: 600
 - name: 其他
   type: url-test
   proxies:
-  - '[263.5ms +/-2ms] vless-1944902761'
-  - '[386.5ms +/-2ms] http-38.247.141.135'
-  - '[361.6ms +/-0ms] vless-1946593165'
-  - '[401.2ms +/-2ms] vless-1946595158'
-  - '[440.0ms +/-4ms] http-44.248.167.117'
-  - '[460.8ms +/-1ms] http-34.249.214.108'
-  - '[489.1ms +/-4ms] shadowsocks-1875022930'
-  - '[423.7ms +/-2ms] @tootffarangi🍓'
-  - '[455.6ms +/-5ms] 🇫🇷'
-  - '[373.3ms +/-2ms] vless-1946594163'
-  - '[519.8ms +/-2ms] http-158.173.154.5'
-  - '[553.9ms +/-1ms] http-84.17.47.125'
-  - '[485.4ms +/-8ms] vless-1946061464'
-  - '[531.2ms +/-13ms] 🇨🇦202913'
-  - '[605.0ms +/-2ms] http-82.65.162.76'
-  - '[561.2ms +/-17ms] http-84.17.47.124'
-  - '[587.9ms +/-4ms] http-84.17.47.148'
-  - '[603.8ms +/-2ms] http-213.109.163.119'
-  - '[451.0ms +/-1ms] 4Mohsen-0359eb4116'
-  - '[443.4ms +/-1ms] @tootffarangi🍓'
-  - '[450.2ms +/-2ms] 4Mohsen-28c1e109ec'
-  - '[387.8ms +/-2ms] 4Mohsen-f18a98b302'
-  - '[598.9ms +/-6ms] http-84.17.47.149'
-  - '[458.5ms +/-3ms] 4Jadi-f9c3a2c979'
-  - '[597.8ms +/-10ms] http-84.17.47.123'
-  - '[469.2ms +/-2ms] 4Kian-20bc7d40d5'
-  - '[469.9ms +/-3ms] 4Jadi-c2e6ff7722'
-  - '[453.2ms +/-15ms] 4Jadi-e9e54a67be'
-  - '[476.8ms +/-3ms] @pass_net🎃🕸️🎃'
-  - '[470.8ms +/-3ms] 4FreeIran-0d4214d2c4'
-  - '[468.2ms +/-10ms] 4Mohsen-6e716badfc'
-  - '[479.2ms +/-9ms] 4Kian-1c86882a96'
-  - '[561.2ms +/-4ms] @FarazV2ray'
-  - '[647.4ms +/-7ms] http-51.159.225.196'
-  - '[618.8ms +/-2ms] http-51.159.225.197'
-  - '[628.1ms +/-17ms] http-158.173.154.1'
-  - '[506.8ms +/-6ms] 🚀@VPNine1'
-  - '[491.8ms +/-11ms] @VPsave'
-  - '[459.3ms +/-1ms] @VPsave'
-  - '[544.8ms +/-5ms] @ConfigV2RayNG'
-  - '[470.0ms +/-2ms] 4Jadi-362b39a19c'
-  - '[456.5ms +/-1ms] 4Jadi-0f7a9f43f3'
-  - '[524.7ms +/-1ms] 4FreeIran-4dd82db815'
-  - '[473.1ms +/-3ms] 4Sarina-2d889a5ab7'
-  - '[476.8ms +/-1ms] 4Sarina-dcf22bb81e'
-  - '[478.2ms +/-8ms] 4Kian-b136b572f9'
-  - '[611.6ms +/-3ms] 4FreeIran-418618b6e4'
-  - '[544.7ms +/-56ms] @pass_net🎃🕸️🎃'
-  - '[790.6ms +/-3ms] http-185.219.159.16'
-  - '[736.6ms +/-7ms] http-103.97.88.154'
-  - '[497.1ms +/-1ms] 4FreeIran-4c06e360a8'
-  - '[620.7ms +/-28ms] @tootffarangi🍓'
-  - '[527.5ms +/-6ms] 4Jadi-8dd5af2945'
-  - '[556.5ms +/-1ms] 4Mohsen-81a94351d2'
-  - '[812.8ms +/-24ms] http-31.186.220.204'
-  - '[538.6ms +/-5ms] 4Mohsen-564111d142'
-  - '[515.6ms +/-2ms] 4Sarina-6cdb2ca8e8'
-  - '[558.9ms +/-7ms] 4Kian-c88d45ced9'
-  - '[827.3ms +/-3ms] @pass_net🎃🕸️🎃🇨🇷'
-  - '[913.7ms +/-1ms] http-185.219.159.15'
-  - '[781.3ms +/-1ms] @FarazV2ray'
-  - '[690.6ms +/-31ms] @ICV2RAY'
-  - '[587.5ms +/-2ms] 4Kian-f5f14b5287'
-  - '[573.7ms +/-2ms] 4Jadi-30209cfd51'
-  - '[830.3ms +/-5ms] 4Sarina-5df0730adb'
-  - '[846.3ms +/-3ms] vless-1943108707'
-  - '[668.8ms +/-82ms] 4Jadi-04e4d8e9ae'
-  - '[557.0ms +/-2ms] 4Sarina-7314697a4f'
-  - '[750.4ms +/-89ms] 4Kian-456531a680'
-  - '[636.1ms +/-0ms] 4Kian-358857ac06'
-  - '[478.9ms +/-2ms] 4FreeIran-09d2759cfd'
-  - '[533.1ms +/-1ms] 4Jadi-a32cd2a5a1'
-  - '[691.6ms +/-5ms] 🇦🇺AU_4|123KB/s|R002-260618 01'
-  - '[869.1ms +/-43ms] 4Sarina-5fc58a0a86'
-  - '[816.6ms +/-0ms] 4Jadi-88d106e77c'
-  - '[816.2ms +/-1ms] 4Mohsen-b9c7cdaf18'
-  - '[1184.7ms +/-3ms] @FarazV2ray'
-  - '[826.4ms +/-12ms] 4Jadi-45c3c99988'
-  - '[810.7ms +/-6ms] 4FreeIran-39aa34720b'
-  - '[1283.5ms +/-10ms] @ICV2RAY'
-  - '[1803.1ms +/-9ms] Channel'
-  - '[956.5ms +/-171ms] 4Mohsen-6780fe3fa1'
-  - '[1459.1ms +/-72ms] 4Mohsen-a167b98104'
-  - '[1260.6ms +/-476ms] vless-1827151478'
-  - '[1340.0ms +/-33ms] @VPsave'
-  - '[1292.5ms +/-266ms] vless-1944436569'
-  - '[1839.1ms +/-471ms] vless-1878721256'
-  - '[1344.6ms +/-381ms] vless-1853491095'
-  - '[1319.3ms +/-1339ms] http-83.206.1.225'
-  - '[1040.3ms +/-402ms] 4Mohsen-fd99ebedc1'
+  - '[359.7ms +/-4ms] http-44.248.167.117'
+  - '[402.9ms +/-3ms] vless-1946224541'
+  - '[576.1ms +/-3ms] http-38.247.141.135'
+  - '[374.6ms +/-3ms] @pass_net🎃🕸️🎃'
+  - '[716.6ms +/-4ms] http-158.173.154.5'
+  - '[721.0ms +/-2ms] http-158.173.154.1'
+  - '[772.5ms +/-3ms] http-213.109.163.119'
+  - '[381.1ms +/-5ms] @mehrosaboran'
+  - '[793.6ms +/-1ms] http-82.65.162.76'
+  - '[809.8ms +/-4ms] http-84.17.47.149'
+  - '[833.0ms +/-3ms] http-51.159.225.196'
+  - '[405.2ms +/-0ms] vless-1947401655'
+  - '[652.7ms +/-6ms] @pass_net🎃🕸️🎃'
+  - '[846.2ms +/-4ms] http-84.17.47.124'
+  - '[703.7ms +/-12ms] http-149.36.50.157'
+  - '[893.4ms +/-0ms] http-84.17.47.123'
+  - '[450.0ms +/-203ms] vless-1944902761'
+  - '[549.0ms +/-2ms] vless-1947250691'
+  - '[799.6ms +/-0ms] http-185.164.138.156'
+  - '[494.8ms +/-1ms] 4Mohsen-f18a98b302'
+  - '[937.8ms +/-5ms] http-84.17.47.148'
+  - '[622.1ms +/-3ms] 4Jadi-661f0ef3b2'
+  - '[459.5ms +/-0ms] 4Nika-9d3b68ad0c'
+  - '[839.3ms +/-83ms] http-51.159.225.197'
+  - '[960.7ms +/-8ms] http-31.186.220.204'
+  - '[631.7ms +/-8ms] 4Mohsen-0359eb4116'
+  - '[902.8ms +/-52ms] http-84.17.47.125'
+  - '[645.7ms +/-11ms] 4Jadi-e9e54a67be'
+  - '[646.3ms +/-10ms] 4Mohsen-28c1e109ec'
+  - '[662.5ms +/-8ms] 4Jadi-c2e6ff7722'
+  - '[586.9ms +/-5ms] 🇦🇺AU_4|123KB/s|R002-260618 01'
+  - '[656.5ms +/-15ms] 4Kian-1c86882a96'
+  - '[659.2ms +/-13ms] 4FreeIran-f1680a3201'
+  - '[674.3ms +/-14ms] 4FreeIran-0d4214d2c4'
+  - '[671.2ms +/-12ms] 4Kian-20bc7d40d5'
+  - '[940.4ms +/-10ms] http-83.206.1.225'
+  - '[883.2ms +/-2ms] http-37.120.213.210'
+  - '[659.8ms +/-18ms] 🇫🇷'
+  - '[928.2ms +/-2ms] http-146.70.244.2'
+  - '[903.6ms +/-21ms] http-185.183.105.146'
+  - '[943.7ms +/-0ms] http-146.70.242.130'
+  - '[953.1ms +/-5ms] http-185.216.35.130'
+  - '[949.4ms +/-11ms] http-146.70.242.146'
+  - '[708.8ms +/-19ms] @ConfigV2RayNG'
+  - '[1138.6ms +/-1ms] http-185.219.159.16'
+  - '[906.6ms +/-44ms] http-146.70.244.18'
+  - '[745.8ms +/-2ms] 🇫🇷'
+  - '[629.3ms +/-3ms] 4Sarina-dcf22bb81e'
+  - '[657.7ms +/-6ms] 4Sarina-2d889a5ab7'
+  - '[666.1ms +/-4ms] 4Jadi-0f7a9f43f3'
+  - '[1195.7ms +/-1ms] http-185.219.159.15'
+  - '[694.9ms +/-7ms] 4Sarina-595948fa49'
+  - '[601.8ms +/-6ms] @tootffarangi🍓'
+  - '[667.7ms +/-4ms] @VPsave'
+  - '[811.9ms +/-62ms] @B2Hub'
+  - '[621.9ms +/-1ms] @tootffarangi🍓'
+  - '[954.6ms +/-108ms] http-37.120.156.34'
+  - '[894.4ms +/-187ms] vless-1832764138'
+  - '[912.7ms +/-7ms] @prrofile_purple'
+  - '[769.7ms +/-5ms] 🇷🇺203170'
+  - '[781.4ms +/-19ms] 4Mohsen-fd99ebedc1'
+  - '[1062.2ms +/-4ms] vless-1939847000'
+  - '[812.6ms +/-11ms] 4Mohsen-6780fe3fa1'
+  - '[1078.0ms +/-35ms] 🇨🇦203183'
+  - '[949.9ms +/-210ms] vless-1863474247'
+  - '[832.4ms +/-4ms] 4Mohsen-a7ea4d8b2d'
+  - '[835.1ms +/-4ms] @tootffarangi🍓'
+  - '[699.3ms +/-57ms] 4Mohsen-b9c7cdaf18'
+  - '[699.3ms +/-83ms] 4Jadi-88d106e77c'
+  - '[1036.1ms +/-50ms] Channel'
+  - '[993.9ms +/-320ms] vless-1867102735'
+  - '[1425.2ms +/-0ms] @tootffarangi🍓'
+  - '[1447.6ms +/-2ms] trojan-104.26.0.1'
+  - '[1420.2ms +/-4ms] trojan-104.16.0.1'
+  - '[1720.6ms +/-72ms] @ConfigV2RayNG'
+  - '[691.3ms +/-245ms] 4Kian-b136b572f9'
+  - '[1037.1ms +/-305ms] vless-1832764140'
+  - '[729.2ms +/-145ms] 4Mohsen-0609e0e76f'
+  - '[1831.0ms +/-162ms] @tootffarangi🍓'
+  - '[1157.9ms +/-1302ms] vless-1827152152'
+  - '[1273.2ms +/-73ms] @ConfigV2RayNG'
+  - '[1331.3ms +/-429ms] @tootffarangi🍓'
   url: https://www.gstatic.com/generate_204
   interval: 600
 - name: 🇮🇹 其他
   type: url-test
   proxies:
-  - 🇮🇹 [508.6ms +/-2ms] shadowsocks-1875023009
-  - 🇮🇹 [514.0ms +/-2ms] shadowsocks-1875023031
-  - 🇮🇹 [487.4ms +/-5ms] shadowsocks-1875023048
-  - 🇮🇹 [519.5ms +/-4ms] shadowsocks-1875023019
-  - 🇮🇹 [530.7ms +/-2ms] shadowsocks-1875023050
-  - 🇮🇹 [506.7ms +/-2ms] shadowsocks-1875022975
-  - 🇮🇹 [559.8ms +/-2ms] shadowsocks-1875023007
-  - 🇮🇹 [703.7ms +/-3ms] shadowsocks-1875022929
-  - 🇮🇹 [794.7ms +/-4ms] vless-1930538329
+  - 🇮🇹 [620.6ms +/-2ms] shadowsocks-1875023009
+  - 🇮🇹 [618.4ms +/-3ms] shadowsocks-1875023048
+  - 🇮🇹 [633.8ms +/-9ms] shadowsocks-1875023019
+  - 🇮🇹 [720.6ms +/-0ms] vless-1930538329
+  - 🇮🇹 [1052.0ms +/-48ms] shadowsocks-1875022929
+  - 🇮🇹 [712.3ms +/-35ms] @V2ray_Alpha🌴
+  - 🇮🇹 [762.6ms +/-266ms] @v2ray_configs_pools
+  - 🇮🇹 [1252.9ms +/-142ms] 🇮🇹
+  - 🇮🇹 [1123.0ms +/-287ms] 🇮🇹
+  url: https://www.gstatic.com/generate_204
+  interval: 600
+- name: 🇳🇱 荷兰
+  type: url-test
+  proxies:
+  - 🇳🇱 [478.2ms +/-1ms] vless-1947293818
+  - 🇳🇱 [729.1ms +/-9ms] vless-1935750593
   url: https://www.gstatic.com/generate_204
   interval: 600
 dns:
