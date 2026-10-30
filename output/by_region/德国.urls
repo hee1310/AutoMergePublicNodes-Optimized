@@ -1,2 +1,7 @@
-vless://0ab273e4-cea6-41d0-bbab-41071d2fc455@5.252.179.15:443?security=reality&pbk=XQB2zIgrhD8AtxgYFM8UiiWYt1sLVBLhMg1M4-sGMAY&sid=296f27de82dad7ff&fp=firefox&sni=www.bing.com&flow=xtls-rprx-vision&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%5B607.8ms%20%2B/-5ms%5D%20vless-1854108408
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@168.222.43.53:10000?type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%5B472.2ms%20%2B/-2ms%5D%20vless-1923902907
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?sni=learn.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA%20%5B505.5ms%20%2B/-2ms%5D%20trojan-1943021601
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?sni=courses.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA%20%5B511.6ms%20%2B/-1ms%5D%20trojan-1944047326
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?sni=www.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA%20%5B528.0ms%20%2B/-2ms%5D%20trojan-1943480646
+vless://0ab273e4-cea6-41d0-bbab-41071d2fc455@5.252.179.15:443?security=reality&pbk=XQB2zIgrhD8AtxgYFM8UiiWYt1sLVBLhMg1M4-sGMAY&sid=296f27de82dad7ff&fp=random&sni=www.bing.com&flow=xtls-rprx-vision&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%5B521.1ms%20%2B/-4ms%5D%20vless-1828532152
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#%F0%9F%87%A9%F0%9F%87%AA%20%5B747.0ms%20%2B/-3ms%5D%20shadowsocks-1875023013
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@168.222.43.53:10000?type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%5B472.8ms%20%2B/-1ms%5D%20vless-1934391041
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%F0%9F%87%A9%F0%9F%87%AA%20%5B532.0ms%20%2B/-10ms%5D%20shadowsocks-1827146722
