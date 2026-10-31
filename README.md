@@ -60,16 +60,16 @@ https://raw.githubusercontent.com/hee1310/AutoMergePublicNodes-Optimized/data/ou
 
 | 指标 | 数值 |
 | --- | --- |
-| 更新时间 | 2026-10-31 20:46（北京时间） |
+| 更新时间 | 2026-11-01 05:46（北京时间） |
 | 订阅源（可用/总数） | 88/111 |
-| 原始节点 → 去重后 | 80704 → 26392 |
-| 送入测试 → 探活通过 → 真测通过 | 3000 → 526 → 373 |
-| 国内可达 / 不可达 / 未知 | 77 / 292 / 4 |
-| 国内检查缓存命中 | 221 |
-| **verified 输出** | 77 |
+| 原始节点 → 去重后 | 80847 → 26339 |
+| 送入测试 → 探活通过 → 真测通过 | 3000 → 614 → 487 |
+| 国内可达 / 不可达 / 未知 | 106 / 377 / 4 |
+| 国内检查缓存命中 | 319 |
+| **verified 输出** | 106 |
 | **global 输出** | 300 |
-| all 全量池 | 26392 |
-| 本轮耗时 | 272.1 秒 |
+| all 全量池 | 26339 |
+| 本轮耗时 | 309.5 秒 |
 
 > 输出保护：无。完整报告见 `output/health_report.md`、`output/stats.json`。
 
@@ -77,21 +77,21 @@ https://raw.githubusercontent.com/hee1310/AutoMergePublicNodes-Optimized/data/ou
 
 | 评分 | 协议 | 延迟(ms) | 来源 |
 | --- | --- | --- | --- |
-| 97.2 | trojan | 261.9 | Au1rxx-base64 |
-| 96.99 | hysteria2 | 280.9 | Au1rxx-base64 |
-| 96.64 | trojan | 293.9 | Au1rxx-base64 |
-| 96.47 | shadowsocks | 227.8 | Au1rxx-base64 |
-| 96.41 | shadowsocks | 227.1 | Au1rxx-base64 |
+| 93.37 | shadowsocks | 248.0 | Au1rxx-base64 |
+| 93.33 | shadowsocks | 247.5 | Au1rxx-base64 |
+| 92.99 | hysteria2 | 272.8 | Au1rxx-base64 |
+| 92.16 | shadowsocks | 286.7 | Au1rxx-base64 |
+| 91.52 | shadowsocks | 293.2 | Au1rxx-base64 |
 
 ### Top 来源质量
 
 | 来源 | 评分 | 测试数 | 建议 |
 | --- | --- | --- | --- |
+| Au1rxx-base64 | 0.925 | 322 | prefer |
 | zhangkai | 0.923 | 19 | prefer |
-| Au1rxx-base64 | 0.851 | 304 | prefer |
-| DeltaKronecker-all | 0.725 | 19 | prefer |
-| mheidari-all | 0.638 | 163 | observe |
-| Surfboard-tg-mixed | 0.515 | 16 | observe |
+| Surfboard-tg-mixed | 0.919 | 60 | prefer |
+| mheidari-all | 0.743 | 203 | prefer |
+| DeltaKronecker-all | 0.4 | 4 | observe |
 
 <!-- AUTONODES_STATS_END -->
 

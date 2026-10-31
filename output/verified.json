@@ -39,167 +39,225 @@
         "♻️ Auto",
         "其他",
         "🇮🇹 其他",
-        "[381.4ms +/-5ms] vless-1946224541",
-        "🇮🇹 [588.8ms +/-3ms] shadowsocks-1875023048",
-        "🇮🇹 [619.2ms +/-43ms] shadowsocks-1875023009",
-        "[402.9ms +/-3ms] vless-1944902761",
-        "🇮🇹 [723.7ms +/-39ms] shadowsocks-1875022946",
-        "[575.9ms +/-9ms] 4Kian-20bc7d40d5",
-        "[623.6ms +/-26ms] 4Kian-1c86882a96",
-        "[599.6ms +/-43ms] 4Mohsen-28c1e109ec",
-        "[675.9ms +/-14ms] 4Jadi-661f0ef3b2",
-        "[658.5ms +/-2ms] 4Nika-4b1d3e8d69",
-        "[596.6ms +/-22ms] 4Kian-b136b572f9",
-        "[706.1ms +/-12ms] 4FreeIran-0d4214d2c4",
-        "[648.9ms +/-41ms] 4Mohsen-0359eb4116",
-        "[599.1ms +/-3ms] 4Sarina-595948fa49",
-        "[645.2ms +/-25ms] 4Sarina-dcf22bb81e",
-        "[626.3ms +/-1ms] 4Jadi-c430fd7f94",
-        "[607.2ms +/-38ms] 4Jadi-0f7a9f43f3",
-        "[671.0ms +/-39ms] 4FreeIran-f1680a3201",
-        "[634.3ms +/-102ms] 4Jadi-c2e6ff7722",
-        "[658.0ms +/-15ms] 4FreeIran-68548d0a67",
-        "🇩🇪 [774.5ms +/-14ms] 4Nika-e671a7d9cf",
-        "[325.6ms +/-0ms] US_speednode_0040",
-        "🇮🇹 [815.5ms +/-215ms] shadowsocks-1875023019",
-        "[338.5ms +/-0ms] US_speednode_0039",
-        "[656.2ms +/-14ms] @pass_net🎃🕸️🎃🇨🇦",
-        "🇳🇱 [649.6ms +/-4ms] vless-1935750593",
-        "[684.2ms +/-78ms] 4Mohsen-45a653ad42",
-        "[591.4ms +/-68ms] 🇰🇷 韩国 | KOR",
-        "[744.6ms +/-11ms] @prrofile_purple",
-        "🇬🇧 [975.9ms +/-21ms] 4FreeIran-418618b6e4",
-        "[587.2ms +/-3ms] 🇦🇺AU_4|123KB/s|R002-260618 01",
-        "[656.5ms +/-4ms] 4Kian-33fdfc8425",
-        "[658.6ms +/-1ms] 4Nika-ecd7d05fc9",
-        "[707.2ms +/-171ms] @pass_net🎃🕸️🎃",
-        "[797.2ms +/-4ms] 4Jadi-88d106e77c",
-        "[733.8ms +/-57ms] [82818]",
-        "[788.7ms +/-0ms] 4Nika-26405b0f26",
-        "[804.8ms +/-21ms] 🇩🇪 德国 | DEU",
-        "[610.0ms +/-1ms] IE_speednode_0013",
-        "[635.5ms +/-0ms] FR_speednode_0012",
-        "[604.0ms +/-8ms] NL_speednode_0027",
-        "[610.2ms +/-7ms] NL_speednode_0024",
-        "[619.8ms +/-1ms] DK_speednode_0005",
-        "[610.9ms +/-12ms] NL_speednode_0026",
-        "[608.2ms +/-16ms] NL_speednode_0025",
-        "[740.1ms +/-38ms] @DeltaKroneckerGithub",
-        "[657.1ms +/-4ms] DE_speednode_0004",
-        "[616.5ms +/-16ms] DK_speednode_0006",
-        "[670.5ms +/-3ms] FR_speednode_0010",
-        "[1395.3ms +/-64ms] vless-1853476976",
-        "[935.5ms +/-2ms] 4Mohsen-194e9d03ac",
-        "[976.6ms +/-7ms] 4FreeIran-9da8db6263",
-        "[1076.4ms +/-75ms] 4FreeIran-c39b2650a5",
-        "[2358.4ms +/-24ms] 4Kian-0461815041",
-        "[841.4ms +/-2ms] NL_speednode_0023",
-        "[863.4ms +/-24ms] @DeltaKroneckerGithub",
-        "[913.3ms +/-2ms] FR_speednode_0008",
-        "[1655.7ms +/-103ms] 4Kian-a05db80293",
-        "[946.7ms +/-8ms] LV_speednode_0021",
-        "[994.4ms +/-328ms] @V2ray_Alpha⭐",
-        "[857.2ms +/-53ms] FR_speednode_0009",
-        "[1604.0ms +/-115ms] 4Jadi-96350f313a",
-        "[863.1ms +/-4ms] NL_speednode_0022",
-        "[2354.8ms +/-175ms] 4Sarina-3c854972db",
-        "[1189.0ms +/-5ms] 🇵🇹PT_1|2.2MB/s",
-        "[1315.5ms +/-836ms] vless-1827151410",
-        "[1122.9ms +/-16ms] PL_speednode_0028",
-        "[1542.5ms +/-2ms] LV_speednode_0020",
-        "[2023.0ms +/-287ms] 4Nika-920fa09d8e",
-        "[1344.4ms +/-213ms] 4Kian-37020e80bd",
-        "[2006.3ms +/-339ms] 4Mohsen-48540adf70",
-        "[1550.5ms +/-497ms] 4Nika-d76b1d49cc",
-        "[1895.1ms +/-520ms] 4Sarina-b48df452a1",
-        "[1494.7ms +/-669ms] 4Mohsen-2133b4f588",
-        "[1940.7ms +/-443ms] 4FreeIran-f3af0a582e",
-        "[1655.8ms +/-995ms] 4Jadi-6cfc10892b",
-        "[1090.3ms +/-303ms] 4Mohsen-72f76751c3"
+        "[345.2ms +/-3ms] vless-1946224541",
+        "[370.7ms +/-9ms] vless-1944902761",
+        "[370.1ms +/-23ms] US_speednode_0039",
+        "🇮🇹 [611.6ms +/-3ms] shadowsocks-1875023009",
+        "🇮🇹 [644.1ms +/-3ms] shadowsocks-1875022946",
+        "[400.2ms +/-2ms] US_speednode_0040",
+        "[568.4ms +/-5ms] NL_speednode_0023",
+        "[555.5ms +/-0ms] IE_speednode_0013",
+        "[578.6ms +/-0ms] NL_speednode_0025",
+        "[580.0ms +/-5ms] NL_speednode_0024",
+        "[584.5ms +/-10ms] NL_speednode_0026",
+        "[602.0ms +/-6ms] DK_speednode_0005",
+        "[625.5ms +/-6ms] NL_speednode_0027",
+        "[638.3ms +/-1ms] FR_speednode_0010",
+        "[666.8ms +/-1ms] FR_speednode_0012",
+        "[670.6ms +/-9ms] DE_speednode_0004",
+        "[698.9ms +/-1ms] DK_speednode_0006",
+        "[712.0ms +/-2ms] FR_speednode_0008",
+        "🇳🇱 [562.9ms +/-1ms] vless-1935750593",
+        "[846.0ms +/-4ms] LV_speednode_0020",
+        "[844.5ms +/-24ms] PL_speednode_0028",
+        "🇮🇹 [677.0ms +/-209ms] shadowsocks-1875023019",
+        "[794.9ms +/-21ms] NL_speednode_0022",
+        "[721.9ms +/-165ms] @DeltaKroneckerGithub",
+        "[407.9ms +/-1ms] 🇺🇸US-🚀@VPNine1",
+        "[477.6ms +/-1ms] 🇦🇺AU_4|123KB/s|R002-260618 01",
+        "[667.4ms +/-3ms] 4Nika-4b1d3e8d69",
+        "[647.3ms +/-34ms] 4Mohsen-0359eb4116",
+        "[591.3ms +/-2ms] 4Sarina-595948fa49",
+        "[649.9ms +/-38ms] 4Kian-1c86882a96",
+        "🇩🇪 [699.2ms +/-3ms] 4Nika-e671a7d9cf",
+        "🇬🇧 [698.6ms +/-3ms] 4FreeIran-418618b6e4",
+        "[690.4ms +/-37ms] 4Mohsen-28c1e109ec",
+        "[693.4ms +/-15ms] 4Kian-b136b572f9",
+        "[600.9ms +/-2ms] @B2Hub",
+        "[648.4ms +/-37ms] 4Sarina-dcf22bb81e",
+        "[877.6ms +/-115ms] LV_speednode_0021",
+        "[627.2ms +/-28ms] 4Mohsen-45a653ad42",
+        "🇮🇹 [604.1ms +/-11ms] @v2ray_configs_pools",
+        "🇮🇹 [936.6ms +/-198ms] shadowsocks-1875023048",
+        "🇮🇹 [590.4ms +/-13ms] 🇮🇹",
+        "[671.0ms +/-62ms] 4Jadi-e23d296b5d",
+        "[591.3ms +/-6ms] 4Kian-8eb71b2aab",
+        "[787.7ms +/-7ms] 4Jadi-f9c3a2c979",
+        "[638.7ms +/-2ms] @V2ray_confiig",
+        "[841.2ms +/-167ms] FR_speednode_0009",
+        "🇹🇼 [595.3ms +/-13ms] 4Kian-cc28120c67",
+        "[580.2ms +/-13ms] 4Sarina-a20cb408c2",
+        "🇮🇹 [614.6ms +/-46ms] 🇮🇹",
+        "[768.9ms +/-2ms] vless-1944434951",
+        "[647.0ms +/-6ms] 4Mohsen-2aa5a09199",
+        "[651.5ms +/-9ms] 4Jadi-b2ec86fd4f",
+        "[642.9ms +/-25ms] 4Mohsen-ac82446d49",
+        "[634.0ms +/-4ms] 4Sarina-35f99ae02e",
+        "[1143.1ms +/-2ms] vless-1827152273",
+        "[661.4ms +/-58ms] 4FreeIran-4dd82db815",
+        "[679.9ms +/-19ms] 4Nika-106a468bc6",
+        "[880.2ms +/-7ms] 4Jadi-c2e6ff7722",
+        "[705.7ms +/-2ms] 4Kian-b32b17cef2",
+        "[682.0ms +/-13ms] 4Sarina-edad1d405e",
+        "[696.8ms +/-23ms] 4Kian-e3375d28a9",
+        "[703.9ms +/-7ms] 4Mohsen-2831638df0",
+        "[700.7ms +/-4ms] 4Jadi-5c5c5399d5",
+        "[694.6ms +/-34ms] @prrofile_purple",
+        "[649.8ms +/-7ms] @ICV2RAY",
+        "[788.3ms +/-110ms] 4Jadi-661f0ef3b2",
+        "[621.1ms +/-2ms] @ConfigV2RayNG",
+        "[801.5ms +/-23ms] 4Kian-1ee784e233",
+        "[827.0ms +/-26ms] 4Jadi-0a7a6285df",
+        "[886.9ms +/-20ms] @ICV2RAY",
+        "[698.1ms +/-115ms] 4Kian-66e453e00c",
+        "[802.4ms +/-134ms] 4Jadi-c430fd7f94",
+        "[874.0ms +/-10ms] 4FreeIran-a26a4f0af0",
+        "[859.4ms +/-27ms] @V2ray_confiig",
+        "[758.0ms +/-7ms] 4Nika-5e3c7929c9",
+        "[831.0ms +/-61ms] 4Jadi-304d4c6917",
+        "[1121.9ms +/-25ms] 4Jadi-04e4d8e9ae",
+        "[817.6ms +/-1ms] 4Jadi-5579bae52f",
+        "[1005.2ms +/-15ms] 🇵🇹PT_1|2.2MB/s",
+        "[897.6ms +/-21ms] 4Sarina-ae15c7dc05",
+        "[1053.9ms +/-11ms] 4Kian-2271323848",
+        "[901.7ms +/-36ms] 4Jadi-50311a015f",
+        "[957.7ms +/-6ms] 4Kian-0d44ea88a5",
+        "[972.7ms +/-2ms] 4FreeIran-713f4efa38",
+        "[1045.2ms +/-17ms] 4Nika-00dd907163",
+        "[1648.6ms +/-14ms] @tootffarangi🍓",
+        "[1093.9ms +/-20ms] 4Sarina-2121bab614",
+        "[897.0ms +/-149ms] 4Sarina-3faedfb2ca",
+        "[881.7ms +/-253ms] 4FreeIran-68548d0a67",
+        "[937.4ms +/-272ms] 4Jadi-0f7a9f43f3",
+        "[1517.2ms +/-37ms] 4Nika-ffc5e405fb",
+        "[1666.8ms +/-3ms] 4Jadi-f9a1d7e954",
+        "[1100.9ms +/-37ms] 4Jadi-2e6a6badb8",
+        "[1385.5ms +/-15ms] 4Nika-c63ac63947",
+        "[1574.9ms +/-14ms] 4Kian-271cb3522b",
+        "[1353.0ms +/-49ms] 4Nika-292753bd93",
+        "[1606.7ms +/-13ms] Channel",
+        "[1640.4ms +/-55ms] 4FreeIran-74ce9a5293",
+        "[1461.8ms +/-84ms] 4Jadi-d5d9ecb18e",
+        "[1465.9ms +/-97ms] 4Sarina-2c1b6f0c85",
+        "[1073.5ms +/-296ms] 👾75@ConfigV2RayNG",
+        "[1117.0ms +/-224ms] 4Sarina-33000d287c",
+        "[1047.4ms +/-720ms] @ICV2RAY",
+        "[1704.8ms +/-237ms] 4Nika-952fb79fbc",
+        "[938.2ms +/-415ms] 4FreeIran-eb1cce9200",
+        "[1365.5ms +/-558ms] 4Kian-0461815041"
       ],
-      "default": "[381.4ms +/-5ms] vless-1946224541"
+      "default": "[345.2ms +/-3ms] vless-1946224541"
     },
     {
       "type": "url-test",
       "tag": "♻️ Auto",
       "outbounds": [
-        "[381.4ms +/-5ms] vless-1946224541",
-        "🇮🇹 [588.8ms +/-3ms] shadowsocks-1875023048",
-        "🇮🇹 [619.2ms +/-43ms] shadowsocks-1875023009",
-        "[402.9ms +/-3ms] vless-1944902761",
-        "🇮🇹 [723.7ms +/-39ms] shadowsocks-1875022946",
-        "[575.9ms +/-9ms] 4Kian-20bc7d40d5",
-        "[623.6ms +/-26ms] 4Kian-1c86882a96",
-        "[599.6ms +/-43ms] 4Mohsen-28c1e109ec",
-        "[675.9ms +/-14ms] 4Jadi-661f0ef3b2",
-        "[658.5ms +/-2ms] 4Nika-4b1d3e8d69",
-        "[596.6ms +/-22ms] 4Kian-b136b572f9",
-        "[706.1ms +/-12ms] 4FreeIran-0d4214d2c4",
-        "[648.9ms +/-41ms] 4Mohsen-0359eb4116",
-        "[599.1ms +/-3ms] 4Sarina-595948fa49",
-        "[645.2ms +/-25ms] 4Sarina-dcf22bb81e",
-        "[626.3ms +/-1ms] 4Jadi-c430fd7f94",
-        "[607.2ms +/-38ms] 4Jadi-0f7a9f43f3",
-        "[671.0ms +/-39ms] 4FreeIran-f1680a3201",
-        "[634.3ms +/-102ms] 4Jadi-c2e6ff7722",
-        "[658.0ms +/-15ms] 4FreeIran-68548d0a67",
-        "🇩🇪 [774.5ms +/-14ms] 4Nika-e671a7d9cf",
-        "[325.6ms +/-0ms] US_speednode_0040",
-        "🇮🇹 [815.5ms +/-215ms] shadowsocks-1875023019",
-        "[338.5ms +/-0ms] US_speednode_0039",
-        "[656.2ms +/-14ms] @pass_net🎃🕸️🎃🇨🇦",
-        "🇳🇱 [649.6ms +/-4ms] vless-1935750593",
-        "[684.2ms +/-78ms] 4Mohsen-45a653ad42",
-        "[591.4ms +/-68ms] 🇰🇷 韩国 | KOR",
-        "[744.6ms +/-11ms] @prrofile_purple",
-        "🇬🇧 [975.9ms +/-21ms] 4FreeIran-418618b6e4",
-        "[587.2ms +/-3ms] 🇦🇺AU_4|123KB/s|R002-260618 01",
-        "[656.5ms +/-4ms] 4Kian-33fdfc8425",
-        "[658.6ms +/-1ms] 4Nika-ecd7d05fc9",
-        "[707.2ms +/-171ms] @pass_net🎃🕸️🎃",
-        "[797.2ms +/-4ms] 4Jadi-88d106e77c",
-        "[733.8ms +/-57ms] [82818]",
-        "[788.7ms +/-0ms] 4Nika-26405b0f26",
-        "[804.8ms +/-21ms] 🇩🇪 德国 | DEU",
-        "[610.0ms +/-1ms] IE_speednode_0013",
-        "[635.5ms +/-0ms] FR_speednode_0012",
-        "[604.0ms +/-8ms] NL_speednode_0027",
-        "[610.2ms +/-7ms] NL_speednode_0024",
-        "[619.8ms +/-1ms] DK_speednode_0005",
-        "[610.9ms +/-12ms] NL_speednode_0026",
-        "[608.2ms +/-16ms] NL_speednode_0025",
-        "[740.1ms +/-38ms] @DeltaKroneckerGithub",
-        "[657.1ms +/-4ms] DE_speednode_0004",
-        "[616.5ms +/-16ms] DK_speednode_0006",
-        "[670.5ms +/-3ms] FR_speednode_0010",
-        "[1395.3ms +/-64ms] vless-1853476976",
-        "[935.5ms +/-2ms] 4Mohsen-194e9d03ac",
-        "[976.6ms +/-7ms] 4FreeIran-9da8db6263",
-        "[1076.4ms +/-75ms] 4FreeIran-c39b2650a5",
-        "[2358.4ms +/-24ms] 4Kian-0461815041",
-        "[841.4ms +/-2ms] NL_speednode_0023",
-        "[863.4ms +/-24ms] @DeltaKroneckerGithub",
-        "[913.3ms +/-2ms] FR_speednode_0008",
-        "[1655.7ms +/-103ms] 4Kian-a05db80293",
-        "[946.7ms +/-8ms] LV_speednode_0021",
-        "[994.4ms +/-328ms] @V2ray_Alpha⭐",
-        "[857.2ms +/-53ms] FR_speednode_0009",
-        "[1604.0ms +/-115ms] 4Jadi-96350f313a",
-        "[863.1ms +/-4ms] NL_speednode_0022",
-        "[2354.8ms +/-175ms] 4Sarina-3c854972db",
-        "[1189.0ms +/-5ms] 🇵🇹PT_1|2.2MB/s",
-        "[1315.5ms +/-836ms] vless-1827151410",
-        "[1122.9ms +/-16ms] PL_speednode_0028",
-        "[1542.5ms +/-2ms] LV_speednode_0020",
-        "[2023.0ms +/-287ms] 4Nika-920fa09d8e",
-        "[1344.4ms +/-213ms] 4Kian-37020e80bd",
-        "[2006.3ms +/-339ms] 4Mohsen-48540adf70",
-        "[1550.5ms +/-497ms] 4Nika-d76b1d49cc",
-        "[1895.1ms +/-520ms] 4Sarina-b48df452a1",
-        "[1494.7ms +/-669ms] 4Mohsen-2133b4f588",
-        "[1940.7ms +/-443ms] 4FreeIran-f3af0a582e",
-        "[1655.8ms +/-995ms] 4Jadi-6cfc10892b",
-        "[1090.3ms +/-303ms] 4Mohsen-72f76751c3"
+        "[345.2ms +/-3ms] vless-1946224541",
+        "[370.7ms +/-9ms] vless-1944902761",
+        "[370.1ms +/-23ms] US_speednode_0039",
+        "🇮🇹 [611.6ms +/-3ms] shadowsocks-1875023009",
+        "🇮🇹 [644.1ms +/-3ms] shadowsocks-1875022946",
+        "[400.2ms +/-2ms] US_speednode_0040",
+        "[568.4ms +/-5ms] NL_speednode_0023",
+        "[555.5ms +/-0ms] IE_speednode_0013",
+        "[578.6ms +/-0ms] NL_speednode_0025",
+        "[580.0ms +/-5ms] NL_speednode_0024",
+        "[584.5ms +/-10ms] NL_speednode_0026",
+        "[602.0ms +/-6ms] DK_speednode_0005",
+        "[625.5ms +/-6ms] NL_speednode_0027",
+        "[638.3ms +/-1ms] FR_speednode_0010",
+        "[666.8ms +/-1ms] FR_speednode_0012",
+        "[670.6ms +/-9ms] DE_speednode_0004",
+        "[698.9ms +/-1ms] DK_speednode_0006",
+        "[712.0ms +/-2ms] FR_speednode_0008",
+        "🇳🇱 [562.9ms +/-1ms] vless-1935750593",
+        "[846.0ms +/-4ms] LV_speednode_0020",
+        "[844.5ms +/-24ms] PL_speednode_0028",
+        "🇮🇹 [677.0ms +/-209ms] shadowsocks-1875023019",
+        "[794.9ms +/-21ms] NL_speednode_0022",
+        "[721.9ms +/-165ms] @DeltaKroneckerGithub",
+        "[407.9ms +/-1ms] 🇺🇸US-🚀@VPNine1",
+        "[477.6ms +/-1ms] 🇦🇺AU_4|123KB/s|R002-260618 01",
+        "[667.4ms +/-3ms] 4Nika-4b1d3e8d69",
+        "[647.3ms +/-34ms] 4Mohsen-0359eb4116",
+        "[591.3ms +/-2ms] 4Sarina-595948fa49",
+        "[649.9ms +/-38ms] 4Kian-1c86882a96",
+        "🇩🇪 [699.2ms +/-3ms] 4Nika-e671a7d9cf",
+        "🇬🇧 [698.6ms +/-3ms] 4FreeIran-418618b6e4",
+        "[690.4ms +/-37ms] 4Mohsen-28c1e109ec",
+        "[693.4ms +/-15ms] 4Kian-b136b572f9",
+        "[600.9ms +/-2ms] @B2Hub",
+        "[648.4ms +/-37ms] 4Sarina-dcf22bb81e",
+        "[877.6ms +/-115ms] LV_speednode_0021",
+        "[627.2ms +/-28ms] 4Mohsen-45a653ad42",
+        "🇮🇹 [604.1ms +/-11ms] @v2ray_configs_pools",
+        "🇮🇹 [936.6ms +/-198ms] shadowsocks-1875023048",
+        "🇮🇹 [590.4ms +/-13ms] 🇮🇹",
+        "[671.0ms +/-62ms] 4Jadi-e23d296b5d",
+        "[591.3ms +/-6ms] 4Kian-8eb71b2aab",
+        "[787.7ms +/-7ms] 4Jadi-f9c3a2c979",
+        "[638.7ms +/-2ms] @V2ray_confiig",
+        "[841.2ms +/-167ms] FR_speednode_0009",
+        "🇹🇼 [595.3ms +/-13ms] 4Kian-cc28120c67",
+        "[580.2ms +/-13ms] 4Sarina-a20cb408c2",
+        "🇮🇹 [614.6ms +/-46ms] 🇮🇹",
+        "[768.9ms +/-2ms] vless-1944434951",
+        "[647.0ms +/-6ms] 4Mohsen-2aa5a09199",
+        "[651.5ms +/-9ms] 4Jadi-b2ec86fd4f",
+        "[642.9ms +/-25ms] 4Mohsen-ac82446d49",
+        "[634.0ms +/-4ms] 4Sarina-35f99ae02e",
+        "[1143.1ms +/-2ms] vless-1827152273",
+        "[661.4ms +/-58ms] 4FreeIran-4dd82db815",
+        "[679.9ms +/-19ms] 4Nika-106a468bc6",
+        "[880.2ms +/-7ms] 4Jadi-c2e6ff7722",
+        "[705.7ms +/-2ms] 4Kian-b32b17cef2",
+        "[682.0ms +/-13ms] 4Sarina-edad1d405e",
+        "[696.8ms +/-23ms] 4Kian-e3375d28a9",
+        "[703.9ms +/-7ms] 4Mohsen-2831638df0",
+        "[700.7ms +/-4ms] 4Jadi-5c5c5399d5",
+        "[694.6ms +/-34ms] @prrofile_purple",
+        "[649.8ms +/-7ms] @ICV2RAY",
+        "[788.3ms +/-110ms] 4Jadi-661f0ef3b2",
+        "[621.1ms +/-2ms] @ConfigV2RayNG",
+        "[801.5ms +/-23ms] 4Kian-1ee784e233",
+        "[827.0ms +/-26ms] 4Jadi-0a7a6285df",
+        "[886.9ms +/-20ms] @ICV2RAY",
+        "[698.1ms +/-115ms] 4Kian-66e453e00c",
+        "[802.4ms +/-134ms] 4Jadi-c430fd7f94",
+        "[874.0ms +/-10ms] 4FreeIran-a26a4f0af0",
+        "[859.4ms +/-27ms] @V2ray_confiig",
+        "[758.0ms +/-7ms] 4Nika-5e3c7929c9",
+        "[831.0ms +/-61ms] 4Jadi-304d4c6917",
+        "[1121.9ms +/-25ms] 4Jadi-04e4d8e9ae",
+        "[817.6ms +/-1ms] 4Jadi-5579bae52f",
+        "[1005.2ms +/-15ms] 🇵🇹PT_1|2.2MB/s",
+        "[897.6ms +/-21ms] 4Sarina-ae15c7dc05",
+        "[1053.9ms +/-11ms] 4Kian-2271323848",
+        "[901.7ms +/-36ms] 4Jadi-50311a015f",
+        "[957.7ms +/-6ms] 4Kian-0d44ea88a5",
+        "[972.7ms +/-2ms] 4FreeIran-713f4efa38",
+        "[1045.2ms +/-17ms] 4Nika-00dd907163",
+        "[1648.6ms +/-14ms] @tootffarangi🍓",
+        "[1093.9ms +/-20ms] 4Sarina-2121bab614",
+        "[897.0ms +/-149ms] 4Sarina-3faedfb2ca",
+        "[881.7ms +/-253ms] 4FreeIran-68548d0a67",
+        "[937.4ms +/-272ms] 4Jadi-0f7a9f43f3",
+        "[1517.2ms +/-37ms] 4Nika-ffc5e405fb",
+        "[1666.8ms +/-3ms] 4Jadi-f9a1d7e954",
+        "[1100.9ms +/-37ms] 4Jadi-2e6a6badb8",
+        "[1385.5ms +/-15ms] 4Nika-c63ac63947",
+        "[1574.9ms +/-14ms] 4Kian-271cb3522b",
+        "[1353.0ms +/-49ms] 4Nika-292753bd93",
+        "[1606.7ms +/-13ms] Channel",
+        "[1640.4ms +/-55ms] 4FreeIran-74ce9a5293",
+        "[1461.8ms +/-84ms] 4Jadi-d5d9ecb18e",
+        "[1465.9ms +/-97ms] 4Sarina-2c1b6f0c85",
+        "[1073.5ms +/-296ms] 👾75@ConfigV2RayNG",
+        "[1117.0ms +/-224ms] 4Sarina-33000d287c",
+        "[1047.4ms +/-720ms] @ICV2RAY",
+        "[1704.8ms +/-237ms] 4Nika-952fb79fbc",
+        "[938.2ms +/-415ms] 4FreeIran-eb1cce9200",
+        "[1365.5ms +/-558ms] 4Kian-0461815041"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": 600
@@ -208,76 +266,101 @@
       "type": "url-test",
       "tag": "其他",
       "outbounds": [
-        "[381.4ms +/-5ms] vless-1946224541",
-        "[402.9ms +/-3ms] vless-1944902761",
-        "[575.9ms +/-9ms] 4Kian-20bc7d40d5",
-        "[623.6ms +/-26ms] 4Kian-1c86882a96",
-        "[599.6ms +/-43ms] 4Mohsen-28c1e109ec",
-        "[675.9ms +/-14ms] 4Jadi-661f0ef3b2",
-        "[658.5ms +/-2ms] 4Nika-4b1d3e8d69",
-        "[596.6ms +/-22ms] 4Kian-b136b572f9",
-        "[706.1ms +/-12ms] 4FreeIran-0d4214d2c4",
-        "[648.9ms +/-41ms] 4Mohsen-0359eb4116",
-        "[599.1ms +/-3ms] 4Sarina-595948fa49",
-        "[645.2ms +/-25ms] 4Sarina-dcf22bb81e",
-        "[626.3ms +/-1ms] 4Jadi-c430fd7f94",
-        "[607.2ms +/-38ms] 4Jadi-0f7a9f43f3",
-        "[671.0ms +/-39ms] 4FreeIran-f1680a3201",
-        "[634.3ms +/-102ms] 4Jadi-c2e6ff7722",
-        "[658.0ms +/-15ms] 4FreeIran-68548d0a67",
-        "[325.6ms +/-0ms] US_speednode_0040",
-        "[338.5ms +/-0ms] US_speednode_0039",
-        "[656.2ms +/-14ms] @pass_net🎃🕸️🎃🇨🇦",
-        "[684.2ms +/-78ms] 4Mohsen-45a653ad42",
-        "[591.4ms +/-68ms] 🇰🇷 韩国 | KOR",
-        "[744.6ms +/-11ms] @prrofile_purple",
-        "[587.2ms +/-3ms] 🇦🇺AU_4|123KB/s|R002-260618 01",
-        "[656.5ms +/-4ms] 4Kian-33fdfc8425",
-        "[658.6ms +/-1ms] 4Nika-ecd7d05fc9",
-        "[707.2ms +/-171ms] @pass_net🎃🕸️🎃",
-        "[797.2ms +/-4ms] 4Jadi-88d106e77c",
-        "[733.8ms +/-57ms] [82818]",
-        "[788.7ms +/-0ms] 4Nika-26405b0f26",
-        "[804.8ms +/-21ms] 🇩🇪 德国 | DEU",
-        "[610.0ms +/-1ms] IE_speednode_0013",
-        "[635.5ms +/-0ms] FR_speednode_0012",
-        "[604.0ms +/-8ms] NL_speednode_0027",
-        "[610.2ms +/-7ms] NL_speednode_0024",
-        "[619.8ms +/-1ms] DK_speednode_0005",
-        "[610.9ms +/-12ms] NL_speednode_0026",
-        "[608.2ms +/-16ms] NL_speednode_0025",
-        "[740.1ms +/-38ms] @DeltaKroneckerGithub",
-        "[657.1ms +/-4ms] DE_speednode_0004",
-        "[616.5ms +/-16ms] DK_speednode_0006",
-        "[670.5ms +/-3ms] FR_speednode_0010",
-        "[1395.3ms +/-64ms] vless-1853476976",
-        "[935.5ms +/-2ms] 4Mohsen-194e9d03ac",
-        "[976.6ms +/-7ms] 4FreeIran-9da8db6263",
-        "[1076.4ms +/-75ms] 4FreeIran-c39b2650a5",
-        "[2358.4ms +/-24ms] 4Kian-0461815041",
-        "[841.4ms +/-2ms] NL_speednode_0023",
-        "[863.4ms +/-24ms] @DeltaKroneckerGithub",
-        "[913.3ms +/-2ms] FR_speednode_0008",
-        "[1655.7ms +/-103ms] 4Kian-a05db80293",
-        "[946.7ms +/-8ms] LV_speednode_0021",
-        "[994.4ms +/-328ms] @V2ray_Alpha⭐",
-        "[857.2ms +/-53ms] FR_speednode_0009",
-        "[1604.0ms +/-115ms] 4Jadi-96350f313a",
-        "[863.1ms +/-4ms] NL_speednode_0022",
-        "[2354.8ms +/-175ms] 4Sarina-3c854972db",
-        "[1189.0ms +/-5ms] 🇵🇹PT_1|2.2MB/s",
-        "[1315.5ms +/-836ms] vless-1827151410",
-        "[1122.9ms +/-16ms] PL_speednode_0028",
-        "[1542.5ms +/-2ms] LV_speednode_0020",
-        "[2023.0ms +/-287ms] 4Nika-920fa09d8e",
-        "[1344.4ms +/-213ms] 4Kian-37020e80bd",
-        "[2006.3ms +/-339ms] 4Mohsen-48540adf70",
-        "[1550.5ms +/-497ms] 4Nika-d76b1d49cc",
-        "[1895.1ms +/-520ms] 4Sarina-b48df452a1",
-        "[1494.7ms +/-669ms] 4Mohsen-2133b4f588",
-        "[1940.7ms +/-443ms] 4FreeIran-f3af0a582e",
-        "[1655.8ms +/-995ms] 4Jadi-6cfc10892b",
-        "[1090.3ms +/-303ms] 4Mohsen-72f76751c3"
+        "[345.2ms +/-3ms] vless-1946224541",
+        "[370.7ms +/-9ms] vless-1944902761",
+        "[370.1ms +/-23ms] US_speednode_0039",
+        "[400.2ms +/-2ms] US_speednode_0040",
+        "[568.4ms +/-5ms] NL_speednode_0023",
+        "[555.5ms +/-0ms] IE_speednode_0013",
+        "[578.6ms +/-0ms] NL_speednode_0025",
+        "[580.0ms +/-5ms] NL_speednode_0024",
+        "[584.5ms +/-10ms] NL_speednode_0026",
+        "[602.0ms +/-6ms] DK_speednode_0005",
+        "[625.5ms +/-6ms] NL_speednode_0027",
+        "[638.3ms +/-1ms] FR_speednode_0010",
+        "[666.8ms +/-1ms] FR_speednode_0012",
+        "[670.6ms +/-9ms] DE_speednode_0004",
+        "[698.9ms +/-1ms] DK_speednode_0006",
+        "[712.0ms +/-2ms] FR_speednode_0008",
+        "[846.0ms +/-4ms] LV_speednode_0020",
+        "[844.5ms +/-24ms] PL_speednode_0028",
+        "[794.9ms +/-21ms] NL_speednode_0022",
+        "[721.9ms +/-165ms] @DeltaKroneckerGithub",
+        "[407.9ms +/-1ms] 🇺🇸US-🚀@VPNine1",
+        "[477.6ms +/-1ms] 🇦🇺AU_4|123KB/s|R002-260618 01",
+        "[667.4ms +/-3ms] 4Nika-4b1d3e8d69",
+        "[647.3ms +/-34ms] 4Mohsen-0359eb4116",
+        "[591.3ms +/-2ms] 4Sarina-595948fa49",
+        "[649.9ms +/-38ms] 4Kian-1c86882a96",
+        "[690.4ms +/-37ms] 4Mohsen-28c1e109ec",
+        "[693.4ms +/-15ms] 4Kian-b136b572f9",
+        "[600.9ms +/-2ms] @B2Hub",
+        "[648.4ms +/-37ms] 4Sarina-dcf22bb81e",
+        "[877.6ms +/-115ms] LV_speednode_0021",
+        "[627.2ms +/-28ms] 4Mohsen-45a653ad42",
+        "[671.0ms +/-62ms] 4Jadi-e23d296b5d",
+        "[591.3ms +/-6ms] 4Kian-8eb71b2aab",
+        "[787.7ms +/-7ms] 4Jadi-f9c3a2c979",
+        "[638.7ms +/-2ms] @V2ray_confiig",
+        "[841.2ms +/-167ms] FR_speednode_0009",
+        "[580.2ms +/-13ms] 4Sarina-a20cb408c2",
+        "[768.9ms +/-2ms] vless-1944434951",
+        "[647.0ms +/-6ms] 4Mohsen-2aa5a09199",
+        "[651.5ms +/-9ms] 4Jadi-b2ec86fd4f",
+        "[642.9ms +/-25ms] 4Mohsen-ac82446d49",
+        "[634.0ms +/-4ms] 4Sarina-35f99ae02e",
+        "[1143.1ms +/-2ms] vless-1827152273",
+        "[661.4ms +/-58ms] 4FreeIran-4dd82db815",
+        "[679.9ms +/-19ms] 4Nika-106a468bc6",
+        "[880.2ms +/-7ms] 4Jadi-c2e6ff7722",
+        "[705.7ms +/-2ms] 4Kian-b32b17cef2",
+        "[682.0ms +/-13ms] 4Sarina-edad1d405e",
+        "[696.8ms +/-23ms] 4Kian-e3375d28a9",
+        "[703.9ms +/-7ms] 4Mohsen-2831638df0",
+        "[700.7ms +/-4ms] 4Jadi-5c5c5399d5",
+        "[694.6ms +/-34ms] @prrofile_purple",
+        "[649.8ms +/-7ms] @ICV2RAY",
+        "[788.3ms +/-110ms] 4Jadi-661f0ef3b2",
+        "[621.1ms +/-2ms] @ConfigV2RayNG",
+        "[801.5ms +/-23ms] 4Kian-1ee784e233",
+        "[827.0ms +/-26ms] 4Jadi-0a7a6285df",
+        "[886.9ms +/-20ms] @ICV2RAY",
+        "[698.1ms +/-115ms] 4Kian-66e453e00c",
+        "[802.4ms +/-134ms] 4Jadi-c430fd7f94",
+        "[874.0ms +/-10ms] 4FreeIran-a26a4f0af0",
+        "[859.4ms +/-27ms] @V2ray_confiig",
+        "[758.0ms +/-7ms] 4Nika-5e3c7929c9",
+        "[831.0ms +/-61ms] 4Jadi-304d4c6917",
+        "[1121.9ms +/-25ms] 4Jadi-04e4d8e9ae",
+        "[817.6ms +/-1ms] 4Jadi-5579bae52f",
+        "[1005.2ms +/-15ms] 🇵🇹PT_1|2.2MB/s",
+        "[897.6ms +/-21ms] 4Sarina-ae15c7dc05",
+        "[1053.9ms +/-11ms] 4Kian-2271323848",
+        "[901.7ms +/-36ms] 4Jadi-50311a015f",
+        "[957.7ms +/-6ms] 4Kian-0d44ea88a5",
+        "[972.7ms +/-2ms] 4FreeIran-713f4efa38",
+        "[1045.2ms +/-17ms] 4Nika-00dd907163",
+        "[1648.6ms +/-14ms] @tootffarangi🍓",
+        "[1093.9ms +/-20ms] 4Sarina-2121bab614",
+        "[897.0ms +/-149ms] 4Sarina-3faedfb2ca",
+        "[881.7ms +/-253ms] 4FreeIran-68548d0a67",
+        "[937.4ms +/-272ms] 4Jadi-0f7a9f43f3",
+        "[1517.2ms +/-37ms] 4Nika-ffc5e405fb",
+        "[1666.8ms +/-3ms] 4Jadi-f9a1d7e954",
+        "[1100.9ms +/-37ms] 4Jadi-2e6a6badb8",
+        "[1385.5ms +/-15ms] 4Nika-c63ac63947",
+        "[1574.9ms +/-14ms] 4Kian-271cb3522b",
+        "[1353.0ms +/-49ms] 4Nika-292753bd93",
+        "[1606.7ms +/-13ms] Channel",
+        "[1640.4ms +/-55ms] 4FreeIran-74ce9a5293",
+        "[1461.8ms +/-84ms] 4Jadi-d5d9ecb18e",
+        "[1465.9ms +/-97ms] 4Sarina-2c1b6f0c85",
+        "[1073.5ms +/-296ms] 👾75@ConfigV2RayNG",
+        "[1117.0ms +/-224ms] 4Sarina-33000d287c",
+        "[1047.4ms +/-720ms] @ICV2RAY",
+        "[1704.8ms +/-237ms] 4Nika-952fb79fbc",
+        "[938.2ms +/-415ms] 4FreeIran-eb1cce9200",
+        "[1365.5ms +/-558ms] 4Kian-0461815041"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": 600
@@ -286,10 +369,13 @@
       "type": "url-test",
       "tag": "🇮🇹 其他",
       "outbounds": [
-        "🇮🇹 [588.8ms +/-3ms] shadowsocks-1875023048",
-        "🇮🇹 [619.2ms +/-43ms] shadowsocks-1875023009",
-        "🇮🇹 [723.7ms +/-39ms] shadowsocks-1875022946",
-        "🇮🇹 [815.5ms +/-215ms] shadowsocks-1875023019"
+        "🇮🇹 [611.6ms +/-3ms] shadowsocks-1875023009",
+        "🇮🇹 [644.1ms +/-3ms] shadowsocks-1875022946",
+        "🇮🇹 [677.0ms +/-209ms] shadowsocks-1875023019",
+        "🇮🇹 [604.1ms +/-11ms] @v2ray_configs_pools",
+        "🇮🇹 [936.6ms +/-198ms] shadowsocks-1875023048",
+        "🇮🇹 [590.4ms +/-13ms] 🇮🇹",
+        "🇮🇹 [614.6ms +/-46ms] 🇮🇹"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": 600
@@ -309,25 +395,9 @@
         }
       },
       "type": "vless",
-      "tag": "[381.4ms +/-5ms] vless-1946224541",
+      "tag": "[345.2ms +/-3ms] vless-1946224541",
       "server": "172.67.199.126",
       "server_port": 2053
-    },
-    {
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "type": "shadowsocks",
-      "tag": "🇮🇹 [588.8ms +/-3ms] shadowsocks-1875023048",
-      "server": "202.50.253.72",
-      "server_port": 19999
-    },
-    {
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "type": "shadowsocks",
-      "tag": "🇮🇹 [619.2ms +/-43ms] shadowsocks-1875023009",
-      "server": "202.50.253.27",
-      "server_port": 19999
     },
     {
       "uuid": "c83f15bf-1817-4ec8-a19f-6393d226434c",
@@ -344,340 +414,9 @@
         }
       },
       "type": "vless",
-      "tag": "[402.9ms +/-3ms] vless-1944902761",
+      "tag": "[370.7ms +/-9ms] vless-1944902761",
       "server": "fast.145779.xyz",
       "server_port": 2053
-    },
-    {
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "type": "shadowsocks",
-      "tag": "🇮🇹 [723.7ms +/-39ms] shadowsocks-1875022946",
-      "server": "202.50.253.54",
-      "server_port": 19999
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[575.9ms +/-9ms] 4Kian-20bc7d40d5",
-      "server": "104.20.6.134",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[623.6ms +/-26ms] 4Kian-1c86882a96",
-      "server": "172.64.150.28",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[599.6ms +/-43ms] 4Mohsen-28c1e109ec",
-      "server": "172.67.217.240",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[675.9ms +/-14ms] 4Jadi-661f0ef3b2",
-      "server": "104.17.0.1",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[658.5ms +/-2ms] 4Nika-4b1d3e8d69",
-      "server": "185.114.72.31",
-      "server_port": 2053
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[596.6ms +/-22ms] 4Kian-b136b572f9",
-      "server": "172.64.153.61",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[706.1ms +/-12ms] 4FreeIran-0d4214d2c4",
-      "server": "45.130.125.190",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[648.9ms +/-41ms] 4Mohsen-0359eb4116",
-      "server": "141.101.115.104",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[599.1ms +/-3ms] 4Sarina-595948fa49",
-      "server": "104.21.13.204",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "//assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[645.2ms +/-25ms] 4Sarina-dcf22bb81e",
-      "server": "104.25.124.54",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[626.3ms +/-1ms] 4Jadi-c430fd7f94",
-      "server": "104.17.175.201",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[607.2ms +/-38ms] 4Jadi-0f7a9f43f3",
-      "server": "104.18.12.149",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[671.0ms +/-39ms] 4FreeIran-f1680a3201",
-      "server": "104.16.72.2",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[634.3ms +/-102ms] 4Jadi-c2e6ff7722",
-      "server": "104.18.37.228",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "//assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[658.0ms +/-15ms] 4FreeIran-68548d0a67",
-      "server": "104.16.0.1",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "🇩🇪 [774.5ms +/-14ms] 4Nika-e671a7d9cf",
-      "server": "185.220.100.168",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "38.247.141.135",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[325.6ms +/-0ms] US_speednode_0040",
-      "server": "38.247.141.135",
-      "server_port": 443
-    },
-    {
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "type": "shadowsocks",
-      "tag": "🇮🇹 [815.5ms +/-215ms] shadowsocks-1875023019",
-      "server": "202.50.253.63",
-      "server_port": 19999
     },
     {
       "tls": {
@@ -686,28 +425,170 @@
         "insecure": true
       },
       "type": "http",
-      "tag": "[338.5ms +/-0ms] US_speednode_0039",
+      "tag": "[370.1ms +/-23ms] US_speednode_0039",
       "server": "44.248.167.117",
       "server_port": 8443
     },
     {
-      "password": "humanity",
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [611.6ms +/-3ms] shadowsocks-1875023009",
+      "server": "202.50.253.27",
+      "server_port": 19999
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [644.1ms +/-3ms] shadowsocks-1875022946",
+      "server": "202.50.253.54",
+      "server_port": 19999
+    },
+    {
       "tls": {
         "enabled": true,
-        "server_name": "www.pleadcourt.org",
+        "server_name": "38.247.141.135",
         "insecure": true
       },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.pleadcourt.org"
-        }
-      },
-      "type": "trojan",
-      "tag": "[656.2ms +/-14ms] @pass_net🎃🕸️🎃🇨🇦",
-      "server": "104.27.201.80",
+      "type": "http",
+      "tag": "[400.2ms +/-2ms] US_speednode_0040",
+      "server": "38.247.141.135",
       "server_port": 443
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "84.17.47.124",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[568.4ms +/-5ms] NL_speednode_0023",
+      "server": "84.17.47.124",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "34.249.214.108",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[555.5ms +/-0ms] IE_speednode_0013",
+      "server": "34.249.214.108",
+      "server_port": 443
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "84.17.47.149",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[578.6ms +/-0ms] NL_speednode_0025",
+      "server": "84.17.47.149",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "84.17.47.148",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[580.0ms +/-5ms] NL_speednode_0024",
+      "server": "84.17.47.148",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "84.17.47.125",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[584.5ms +/-10ms] NL_speednode_0026",
+      "server": "84.17.47.125",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "158.173.154.5",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[602.0ms +/-6ms] DK_speednode_0005",
+      "server": "158.173.154.5",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "84.17.47.123",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[625.5ms +/-6ms] NL_speednode_0027",
+      "server": "84.17.47.123",
+      "server_port": 9002
+    },
+    {
+      "username": "null",
+      "password": "null",
+      "tls": {
+        "enabled": true,
+        "server_name": "51.159.225.196",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[638.3ms +/-1ms] FR_speednode_0010",
+      "server": "51.159.225.196",
+      "server_port": 23856
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "82.65.162.76",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[666.8ms +/-1ms] FR_speednode_0012",
+      "server": "82.65.162.76",
+      "server_port": 443
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "213.109.163.119",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[670.6ms +/-9ms] DE_speednode_0004",
+      "server": "213.109.163.119",
+      "server_port": 443
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "158.173.154.1",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[698.9ms +/-1ms] DK_speednode_0006",
+      "server": "158.173.154.1",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "51.159.225.197",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[712.0ms +/-2ms] FR_speednode_0008",
+      "server": "51.159.225.197",
+      "server_port": 19362
     },
     {
       "uuid": "f5e70ce3-cfb4-4df1-b25c-d19bfae627c0",
@@ -727,11 +608,54 @@
         }
       },
       "type": "vless",
-      "tag": "🇳🇱 [649.6ms +/-4ms] vless-1935750593",
+      "tag": "🇳🇱 [562.9ms +/-1ms] vless-1935750593",
       "server": "185.14.30.98",
       "server_port": 8443
     },
     {
+      "tls": {
+        "enabled": true,
+        "server_name": "185.219.159.15",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[846.0ms +/-4ms] LV_speednode_0020",
+      "server": "185.219.159.15",
+      "server_port": 443
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "31.186.220.204",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[844.5ms +/-24ms] PL_speednode_0028",
+      "server": "31.186.220.204",
+      "server_port": 443
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [677.0ms +/-209ms] shadowsocks-1875023019",
+      "server": "202.50.253.63",
+      "server_port": 19999
+    },
+    {
+      "username": "null",
+      "password": "null",
+      "tls": {
+        "enabled": true,
+        "server_name": "103.97.88.154",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[794.9ms +/-21ms] NL_speednode_0022",
+      "server": "103.97.88.154",
+      "server_port": 443
+    },
+    {
       "password": "humanity",
       "tls": {
         "enabled": true,
@@ -746,58 +670,27 @@
         }
       },
       "type": "trojan",
-      "tag": "[684.2ms +/-78ms] 4Mohsen-45a653ad42",
-      "server": "104.26.0.1",
+      "tag": "[721.9ms +/-165ms] @DeltaKroneckerGithub",
+      "server": "104.20.6.134",
       "server_port": 443
     },
     {
-      "password": "7e68e32f-8015-4f37-9082-70e8b0b58043",
+      "password": "MiTiVPN",
       "tls": {
         "enabled": true,
-        "server_name": "www.bing.com",
-        "insecure": true
-      },
-      "type": "hysteria2",
-      "tag": "[591.4ms +/-68ms] 🇰🇷 韩国 | KOR",
-      "server": "3.36.61.213",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
+        "server_name": "community.fastly.steamstatic.com",
         "insecure": true
       },
       "transport": {
         "type": "ws",
-        "path": "/assignment",
+        "path": "/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/NLSus---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1",
         "headers": {
-          "Host": "www.calmlunch.com"
+          "Host": "mitivpn-mitivpn-mitivpn.ac.ir"
         }
       },
       "type": "trojan",
-      "tag": "[744.6ms +/-11ms] @prrofile_purple",
-      "server": "141.193.213.172",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.pleadcourt.org",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.pleadcourt.org"
-        }
-      },
-      "type": "trojan",
-      "tag": "🇬🇧 [975.9ms +/-21ms] 4FreeIran-418618b6e4",
-      "server": "57.128.183.108",
+      "tag": "[407.9ms +/-1ms] 🇺🇸US-🚀@VPNine1",
+      "server": "199.232.78.120",
       "server_port": 443
     },
     {
@@ -812,338 +705,103 @@
         "password": "850a3fb1cd33a28f12d837578ae1a2e7"
       },
       "type": "hysteria2",
-      "tag": "[587.2ms +/-3ms] 🇦🇺AU_4|123KB/s|R002-260618 01",
+      "tag": "[477.6ms +/-1ms] 🇦🇺AU_4|123KB/s|R002-260618 01",
       "server": "152.67.115.203",
       "server_port": 443
     },
     {
-      "uuid": "326227e2-f2d1-4f43-8715-9da854f5f4c0",
-      "tls": {
-        "enabled": true,
-        "server_name": "px2.5ibtc.cn",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/326227e2-f2d1-4f43-8715-9da854f5f4c0",
-        "headers": {
-          "Host": "px2.5ibtc.cn"
-        }
-      },
-      "type": "vless",
-      "tag": "[656.5ms +/-4ms] 4Kian-33fdfc8425",
-      "server": "104.21.29.202",
-      "server_port": 443
-    },
-    {
-      "uuid": "326227e2-f2d1-4f43-8715-9da854f5f4c0",
-      "tls": {
-        "enabled": true,
-        "server_name": "px2.5ibtc.cn",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/326227e2-f2d1-4f43-8715-9da854f5f4c0",
-        "headers": {
-          "Host": "px2.5ibtc.cn"
-        }
-      },
-      "type": "vless",
-      "tag": "[658.6ms +/-1ms] 4Nika-ecd7d05fc9",
-      "server": "172.67.149.199",
-      "server_port": 443
-    },
-    {
       "password": "humanity",
       "tls": {
         "enabled": true,
         "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "//assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[707.2ms +/-171ms] @pass_net🎃🕸️🎃",
-      "server": "212.183.88.136",
-      "server_port": 443
-    },
-    {
-      "uuid": "fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349",
-      "tls": {
-        "enabled": true,
-        "server_name": "vpn.cintaku.qzz.io",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/vlessws",
-        "headers": {
-          "Host": "vpn.cintaku.qzz.io"
-        }
-      },
-      "type": "vless",
-      "tag": "[797.2ms +/-4ms] 4Jadi-88d106e77c",
-      "server": "172.67.166.188",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.calmlunch.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "//assignment",
-        "headers": {
-          "Host": "www.calmlunch.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[733.8ms +/-57ms] [82818]",
-      "server": "172.67.156.116",
-      "server_port": 443
-    },
-    {
-      "uuid": "fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349",
-      "tls": {
-        "enabled": true,
-        "server_name": "vpn.cintaku.qzz.io",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/vlessws",
-        "headers": {
-          "Host": "vpn.cintaku.qzz.io"
-        }
-      },
-      "type": "vless",
-      "tag": "[788.7ms +/-0ms] 4Nika-26405b0f26",
-      "server": "104.17.11.191",
-      "server_port": 443
-    },
-    {
-      "uuid": "9c6bc1b2-910a-4321-9793-c8276e065aa1",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.bing.com",
-        "insecure": true
-      },
-      "type": "vless",
-      "tag": "[804.8ms +/-21ms] 🇩🇪 德国 | DEU",
-      "server": "138.68.104.9",
-      "server_port": 30161
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "34.249.214.108",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[610.0ms +/-1ms] IE_speednode_0013",
-      "server": "34.249.214.108",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "82.65.162.76",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[635.5ms +/-0ms] FR_speednode_0012",
-      "server": "82.65.162.76",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "84.17.47.123",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[604.0ms +/-8ms] NL_speednode_0027",
-      "server": "84.17.47.123",
-      "server_port": 9002
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "84.17.47.148",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[610.2ms +/-7ms] NL_speednode_0024",
-      "server": "84.17.47.148",
-      "server_port": 9002
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "158.173.154.5",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[619.8ms +/-1ms] DK_speednode_0005",
-      "server": "158.173.154.5",
-      "server_port": 9002
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "84.17.47.125",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[610.9ms +/-12ms] NL_speednode_0026",
-      "server": "84.17.47.125",
-      "server_port": 9002
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "84.17.47.149",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[608.2ms +/-16ms] NL_speednode_0025",
-      "server": "84.17.47.149",
-      "server_port": 9002
-    },
-    {
-      "uuid": "a52fd54b-ba4d-4d11-8e00-301e2646cd66",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "de8.vpngold.ru",
-        "insecure": true,
-        "reality": {
-          "enabled": true,
-          "public_key": "1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8",
-          "short_id": "385cb18df0892069"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "type": "vless",
-      "tag": "[740.1ms +/-38ms] @DeltaKroneckerGithub",
-      "server": "92.243.74.224",
-      "server_port": 8443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "213.109.163.119",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[657.1ms +/-4ms] DE_speednode_0004",
-      "server": "213.109.163.119",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "158.173.154.1",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[616.5ms +/-16ms] DK_speednode_0006",
-      "server": "158.173.154.1",
-      "server_port": 9002
-    },
-    {
-      "username": "null",
-      "password": "null",
-      "tls": {
-        "enabled": true,
-        "server_name": "51.159.225.196",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[670.5ms +/-3ms] FR_speednode_0010",
-      "server": "51.159.225.196",
-      "server_port": 23856
-    },
-    {
-      "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4",
-      "tls": {
-        "enabled": true,
-        "server_name": "jp3.yohototo.top",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/tyxyws",
-        "headers": {
-          "Host": "jp3.yohototo.top"
-        }
-      },
-      "type": "vless",
-      "tag": "[1395.3ms +/-64ms] vless-1853476976",
-      "server": "104.16.10.185",
-      "server_port": 443
-    },
-    {
-      "uuid": "689a62e4-37e7-41de-9e6a-f2a56368c9e2",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "sk3.speedtestinternet.link",
-        "insecure": true
-      },
-      "type": "vless",
-      "tag": "[935.5ms +/-2ms] 4Mohsen-194e9d03ac",
-      "server": "130.49.162.137",
-      "server_port": 443
-    },
-    {
-      "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4",
-      "tls": {
-        "enabled": true,
-        "server_name": "jp3.yohototo.top",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/tyxyws",
-        "headers": {
-          "Host": "jp3.yohototo.top"
-        }
-      },
-      "type": "vless",
-      "tag": "[976.6ms +/-7ms] 4FreeIran-9da8db6263",
-      "server": "104.18.153.10",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.cordweave.com",
         "insecure": true
       },
       "transport": {
         "type": "ws",
         "path": "/assignment",
         "headers": {
-          "Host": "www.cordweave.com"
+          "Host": "www.calmlunch.com"
         }
       },
       "type": "trojan",
-      "tag": "[1076.4ms +/-75ms] 4FreeIran-c39b2650a5",
-      "server": "185.82.218.224",
+      "tag": "[667.4ms +/-3ms] 4Nika-4b1d3e8d69",
+      "server": "185.114.72.31",
+      "server_port": 2053
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.calmlunch.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[647.3ms +/-34ms] 4Mohsen-0359eb4116",
+      "server": "141.101.115.104",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.calmlunch.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[591.3ms +/-2ms] 4Sarina-595948fa49",
+      "server": "104.21.13.204",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.calmlunch.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[649.9ms +/-38ms] 4Kian-1c86882a96",
+      "server": "172.64.150.28",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.calmlunch.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "🇩🇪 [699.2ms +/-3ms] 4Nika-e671a7d9cf",
+      "server": "185.220.100.168",
       "server_port": 443
     },
     {
@@ -1161,62 +819,73 @@
         }
       },
       "type": "trojan",
-      "tag": "[2358.4ms +/-24ms] 4Kian-0461815041",
-      "server": "64.227.115.28",
+      "tag": "🇬🇧 [698.6ms +/-3ms] 4FreeIran-418618b6e4",
+      "server": "57.128.183.108",
       "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "84.17.47.124",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[841.4ms +/-2ms] NL_speednode_0023",
-      "server": "84.17.47.124",
-      "server_port": 9002
-    },
-    {
-      "uuid": "0192c3d3-18d5-4b95-8eb3-598e18de6918",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.slovarik.xyz",
-        "insecure": true
-      },
-      "type": "vless",
-      "tag": "[863.4ms +/-24ms] @DeltaKroneckerGithub",
-      "server": "2.56.207.68",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "51.159.225.197",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[913.3ms +/-2ms] FR_speednode_0008",
-      "server": "51.159.225.197",
-      "server_port": 19362
     },
     {
       "password": "humanity",
       "tls": {
         "enabled": true,
-        "server_name": "www.cordweave.com",
+        "server_name": "www.calmlunch.com",
         "insecure": true
       },
       "transport": {
         "type": "ws",
         "path": "/assignment",
         "headers": {
-          "Host": "www.cordweave.com"
+          "Host": "www.calmlunch.com"
         }
       },
       "type": "trojan",
-      "tag": "[1655.7ms +/-103ms] 4Kian-a05db80293",
-      "server": "104.17.145.43",
+      "tag": "[690.4ms +/-37ms] 4Mohsen-28c1e109ec",
+      "server": "172.67.217.240",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.calmlunch.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[693.4ms +/-15ms] 4Kian-b136b572f9",
+      "server": "172.64.153.61",
+      "server_port": 443
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "[600.9ms +/-2ms] @B2Hub",
+      "server": "202.50.253.18",
+      "server_port": 19999
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "//assignment",
+        "headers": {
+          "Host": "www.calmlunch.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[648.4ms +/-37ms] 4Sarina-dcf22bb81e",
+      "server": "104.25.124.54",
       "server_port": 443
     },
     {
@@ -1226,7 +895,7 @@
         "insecure": true
       },
       "type": "http",
-      "tag": "[946.7ms +/-8ms] LV_speednode_0021",
+      "tag": "[877.6ms +/-115ms] LV_speednode_0021",
       "server": "185.219.159.16",
       "server_port": 443
     },
@@ -1234,19 +903,119 @@
       "password": "humanity",
       "tls": {
         "enabled": true,
-        "server_name": "www.trusteeforward.com",
+        "server_name": "www.calmlunch.com",
         "insecure": true
       },
       "transport": {
         "type": "ws",
         "path": "/assignment",
         "headers": {
-          "Host": "www.trusteeforward.com"
+          "Host": "www.calmlunch.com"
         }
       },
       "type": "trojan",
-      "tag": "[994.4ms +/-328ms] @V2ray_Alpha⭐",
-      "server": "162.159.84.189",
+      "tag": "[627.2ms +/-28ms] 4Mohsen-45a653ad42",
+      "server": "104.26.0.1",
+      "server_port": 443
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [604.1ms +/-11ms] @v2ray_configs_pools",
+      "server": "202.50.253.45",
+      "server_port": 19999
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [936.6ms +/-198ms] shadowsocks-1875023048",
+      "server": "202.50.253.72",
+      "server_port": 19999
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [590.4ms +/-13ms] 🇮🇹",
+      "server": "202.50.253.81",
+      "server_port": 19999
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.calmlunch.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[671.0ms +/-62ms] 4Jadi-e23d296b5d",
+      "server": "45.130.125.190",
+      "server_port": 443
+    },
+    {
+      "uuid": "c1c04450-bf71-4049-ad0c-9cf6d94d9f1f",
+      "tls": {
+        "enabled": true,
+        "server_name": "ty986gfazs.cainiaohub.xyz",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/81574b6b-c9d7-44a0-b83d-dad56e8cb530",
+        "headers": {
+          "Host": "ty986gfazs.cainiaohub.xyz"
+        }
+      },
+      "type": "vless",
+      "tag": "[591.3ms +/-6ms] 4Kian-8eb71b2aab",
+      "server": "60.248.219.53",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.calmlunch.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[787.7ms +/-7ms] 4Jadi-f9c3a2c979",
+      "server": "104.16.72.2",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.pleadcourt.org",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.pleadcourt.org"
+        }
+      },
+      "type": "trojan",
+      "tag": "[638.7ms +/-2ms] @V2ray_confiig",
+      "server": "108.162.194.134",
       "server_port": 443
     },
     {
@@ -1256,11 +1025,65 @@
         "insecure": true
       },
       "type": "http",
-      "tag": "[857.2ms +/-53ms] FR_speednode_0009",
+      "tag": "[841.2ms +/-167ms] FR_speednode_0009",
       "server": "83.206.1.225",
       "server_port": 8090
     },
     {
+      "uuid": "c1c04450-bf71-4049-ad0c-9cf6d94d9f1f",
+      "tls": {
+        "enabled": true,
+        "server_name": "ty986gfazs.cainiaohub.xyz",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/81574b6b-c9d7-44a0-b83d-dad56e8cb530",
+        "headers": {}
+      },
+      "type": "vless",
+      "tag": "🇹🇼 [595.3ms +/-13ms] 4Kian-cc28120c67",
+      "server": "59.125.69.23",
+      "server_port": 443
+    },
+    {
+      "password": "69e41e64-a832-471a-b740-94577ca85520",
+      "tls": {
+        "enabled": true,
+        "server_name": "forshynewh.duckdns.org",
+        "insecure": true
+      },
+      "type": "hysteria2",
+      "tag": "[580.2ms +/-13ms] 4Sarina-a20cb408c2",
+      "server": "217.60.73.56",
+      "server_port": 443
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [614.6ms +/-46ms] 🇮🇹",
+      "server": "202.50.253.36",
+      "server_port": 19999
+    },
+    {
+      "uuid": "91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a",
+      "tls": {
+        "enabled": true,
+        "server_name": "n04.jinggai.online",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/nvl-n04-ws/e0577fe8fd7c8823",
+        "headers": {}
+      },
+      "type": "vless",
+      "tag": "[768.9ms +/-2ms] vless-1944434951",
+      "server": "n04.jinggai.online",
+      "server_port": 8443
+    },
+    {
       "password": "humanity",
       "tls": {
         "enabled": true,
@@ -1275,21 +1098,8 @@
         }
       },
       "type": "trojan",
-      "tag": "[1604.0ms +/-115ms] 4Jadi-96350f313a",
-      "server": "46.174.142.238",
-      "server_port": 443
-    },
-    {
-      "username": "null",
-      "password": "null",
-      "tls": {
-        "enabled": true,
-        "server_name": "103.97.88.154",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[863.1ms +/-4ms] NL_speednode_0022",
-      "server": "103.97.88.154",
+      "tag": "[647.0ms +/-6ms] 4Mohsen-2aa5a09199",
+      "server": "104.18.46.59",
       "server_port": 443
     },
     {
@@ -1307,20 +1117,36 @@
         }
       },
       "type": "trojan",
-      "tag": "[2354.8ms +/-175ms] 4Sarina-3c854972db",
-      "server": "172.64.153.224",
+      "tag": "[651.5ms +/-9ms] 4Jadi-b2ec86fd4f",
+      "server": "172.64.154.144",
       "server_port": 443
     },
     {
+      "password": "humanity",
       "tls": {
         "enabled": true,
-        "server_name": "149.22.86.1",
+        "server_name": "www.cordweave.com",
         "insecure": true
       },
-      "type": "http",
-      "tag": "[1189.0ms +/-5ms] 🇵🇹PT_1|2.2MB/s",
-      "server": "149.22.86.1",
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.cordweave.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[642.9ms +/-25ms] 4Mohsen-ac82446d49",
+      "server": "162.159.58.65",
       "server_port": 443
+    },
+    {
+      "method": "chacha20-ietf-poly1305",
+      "password": "BHxDn8Z67zuaoQsjHqSAMQQs8Dz1CGqJ",
+      "type": "shadowsocks",
+      "tag": "[634.0ms +/-4ms] 4Sarina-35f99ae02e",
+      "server": "77.216.2.178",
+      "server_port": 30
     },
     {
       "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4",
@@ -1337,30 +1163,27 @@
         }
       },
       "type": "vless",
-      "tag": "[1315.5ms +/-836ms] vless-1827151410",
-      "server": "104.19.164.155",
+      "tag": "[1143.1ms +/-2ms] vless-1827152273",
+      "server": "162.159.254.3",
       "server_port": 443
     },
     {
+      "password": "humanity",
       "tls": {
         "enabled": true,
-        "server_name": "31.186.220.204",
+        "server_name": "www.pleadcourt.org",
         "insecure": true
       },
-      "type": "http",
-      "tag": "[1122.9ms +/-16ms] PL_speednode_0028",
-      "server": "31.186.220.204",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "185.219.159.15",
-        "insecure": true
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.pleadcourt.org"
+        }
       },
-      "type": "http",
-      "tag": "[1542.5ms +/-2ms] LV_speednode_0020",
-      "server": "185.219.159.15",
+      "type": "trojan",
+      "tag": "[661.4ms +/-58ms] 4FreeIran-4dd82db815",
+      "server": "188.114.97.8",
       "server_port": 443
     },
     {
@@ -1378,65 +1201,46 @@
         }
       },
       "type": "trojan",
-      "tag": "[2023.0ms +/-287ms] 4Nika-920fa09d8e",
-      "server": "104.16.65.1",
-      "server_port": 443
-    },
-    {
-      "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4",
-      "tls": {
-        "enabled": true,
-        "server_name": "jp3.yohototo.top",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/tyxyws",
-        "headers": {
-          "Host": "jp3.yohototo.top"
-        }
-      },
-      "type": "vless",
-      "tag": "[1344.4ms +/-213ms] 4Kian-37020e80bd",
-      "server": "104.16.10.63",
+      "tag": "[679.9ms +/-19ms] 4Nika-106a468bc6",
+      "server": "104.27.55.4",
       "server_port": 443
     },
     {
       "password": "humanity",
       "tls": {
         "enabled": true,
-        "server_name": "www.cordweave.com",
+        "server_name": "www.calmlunch.com",
         "insecure": true
       },
       "transport": {
         "type": "ws",
         "path": "/assignment",
         "headers": {
-          "Host": "www.cordweave.com"
+          "Host": "www.calmlunch.com"
         }
       },
       "type": "trojan",
-      "tag": "[2006.3ms +/-339ms] 4Mohsen-48540adf70",
-      "server": "38.180.225.247",
-      "server_port": 2053
+      "tag": "[880.2ms +/-7ms] 4Jadi-c2e6ff7722",
+      "server": "104.18.37.228",
+      "server_port": 443
     },
     {
       "password": "humanity",
       "tls": {
         "enabled": true,
-        "server_name": "www.cordweave.com",
+        "server_name": "www.calmlunch.com",
         "insecure": true
       },
       "transport": {
         "type": "ws",
         "path": "/assignment",
         "headers": {
-          "Host": "www.cordweave.com"
+          "Host": "www.calmlunch.com"
         }
       },
       "type": "trojan",
-      "tag": "[1550.5ms +/-497ms] 4Nika-d76b1d49cc",
-      "server": "104.18.42.190",
+      "tag": "[705.7ms +/-2ms] 4Kian-b32b17cef2",
+      "server": "81.22.132.136",
       "server_port": 443
     },
     {
@@ -1454,26 +1258,7 @@
         }
       },
       "type": "trojan",
-      "tag": "[1895.1ms +/-520ms] 4Sarina-b48df452a1",
-      "server": "104.16.244.188",
-      "server_port": 443
-    },
-    {
-      "password": "humanity",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.cordweave.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/assignment",
-        "headers": {
-          "Host": "www.cordweave.com"
-        }
-      },
-      "type": "trojan",
-      "tag": "[1494.7ms +/-669ms] 4Mohsen-2133b4f588",
+      "tag": "[682.0ms +/-13ms] 4Sarina-edad1d405e",
       "server": "104.18.189.153",
       "server_port": 443
     },
@@ -1492,7 +1277,7 @@
         }
       },
       "type": "trojan",
-      "tag": "[1940.7ms +/-443ms] 4FreeIran-f3af0a582e",
+      "tag": "[696.8ms +/-23ms] 4Kian-e3375d28a9",
       "server": "172.64.229.7",
       "server_port": 443
     },
@@ -1511,23 +1296,829 @@
         }
       },
       "type": "trojan",
-      "tag": "[1655.8ms +/-995ms] 4Jadi-6cfc10892b",
-      "server": "104.17.191.193",
+      "tag": "[703.9ms +/-7ms] 4Mohsen-2831638df0",
+      "server": "104.19.43.102",
       "server_port": 443
     },
     {
-      "uuid": "50414e45-4c5f-5a45-5553-52108a2d5224",
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.pleadcourt.org",
+        "insecure": true
+      },
       "transport": {
         "type": "ws",
-        "path": "/api/ws",
+        "path": "/assignment",
         "headers": {
-          "Host": "web-app-nr6wpa.app-tp57xz.workers.dev"
+          "Host": "www.pleadcourt.org"
+        }
+      },
+      "type": "trojan",
+      "tag": "[700.7ms +/-4ms] 4Jadi-5c5c5399d5",
+      "server": "188.114.97.1",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.calmlunch.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[694.6ms +/-34ms] @prrofile_purple",
+      "server": "141.193.213.172",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.pleadcourt.org",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.pleadcourt.org"
+        }
+      },
+      "type": "trojan",
+      "tag": "[649.8ms +/-7ms] @ICV2RAY",
+      "server": "104.18.45.38",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.calmlunch.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[788.3ms +/-110ms] 4Jadi-661f0ef3b2",
+      "server": "104.17.0.1",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.pleadcourt.org",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.pleadcourt.org"
+        }
+      },
+      "type": "trojan",
+      "tag": "[621.1ms +/-2ms] @ConfigV2RayNG",
+      "server": "109.234.211.232",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "//assignment",
+        "headers": {
+          "Host": "www.calmlunch.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[801.5ms +/-23ms] 4Kian-1ee784e233",
+      "server": "172.67.156.116",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.calmlunch.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[827.0ms +/-26ms] 4Jadi-0a7a6285df",
+      "server": "104.19.64.105",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.trusteeforward.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.trusteeforward.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[886.9ms +/-20ms] @ICV2RAY",
+      "server": "104.20.55.137",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cordweave.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.cordweave.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[698.1ms +/-115ms] 4Kian-66e453e00c",
+      "server": "46.174.142.238",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.calmlunch.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[802.4ms +/-134ms] 4Jadi-c430fd7f94",
+      "server": "104.17.175.201",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cordweave.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.cordweave.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[874.0ms +/-10ms] 4FreeIran-a26a4f0af0",
+      "server": "185.82.218.224",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.pleadcourt.org",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.pleadcourt.org"
+        }
+      },
+      "type": "trojan",
+      "tag": "[859.4ms +/-27ms] @V2ray_confiig",
+      "server": "104.27.203.207",
+      "server_port": 443
+    },
+    {
+      "uuid": "91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a",
+      "tls": {
+        "enabled": true,
+        "server_name": "n04.jinggai.online",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/nvl-n04-ws/e0577fe8fd7c8823",
+        "headers": {
+          "Host": "n04.jinggai.online"
         }
       },
       "type": "vless",
-      "tag": "[1090.3ms +/-303ms] 4Mohsen-72f76751c3",
-      "server": "104.27.88.172",
-      "server_port": 80
+      "tag": "[758.0ms +/-7ms] 4Nika-5e3c7929c9",
+      "server": "172.67.165.32",
+      "server_port": 8443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cordweave.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.cordweave.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[831.0ms +/-61ms] 4Jadi-304d4c6917",
+      "server": "185.146.234.242",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.pleadcourt.org",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.pleadcourt.org"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1121.9ms +/-25ms] 4Jadi-04e4d8e9ae",
+      "server": "153.92.127.26",
+      "server_port": 443
+    },
+    {
+      "password": "5t6i121em5lkmsmk",
+      "tls": {
+        "enabled": true,
+        "server_name": "ph001.zestapp778.com",
+        "insecure": true
+      },
+      "type": "trojan",
+      "tag": "[817.6ms +/-1ms] 4Jadi-5579bae52f",
+      "server": "ph001.zestapp778.com",
+      "server_port": 46298
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "149.22.86.1",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[1005.2ms +/-15ms] 🇵🇹PT_1|2.2MB/s",
+      "server": "149.22.86.1",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cordweave.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.cordweave.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[897.6ms +/-21ms] 4Sarina-ae15c7dc05",
+      "server": "199.119.137.32",
+      "server_port": 8443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.pleadcourt.org",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.pleadcourt.org"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1053.9ms +/-11ms] 4Kian-2271323848",
+      "server": "104.18.192.53",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.pleadcourt.org",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.pleadcourt.org"
+        }
+      },
+      "type": "trojan",
+      "tag": "[901.7ms +/-36ms] 4Jadi-50311a015f",
+      "server": "209.38.99.120",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cordweave.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.cordweave.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[957.7ms +/-6ms] 4Kian-0d44ea88a5",
+      "server": "85.235.64.69",
+      "server_port": 443
+    },
+    {
+      "uuid": "056405e8-de9f-4d0d-8145-956f13cc34da",
+      "tls": {
+        "enabled": true,
+        "server_name": "a0688bt.us4.h1clayd.click",
+        "insecure": true,
+        "reality": {
+          "enabled": true,
+          "public_key": "5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E",
+          "short_id": "257420d9d430152a"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "type": "vless",
+      "tag": "[972.7ms +/-2ms] 4FreeIran-713f4efa38",
+      "server": "79.182.39.57",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cordweave.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.cordweave.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1045.2ms +/-17ms] 4Nika-00dd907163",
+      "server": "62.182.198.47",
+      "server_port": 8443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.pleadcourt.org",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.pleadcourt.org"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1648.6ms +/-14ms] @tootffarangi🍓",
+      "server": "104.27.201.80",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cordweave.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.cordweave.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1093.9ms +/-20ms] 4Sarina-2121bab614",
+      "server": "93.85.236.9",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cordweave.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.cordweave.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[897.0ms +/-149ms] 4Sarina-3faedfb2ca",
+      "server": "179.255.115.39",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "//assignment",
+        "headers": {
+          "Host": "www.calmlunch.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[881.7ms +/-253ms] 4FreeIran-68548d0a67",
+      "server": "104.16.0.1",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.calmlunch.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.calmlunch.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[937.4ms +/-272ms] 4Jadi-0f7a9f43f3",
+      "server": "104.18.12.149",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.pleadcourt.org",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.pleadcourt.org"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1517.2ms +/-37ms] 4Nika-ffc5e405fb",
+      "server": "192.145.30.27",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.pleadcourt.org",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.pleadcourt.org"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1666.8ms +/-3ms] 4Jadi-f9a1d7e954",
+      "server": "162.159.228.224",
+      "server_port": 443
+    },
+    {
+      "uuid": "07680ffb-0666-4836-b6ad-ec0de62bc38f",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "assets-mi-26.spbstudentlife.com",
+        "insecure": true,
+        "reality": {
+          "enabled": true,
+          "public_key": "cYtAkO6yUCuRTxHvF8EH76bybk1yfS005KLls-at2yc",
+          "short_id": "a7856800c2deb7b2"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "type": "vless",
+      "tag": "[1100.9ms +/-37ms] 4Jadi-2e6a6badb8",
+      "server": "31.76.227.57",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cordweave.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.cordweave.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1385.5ms +/-15ms] 4Nika-c63ac63947",
+      "server": "109.248.170.245",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cordweave.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.cordweave.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1574.9ms +/-14ms] 4Kian-271cb3522b",
+      "server": "95.182.95.144",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cordweave.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.cordweave.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1353.0ms +/-49ms] 4Nika-292753bd93",
+      "server": "88.218.92.205",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.pleadcourt.org",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.pleadcourt.org"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1606.7ms +/-13ms] Channel",
+      "server": "104.25.10.54",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cordweave.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.cordweave.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1640.4ms +/-55ms] 4FreeIran-74ce9a5293",
+      "server": "45.8.115.202",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.pleadcourt.org",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.pleadcourt.org"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1461.8ms +/-84ms] 4Jadi-d5d9ecb18e",
+      "server": "188.114.97.5",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cordweave.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.cordweave.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1465.9ms +/-97ms] 4Sarina-2c1b6f0c85",
+      "server": "3.112.41.210",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.trusteeforward.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.trusteeforward.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1073.5ms +/-296ms] 👾75@ConfigV2RayNG",
+      "server": "104.18.37.127",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cordweave.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.cordweave.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1117.0ms +/-224ms] 4Sarina-33000d287c",
+      "server": "38.180.225.247",
+      "server_port": 2053
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.trusteeforward.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.trusteeforward.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1047.4ms +/-720ms] @ICV2RAY",
+      "server": "104.18.49.85",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cordweave.com",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.cordweave.com"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1704.8ms +/-237ms] 4Nika-952fb79fbc",
+      "server": "168.144.41.69",
+      "server_port": 443
+    },
+    {
+      "uuid": "0192c3d3-18d5-4b95-8eb3-598e18de6918",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.slovarik.xyz",
+        "insecure": true
+      },
+      "type": "vless",
+      "tag": "[938.2ms +/-415ms] 4FreeIran-eb1cce9200",
+      "server": "2.56.207.68",
+      "server_port": 443
+    },
+    {
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.pleadcourt.org",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/assignment",
+        "headers": {
+          "Host": "www.pleadcourt.org"
+        }
+      },
+      "type": "trojan",
+      "tag": "[1365.5ms +/-558ms] 4Kian-0461815041",
+      "server": "64.227.115.28",
+      "server_port": 443
     },
     {
       "type": "direct",
