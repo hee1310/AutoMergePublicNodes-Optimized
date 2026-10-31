@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](requirements.txt)
-[![节点更新](https://github.com/LeilaoMi/AutoMergePublicNodes-Optimized/actions/workflows/update.yml/badge.svg)](https://github.com/LeilaoMi/AutoMergePublicNodes-Optimized/actions/workflows/update.yml)
+[![节点更新](https://github.com/hee1310/AutoMergePublicNodes-Optimized/actions/workflows/update.yml/badge.svg)](https://github.com/hee1310/AutoMergePublicNodes-Optimized/actions/workflows/update.yml)
 
 每 6 小时从 100 多个公开订阅源收集节点，用 sing-box 逐个做真实代理连接测试，再用海内探针检查能否连上，最后输出可直接导入客户端的订阅。
 
@@ -25,33 +25,33 @@
 jsDelivr（海内通常更快）：
 
 ```text
-https://cdn.jsdelivr.net/gh/LeilaoMi/AutoMergePublicNodes-Optimized@main/output/verified.yaml
-https://cdn.jsdelivr.net/gh/LeilaoMi/AutoMergePublicNodes-Optimized@main/output/verified.txt
-https://cdn.jsdelivr.net/gh/LeilaoMi/AutoMergePublicNodes-Optimized@main/output/verified.json
-https://cdn.jsdelivr.net/gh/LeilaoMi/AutoMergePublicNodes-Optimized@main/output/global.yaml
-https://cdn.jsdelivr.net/gh/LeilaoMi/AutoMergePublicNodes-Optimized@main/output/global.txt
-https://cdn.jsdelivr.net/gh/LeilaoMi/AutoMergePublicNodes-Optimized@main/output/global.json
-https://cdn.jsdelivr.net/gh/LeilaoMi/AutoMergePublicNodes-Optimized@data/output/all.yaml
-https://cdn.jsdelivr.net/gh/LeilaoMi/AutoMergePublicNodes-Optimized@data/output/all.txt
+https://cdn.jsdelivr.net/gh/hee1310/AutoMergePublicNodes-Optimized@main/output/verified.yaml
+https://cdn.jsdelivr.net/gh/hee1310/AutoMergePublicNodes-Optimized@main/output/verified.txt
+https://cdn.jsdelivr.net/gh/hee1310/AutoMergePublicNodes-Optimized@main/output/verified.json
+https://cdn.jsdelivr.net/gh/hee1310/AutoMergePublicNodes-Optimized@main/output/global.yaml
+https://cdn.jsdelivr.net/gh/hee1310/AutoMergePublicNodes-Optimized@main/output/global.txt
+https://cdn.jsdelivr.net/gh/hee1310/AutoMergePublicNodes-Optimized@main/output/global.json
+https://cdn.jsdelivr.net/gh/hee1310/AutoMergePublicNodes-Optimized@data/output/all.yaml
+https://cdn.jsdelivr.net/gh/hee1310/AutoMergePublicNodes-Optimized@data/output/all.txt
 ```
 
 GitHub Raw（jsDelivr 不可用时）：
 
 ```text
-https://raw.githubusercontent.com/LeilaoMi/AutoMergePublicNodes-Optimized/main/output/verified.yaml
-https://raw.githubusercontent.com/LeilaoMi/AutoMergePublicNodes-Optimized/main/output/global.yaml
-https://raw.githubusercontent.com/LeilaoMi/AutoMergePublicNodes-Optimized/data/output/all.yaml
+https://raw.githubusercontent.com/hee1310/AutoMergePublicNodes-Optimized/main/output/verified.yaml
+https://raw.githubusercontent.com/hee1310/AutoMergePublicNodes-Optimized/main/output/global.yaml
+https://raw.githubusercontent.com/hee1310/AutoMergePublicNodes-Optimized/data/output/all.yaml
 ```
 
 > 文件名把 `verified` / `global` 换掉、扩展名换成需要的格式即可。另有按协议（`by_protocol/`）、按地区（`by_region/`）和每 100 个一块（`chunks/`）的拆分订阅，见 [输出文件](#输出文件)。订阅转换链接在 `output/*.converter.md`，第三方转换服务可能失效或记录订阅地址，能直接用本仓库文件就别转换。
 
 ### 在线筛选
 
-👉 **[节点筛选页](https://leilaomi.github.io/AutoMergePublicNodes-Optimized/)**：在浏览器里按地区、协议、关键词筛选全量池，标出每个节点的 CI 实测结果（海内可达 / 海外可用 + 延迟），可以只看实测通过的、按延迟排序，然后导出 Clash YAML、Base64 或 sing-box JSON。全部在本地计算，不经过任何服务器。
+👉 **[节点筛选页](https://hee1310.github.io/AutoMergePublicNodes-Optimized/)**：在浏览器里按地区、协议、关键词筛选全量池，标出每个节点的 CI 实测结果（海内可达 / 海外可用 + 延迟），可以只看实测通过的、按延迟排序，然后导出 Clash YAML、Base64 或 sing-box JSON。全部在本地计算，不经过任何服务器。
 
 > 浏览器无法直接连接代理协议，所以页面不做测速，延迟数据来自最近一轮 CI。
 
-👉 **[订阅源健康面板](https://leilaomi.github.io/AutoMergePublicNodes-Optimized/sources.html)**：各订阅源的抓取状态、死源清单、贡献排行和最近 30 轮的漏斗趋势。
+👉 **[订阅源健康面板](https://hee1310.github.io/AutoMergePublicNodes-Optimized/sources.html)**：各订阅源的抓取状态、死源清单、贡献排行和最近 30 轮的漏斗趋势。
 
 ---
 
@@ -202,7 +202,7 @@ https://raw.githubusercontent.com/LeilaoMi/AutoMergePublicNodes-Optimized/data/o
 ## 本地运行
 
 ```bash
-git clone https://github.com/LeilaoMi/AutoMergePublicNodes-Optimized.git
+git clone https://github.com/hee1310/AutoMergePublicNodes-Optimized.git
 cd AutoMergePublicNodes-Optimized
 pip install -r requirements.txt
 # 把 sing-box 可执行文件放到仓库根目录，然后：
