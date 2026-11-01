@@ -60,16 +60,16 @@ https://raw.githubusercontent.com/hee1310/AutoMergePublicNodes-Optimized/data/ou
 
 | 指标 | 数值 |
 | --- | --- |
-| 更新时间 | 2026-11-01 14:22（北京时间） |
-| 订阅源（可用/总数） | 88/111 |
-| 原始节点 → 去重后 | 80510 → 26376 |
-| 送入测试 → 探活通过 → 真测通过 | 3000 → 804 → 614 |
-| 国内可达 / 不可达 / 未知 | 72 / 307 / 235 |
-| 国内检查缓存命中 | 182 |
-| **verified 输出** | 72 |
+| 更新时间 | 2026-11-01 21:38（北京时间） |
+| 订阅源（可用/总数） | 89/111 |
+| 原始节点 → 去重后 | 81865 → 26805 |
+| 送入测试 → 探活通过 → 真测通过 | 3000 → 742 → 517 |
+| 国内可达 / 不可达 / 未知 | 108 / 298 / 111 |
+| 国内检查缓存命中 | 210 |
+| **verified 输出** | 108 |
 | **global 输出** | 300 |
-| all 全量池 | 26376 |
-| 本轮耗时 | 339.7 秒 |
+| all 全量池 | 26805 |
+| 本轮耗时 | 316.8 秒 |
 
 > 输出保护：无。完整报告见 `output/health_report.md`、`output/stats.json`。
 
@@ -77,21 +77,21 @@ https://raw.githubusercontent.com/hee1310/AutoMergePublicNodes-Optimized/data/ou
 
 | 评分 | 协议 | 延迟(ms) | 来源 |
 | --- | --- | --- | --- |
-| 98.36 | trojan | 179.6 | Au1rxx-base64 |
-| 98.35 | trojan | 179.2 | Au1rxx-base64 |
-| 97.25 | trojan | 188.4 | Au1rxx-base64 |
-| 96.69 | trojan | 254.3 | Au1rxx-base64 |
-| 96.0 | trojan | 262.4 | Au1rxx-base64 |
+| 94.21 | trojan | 277.4 | Au1rxx-base64 |
+| 94.19 | shadowsocks | 243.4 | Au1rxx-base64 |
+| 94.08 | hysteria2 | 275.8 | Au1rxx-base64 |
+| 93.99 | shadowsocks | 251.7 | Au1rxx-base64 |
+| 93.34 | trojan | 280.5 | Au1rxx-base64 |
 
 ### Top 来源质量
 
 | 来源 | 评分 | 测试数 | 建议 |
 | --- | --- | --- | --- |
-| ermaozi-get_subscribe | 0.971 | 37 | prefer |
-| Au1rxx-base64 | 0.892 | 341 | prefer |
+| ermaozi-get_subscribe | 0.985 | 55 | prefer |
 | zhangkai | 0.877 | 19 | prefer |
-| mheidari-all | 0.831 | 215 | prefer |
-| Surfboard-tg-mixed | 0.695 | 185 | observe |
+| DeltaKronecker-all | 0.868 | 31 | prefer |
+| Au1rxx-base64 | 0.846 | 311 | prefer |
+| Surfboard-tg-mixed | 0.784 | 96 | prefer |
 
 <!-- AUTONODES_STATS_END -->
 
