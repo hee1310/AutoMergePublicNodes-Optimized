@@ -1,29 +1,30 @@
 # 订阅源质量评分
 
-生成时间：2026-11-04 23:55:53
+生成时间：2026-11-05 00:09:11
 
 ## 摘要
 
 | 指标 | 值 |
 | --- | --- |
-| 已评分订阅源总数 | 89 |
-| 建议优先 | 4 |
-| 继续观察 | 85 |
-| 建议降权 | 0 |
+| 已评分订阅源总数 | 92 |
+| 建议优先 | 3 |
+| 继续观察 | 88 |
+| 建议降权 | 1 |
 | 建议禁用 | 0 |
 
 ## 建议优先
 
 | 订阅源 | 评分 | 建议 | 已测 | 通过 | 失败 | 通过率 | 解析数 | 连续死亡 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Surfboard-tg-mixed | 0.968 | prefer | 87 | 78 | 9 | 0.897 | 8651 | 0 |
+| Au1rxx-base64 | 0.952 | prefer | 167 | 148 | 19 | 0.886 | 1751 | 0 |
 | zhangkai | 0.923 | prefer | 19 | 19 | 0 | 1.0 | 43 | 0 |
-| Au1rxx-base64 | 0.893 | prefer | 241 | 199 | 42 | 0.826 | 1751 | 0 |
-| mheidari-all | 0.879 | prefer | 197 | 158 | 39 | 0.802 | 14725 | 0 |
+| Surfboard-tg-mixed | 0.904 | prefer | 66 | 55 | 11 | 0.833 | 8651 | 0 |
 
 ## 建议降权
 
-无记录。
+| 订阅源 | 评分 | 建议 | 已测 | 通过 | 失败 | 通过率 | 解析数 | 连续死亡 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| xiaoji235-airport-v2ray-all | 0.249 | downweight | 10 | 2 | 8 | 0.2 | 6752 | 0 |
 
 ## 建议禁用
 
@@ -33,11 +34,12 @@
 
 | 订阅源 | 评分 | 建议 | 已测 | 通过 | 失败 | 通过率 | 解析数 | 连续死亡 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Surfboard-tg-mixed | 0.968 | prefer | 87 | 78 | 9 | 0.897 | 8651 | 0 |
+| Au1rxx-base64 | 0.952 | prefer | 167 | 148 | 19 | 0.886 | 1751 | 0 |
 | zhangkai | 0.923 | prefer | 19 | 19 | 0 | 1.0 | 43 | 0 |
-| Au1rxx-base64 | 0.893 | prefer | 241 | 199 | 42 | 0.826 | 1751 | 0 |
-| mheidari-all | 0.879 | prefer | 197 | 158 | 39 | 0.802 | 14725 | 0 |
-| xiaoji235-airport-v2ray-all | 0.335 | observe | 1 | 1 | 0 | 1.0 | 6752 | 0 |
+| Surfboard-tg-mixed | 0.904 | prefer | 66 | 55 | 11 | 0.833 | 8651 | 0 |
+| mheidari-all | 0.617 | observe | 378 | 203 | 175 | 0.537 | 14725 | 0 |
+| ALL | 0.41 | observe | 95 | 31 | 64 | 0.326 | 115838 | 0 |
+| github_links | 0.255 | observe | 0 | 0 | 0 | None | 35748 | 0 |
 | SoliSpirit-all | 0.255 | observe | 0 | 0 | 0 | None | 10844 | 0 |
 | barry-far-vless | 0.255 | observe | 0 | 0 | 0 | None | 6228 | 0 |
 | Surfboard-tg-vless | 0.255 | observe | 0 | 0 | 0 | None | 6015 | 0 |
@@ -45,29 +47,29 @@
 | mahdibland-V2RayAggregator | 0.255 | observe | 0 | 0 | 0 | None | 4612 | 0 |
 | MatinGhanbari-all-sub | 0.255 | observe | 0 | 0 | 0 | None | 3998 | 0 |
 | DeltaKronecker-all | 0.255 | observe | 0 | 0 | 0 | None | 2526 | 0 |
-| ninja-vless | 0.247 | observe | 0 | 0 | 0 | None | 1791 | 0 |
+| xiaoji235-airport-v2ray-all | 0.249 | downweight | 10 | 2 | 8 | 0.2 | 6752 | 0 |
 | Au1rxx-clash | 0.245 | observe | 0 | 0 | 0 | None | 1751 | 0 |
 | moneyfly1-collectSub | 0.222 | observe | 0 | 0 | 0 | None | 1164 | 0 |
 | 10ium-HighSpeed | 0.209 | observe | 0 | 0 | 0 | None | 839 | 0 |
+| ninja-vless | 0.199 | observe | 1 | 0 | 1 | 0.0 | 1791 | 0 |
 | barry-far-Sub2 | 0.195 | observe | 0 | 0 | 0 | None | 498 | 0 |
 | barry-far-Sub1 | 0.195 | observe | 0 | 0 | 0 | None | 489 | 0 |
 | ermaozi-get_subscribe | 0.192 | observe | 0 | 0 | 0 | None | 413 | 0 |
+| tg-ConfigV2rayNG | 0.186 | observe | 0 | 0 | 0 | None | 275 | 0 |
 | tg-V2RAYProxy | 0.184 | observe | 0 | 0 | 0 | None | 217 | 0 |
 | chromego_merge | 0.183 | observe | 0 | 0 | 0 | None | 210 | 0 |
 | ts-sf-Fly | 0.183 | observe | 0 | 0 | 0 | None | 201 | 0 |
 | MatinGhanbari-super-sub | 0.183 | observe | 0 | 0 | 0 | None | 200 | 0 |
-| tg-ConfigV2rayNG | 0.183 | observe | 0 | 0 | 0 | None | 200 | 0 |
 | tg-Farah_VPN | 0.183 | observe | 0 | 0 | 0 | None | 200 | 0 |
 | ts-sf | 0.183 | observe | 0 | 0 | 0 | None | 200 | 0 |
 | tg-Outline_Vpn | 0.182 | observe | 0 | 0 | 0 | None | 185 | 0 |
 | tg-LonUp_M | 0.182 | observe | 0 | 0 | 0 | None | 175 | 0 |
-| tg-prrofile_purple | 0.181 | observe | 0 | 0 | 0 | None | 154 | 0 |
-| roosterkid-openproxylist-v2ray | 0.181 | observe | 0 | 0 | 0 | None | 150 | 0 |
 
 ## 综合后 30
 
 | 订阅源 | 评分 | 建议 | 已测 | 通过 | 失败 | 通过率 | 解析数 | 连续死亡 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ALL2 | 0.025 | observe | 0 | 0 | 0 | None | 0 | 1 |
 | tg-ShadowsocksM | 0.025 | observe | 0 | 0 | 0 | None | 0 | 1 |
 | tg-proxy_kafee | 0.025 | observe | 0 | 0 | 0 | None | 0 | 1 |
 | tg-oneclickvpnkeys | 0.133 | observe | 1 | 0 | 1 | 0.0 | 139 | 0 |

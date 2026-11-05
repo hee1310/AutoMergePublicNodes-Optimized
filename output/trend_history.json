@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 23:55:53",
+  "updated_at": "2026-11-05 00:09:10",
   "keep": 30,
   "runs": [
     {
@@ -875,27 +875,27 @@
       }
     },
     {
-      "timestamp": "2026-11-04 23:55:53",
-      "duration_sec": 301.1,
-      "nodes_raw": 81907,
-      "nodes_dedup": 26702,
+      "timestamp": "2026-11-05 00:09:10",
+      "duration_sec": 580.9,
+      "nodes_raw": 233568,
+      "nodes_dedup": 63768,
       "nodes_tcp_ok": 3000,
-      "nodes_real_ok": 448,
-      "nodes_verified_output": 33,
+      "nodes_real_ok": 427,
+      "nodes_verified_output": 91,
       "nodes_global_output": 300,
       "nodes_global_extra_from_cn_block": 4,
       "real_test_errors": {
-        "204": 21,
-        "speed": 2,
-        "test_one_timeout": 56,
-        "cn-block": 9,
-        "geo": 3
+        "cn-block": 16,
+        "204": 57,
+        "geo": 21,
+        "test_one_timeout": 148,
+        "speed": 36
       },
       "output_guard": {
         "verified": {
           "preserved": false,
           "previous_count": 40,
-          "proposed_count": 33
+          "proposed_count": 91
         },
         "global": {
           "preserved": false,
