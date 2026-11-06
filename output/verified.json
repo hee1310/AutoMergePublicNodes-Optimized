@@ -40,215 +40,171 @@
         "其他",
         "🇮🇹 其他",
         "🇺🇸 美国",
-        "🇺🇸 [300.3ms +/-31ms] vless-1835128666",
-        "[269.0ms +/-2ms] http-154.47.25.78",
-        "[382.5ms +/-3ms] http-121.127.34.82",
-        "[386.7ms +/-4ms] http-68.235.56.59",
-        "🇮🇹 [594.1ms +/-3ms] shadowsocks-1875022946",
-        "🇮🇹 [580.5ms +/-20ms] shadowsocks-1875023009",
-        "[403.7ms +/-1ms] http-167.88.60.242",
-        "🇮🇹 [638.6ms +/-14ms] shadowsocks-1875023048",
-        "🇺🇸 [506.4ms +/-1ms] @FXxNET⚡️",
-        "[347.1ms +/-6ms] http-149.88.21.140",
-        "[399.8ms +/-23ms] http-44.248.167.117",
-        "🇮🇹 [714.0ms +/-14ms] shadowsocks-1875022929",
-        "[554.1ms +/-0ms] http-34.249.214.108",
-        "[463.9ms +/-1ms] http-23.169.224.34",
-        "🇮🇹 [771.5ms +/-13ms] shadowsocks-1875023019",
-        "[575.6ms +/-4ms] http-84.17.47.123",
-        "[592.1ms +/-10ms] http-82.65.162.76",
-        "🇮🇹 [623.1ms +/-14ms] ProxyMtpVPN-74",
-        "🇮🇹 [629.4ms +/-11ms] @v2ray_configs_pools",
-        "[338.5ms +/-0ms] http-172.64.68.89",
-        "[588.2ms +/-9ms] http-51.159.225.197",
-        "[587.9ms +/-9ms] http-84.17.47.125",
-        "[595.6ms +/-4ms] http-158.173.154.1",
-        "🇺🇸 [488.0ms +/-7ms] @FXxNET⚡️",
-        "[658.0ms +/-1ms] http-84.17.47.148",
-        "[643.5ms +/-1ms] http-149.36.50.157",
-        "[535.5ms +/-6ms] 4Sarina-b59d1a52a1",
-        "[633.8ms +/-27ms] http-51.159.225.196",
-        "[659.8ms +/-10ms] http-158.173.154.5",
-        "[703.5ms +/-1ms] http-146.70.244.18",
-        "[700.3ms +/-1ms] http-84.17.47.124",
-        "🇮🇹 [766.7ms +/-3ms] @ICV2RAY",
-        "🇮🇹 [753.3ms +/-6ms] YFZ",
-        "[726.3ms +/-1ms] http-185.219.159.15",
-        "[698.9ms +/-1ms] http-146.70.244.2",
-        "[606.4ms +/-0ms] http-149.88.27.46",
-        "[756.1ms +/-7ms] http-103.97.88.154",
-        "[755.2ms +/-0ms] http-213.109.163.119",
-        "[632.3ms +/-3ms] http-149.36.50.129",
-        "[715.6ms +/-0ms] http-37.120.213.210",
-        "[773.0ms +/-1ms] http-146.70.242.130",
-        "[680.8ms +/-0ms] http-84.17.50.193",
-        "[768.3ms +/-6ms] http-84.17.47.149",
-        "[762.1ms +/-6ms] http-185.219.159.16",
-        "[645.6ms +/-15ms] http-146.70.123.98",
-        "[711.1ms +/-6ms] http-146.70.176.242",
-        "[708.3ms +/-1ms] http-185.183.105.146",
-        "[752.9ms +/-0ms] http-185.183.105.130",
-        "[721.0ms +/-1ms] http-154.47.29.174",
-        "[670.2ms +/-2ms] http-149.36.51.161",
-        "[700.1ms +/-1ms] http-185.221.132.242",
-        "[612.2ms +/-0ms] http-84.17.50.129",
-        "[591.9ms +/-6ms] http-84.17.47.126",
-        "[806.2ms +/-3ms] 4Jadi-ee33c27b7b",
-        "[716.4ms +/-1ms] http-152.233.20.206",
-        "[650.8ms +/-2ms] http-212.102.63.1",
-        "[769.1ms +/-1ms] http-83.206.1.225",
-        "[849.2ms +/-6ms] http-146.70.242.146",
-        "[644.0ms +/-2ms] http-213.139.9.142",
-        "[728.2ms +/-2ms] http-95.153.31.66",
-        "[665.0ms +/-11ms] http-5.255.97.222",
-        "[828.8ms +/-3ms] http-146.70.221.34",
-        "[814.6ms +/-3ms] http-135.136.1.2",
-        "[690.4ms +/-5ms] http-152.233.16.174",
-        "[802.5ms +/-15ms] 4Jadi-8ae4aa9d17",
-        "[913.0ms +/-17ms] http-185.216.35.66",
-        "[745.2ms +/-1ms] http-149.102.245.65",
-        "[708.2ms +/-13ms] http-185.221.132.226",
-        "[732.2ms +/-2ms] http-84.233.178.33",
-        "[843.5ms +/-16ms] 4Mohsen-1121b0fd9a",
-        "[748.7ms +/-5ms] http-95.153.32.2",
-        "[847.0ms +/-24ms] 4Mohsen-9c8e574918",
-        "[859.3ms +/-16ms] 4Kian-433683f471",
-        "[862.4ms +/-25ms] 4Sarina-4cdaf09efc",
-        "[878.3ms +/-15ms] 4FreeIran-8dabb58c1a",
-        "[864.9ms +/-27ms] 4Mohsen-c112486dc9",
-        "[861.7ms +/-32ms] 4Kian-9efb213ccf",
-        "[819.5ms +/-5ms] 4Kian-d685820aca",
-        "[793.5ms +/-7ms] http-149.50.216.65",
-        "[901.8ms +/-11ms] 4Mohsen-4416cecff2",
-        "[882.5ms +/-33ms] 4Nika-30a4c215d4",
-        "[894.7ms +/-26ms] 4Nika-81397f636b",
-        "[1007.7ms +/-17ms] http-31.186.220.204",
-        "[948.3ms +/-3ms] http-146.70.203.18",
-        "[875.3ms +/-16ms] 4Jadi-1c30de8965",
-        "[870.0ms +/-15ms] 4Jadi-88d106e77c",
-        "[1099.8ms +/-3ms] http-130.195.250.18",
-        "[813.6ms +/-20ms] http-46.29.166.134",
-        "[856.3ms +/-39ms] http-185.245.84.50",
-        "[984.2ms +/-39ms] 4Nika-d9a91205bb",
-        "[933.5ms +/-3ms] http-146.70.221.18",
-        "[877.2ms +/-72ms] 4FreeIran-ccc5edbec2",
-        "[884.7ms +/-65ms] 4Nika-1c595ee186",
-        "[828.3ms +/-149ms] 4Nika-1e96677b7a",
-        "[1667.3ms +/-44ms] 4Mohsen-c0e4b82bce",
-        "🇮🇹 [718.0ms +/-365ms] @V2ray_confiig",
-        "[1657.6ms +/-103ms] 4Kian-a0e61ad436",
-        "[1612.6ms +/-31ms] 4Sarina-b6beea80d9",
-        "[1652.8ms +/-89ms] 4FreeIran-15e6f1f6dd",
-        "[483.9ms +/-5ms] 🇩🇪207516 | ⚡️Telegram = t.me(…)",
-        "[1456.9ms +/-120ms] 🇱🇻207510 | ⚡️Telegram = t(…)"
+        "🇺🇸 [262.3ms +/-2ms] vless-1835128666",
+        "🇺🇸 [291.8ms +/-10ms] shadowsocks-1827146667",
+        "🇸🇬 [539.9ms +/-5ms] vless-1898602719",
+        "🇮🇹 [552.2ms +/-0ms] shadowsocks-1827147481",
+        "[273.0ms +/-3ms] http-138.199.35.198",
+        "[271.4ms +/-1ms] http-138.199.35.208",
+        "[270.5ms +/-0ms] http-138.199.35.220",
+        "[274.5ms +/-2ms] http-138.199.35.216",
+        "[273.4ms +/-1ms] http-138.199.35.206",
+        "[272.5ms +/-2ms] http-138.199.35.213",
+        "[442.7ms +/-7ms] http-38.247.141.135",
+        "[303.9ms +/-4ms] http-138.199.35.199",
+        "[317.1ms +/-5ms] http-138.199.35.195",
+        "[451.2ms +/-7ms] 4Jadi-69976a015b",
+        "[351.9ms +/-1ms] 4Kian-dd9cf83019",
+        "🇮🇹 [620.3ms +/-9ms] shadowsocks-1875022929",
+        "🇮🇹 [640.0ms +/-1ms] shadowsocks-1875023009",
+        "🇮🇹 [630.0ms +/-21ms] shadowsocks-1875023048",
+        "[434.9ms +/-5ms] http-12.202.180.118",
+        "🇺🇸 [355.0ms +/-358ms] shadowsocks-1827146549",
+        "🇮🇹 [709.1ms +/-3ms] shadowsocks-1875022946",
+        "[522.3ms +/-2ms] http-121.127.34.82",
+        "[370.4ms +/-3ms] http-129.153.93.183",
+        "🇺🇸 [244.0ms +/-2ms] 4FreeIran-4c22cd00f9",
+        "[504.7ms +/-1ms] http-138.199.35.203",
+        "[493.4ms +/-3ms] http-149.88.98.81",
+        "🇮🇹 [644.1ms +/-74ms] shadowsocks-1875023019",
+        "🇺🇸 [447.0ms +/-365ms] shadowsocks-1827146051",
+        "[470.2ms +/-1ms] http-198.44.157.27",
+        "[601.8ms +/-3ms] 4Kian-23481a1e3c",
+        "[514.7ms +/-0ms] http-149.88.21.140",
+        "🇮🇹 [631.2ms +/-3ms] YFZ",
+        "[538.1ms +/-2ms] http-206.223.161.47",
+        "[551.9ms +/-2ms] http-198.44.135.27",
+        "🇮🇹 [631.8ms +/-1ms] @V2ray_confiig",
+        "[560.9ms +/-1ms] 4Nika-1fab105ff0",
+        "🇮🇹 [632.7ms +/-13ms] @v2ray_configs_pools",
+        "🇮🇹 [632.4ms +/-19ms] 🇮🇹",
+        "[701.9ms +/-1ms] http-82.65.162.76",
+        "[519.4ms +/-2ms] http-23.169.224.34",
+        "🇺🇸 [326.2ms +/-361ms] 4Kian-9cb85f9a48",
+        "[694.5ms +/-7ms] http-84.17.47.124",
+        "[589.9ms +/-2ms] 4FreeIran-6c6e5f325f",
+        "[690.1ms +/-15ms] http-84.17.47.149",
+        "[698.0ms +/-8ms] http-158.173.154.5",
+        "[617.3ms +/-8ms] http-162.244.227.36",
+        "[723.1ms +/-7ms] http-84.17.47.148",
+        "[758.2ms +/-4ms] http-103.97.88.154",
+        "[655.4ms +/-1ms] http-68.235.56.59",
+        "[749.1ms +/-2ms] http-51.159.225.197",
+        "[771.1ms +/-0ms] http-213.109.163.119",
+        "[771.3ms +/-1ms] http-34.249.214.108",
+        "[783.4ms +/-9ms] http-158.173.154.1",
+        "🇮🇹 [650.7ms +/-96ms] @ICV2RAY",
+        "[756.7ms +/-4ms] http-152.233.20.206",
+        "[767.6ms +/-2ms] http-185.221.132.242",
+        "[800.3ms +/-14ms] http-146.70.176.242",
+        "[810.1ms +/-0ms] http-185.183.105.146",
+        "[855.8ms +/-1ms] http-146.70.244.2",
+        "[777.9ms +/-3ms] http-84.17.50.193",
+        "[851.4ms +/-5ms] http-146.70.242.146",
+        "[686.0ms +/-9ms] http-84.17.47.126",
+        "[866.7ms +/-1ms] http-185.183.105.130",
+        "[853.3ms +/-8ms] http-185.219.159.15",
+        "[870.5ms +/-3ms] http-185.219.159.16",
+        "[861.0ms +/-2ms] http-146.70.221.34",
+        "[832.0ms +/-3ms] http-146.70.203.18",
+        "[701.0ms +/-0ms] http-84.17.50.129",
+        "[902.6ms +/-2ms] http-83.206.1.225",
+        "[953.6ms +/-10ms] http-84.17.47.125",
+        "[755.6ms +/-1ms] http-51.159.225.196",
+        "[975.9ms +/-5ms] http-84.17.47.123",
+        "[877.9ms +/-2ms] http-213.139.9.142",
+        "[833.4ms +/-3ms] http-152.233.16.174",
+        "[1037.5ms +/-41ms] http-31.186.220.204",
+        "[778.3ms +/-177ms] http-44.248.167.117",
+        "[1144.6ms +/-15ms] http-130.195.250.18",
+        "[923.7ms +/-7ms] http-46.29.166.134",
+        "[1000.6ms +/-1ms] http-149.50.216.65"
       ],
-      "default": "🇺🇸 [300.3ms +/-31ms] vless-1835128666"
+      "default": "🇺🇸 [262.3ms +/-2ms] vless-1835128666"
     },
     {
       "type": "url-test",
       "tag": "♻️ Auto",
       "outbounds": [
-        "🇺🇸 [300.3ms +/-31ms] vless-1835128666",
-        "[269.0ms +/-2ms] http-154.47.25.78",
-        "[382.5ms +/-3ms] http-121.127.34.82",
-        "[386.7ms +/-4ms] http-68.235.56.59",
-        "🇮🇹 [594.1ms +/-3ms] shadowsocks-1875022946",
-        "🇮🇹 [580.5ms +/-20ms] shadowsocks-1875023009",
-        "[403.7ms +/-1ms] http-167.88.60.242",
-        "🇮🇹 [638.6ms +/-14ms] shadowsocks-1875023048",
-        "🇺🇸 [506.4ms +/-1ms] @FXxNET⚡️",
-        "[347.1ms +/-6ms] http-149.88.21.140",
-        "[399.8ms +/-23ms] http-44.248.167.117",
-        "🇮🇹 [714.0ms +/-14ms] shadowsocks-1875022929",
-        "[554.1ms +/-0ms] http-34.249.214.108",
-        "[463.9ms +/-1ms] http-23.169.224.34",
-        "🇮🇹 [771.5ms +/-13ms] shadowsocks-1875023019",
-        "[575.6ms +/-4ms] http-84.17.47.123",
-        "[592.1ms +/-10ms] http-82.65.162.76",
-        "🇮🇹 [623.1ms +/-14ms] ProxyMtpVPN-74",
-        "🇮🇹 [629.4ms +/-11ms] @v2ray_configs_pools",
-        "[338.5ms +/-0ms] http-172.64.68.89",
-        "[588.2ms +/-9ms] http-51.159.225.197",
-        "[587.9ms +/-9ms] http-84.17.47.125",
-        "[595.6ms +/-4ms] http-158.173.154.1",
-        "🇺🇸 [488.0ms +/-7ms] @FXxNET⚡️",
-        "[658.0ms +/-1ms] http-84.17.47.148",
-        "[643.5ms +/-1ms] http-149.36.50.157",
-        "[535.5ms +/-6ms] 4Sarina-b59d1a52a1",
-        "[633.8ms +/-27ms] http-51.159.225.196",
-        "[659.8ms +/-10ms] http-158.173.154.5",
-        "[703.5ms +/-1ms] http-146.70.244.18",
-        "[700.3ms +/-1ms] http-84.17.47.124",
-        "🇮🇹 [766.7ms +/-3ms] @ICV2RAY",
-        "🇮🇹 [753.3ms +/-6ms] YFZ",
-        "[726.3ms +/-1ms] http-185.219.159.15",
-        "[698.9ms +/-1ms] http-146.70.244.2",
-        "[606.4ms +/-0ms] http-149.88.27.46",
-        "[756.1ms +/-7ms] http-103.97.88.154",
-        "[755.2ms +/-0ms] http-213.109.163.119",
-        "[632.3ms +/-3ms] http-149.36.50.129",
-        "[715.6ms +/-0ms] http-37.120.213.210",
-        "[773.0ms +/-1ms] http-146.70.242.130",
-        "[680.8ms +/-0ms] http-84.17.50.193",
-        "[768.3ms +/-6ms] http-84.17.47.149",
-        "[762.1ms +/-6ms] http-185.219.159.16",
-        "[645.6ms +/-15ms] http-146.70.123.98",
-        "[711.1ms +/-6ms] http-146.70.176.242",
-        "[708.3ms +/-1ms] http-185.183.105.146",
-        "[752.9ms +/-0ms] http-185.183.105.130",
-        "[721.0ms +/-1ms] http-154.47.29.174",
-        "[670.2ms +/-2ms] http-149.36.51.161",
-        "[700.1ms +/-1ms] http-185.221.132.242",
-        "[612.2ms +/-0ms] http-84.17.50.129",
-        "[591.9ms +/-6ms] http-84.17.47.126",
-        "[806.2ms +/-3ms] 4Jadi-ee33c27b7b",
-        "[716.4ms +/-1ms] http-152.233.20.206",
-        "[650.8ms +/-2ms] http-212.102.63.1",
-        "[769.1ms +/-1ms] http-83.206.1.225",
-        "[849.2ms +/-6ms] http-146.70.242.146",
-        "[644.0ms +/-2ms] http-213.139.9.142",
-        "[728.2ms +/-2ms] http-95.153.31.66",
-        "[665.0ms +/-11ms] http-5.255.97.222",
-        "[828.8ms +/-3ms] http-146.70.221.34",
-        "[814.6ms +/-3ms] http-135.136.1.2",
-        "[690.4ms +/-5ms] http-152.233.16.174",
-        "[802.5ms +/-15ms] 4Jadi-8ae4aa9d17",
-        "[913.0ms +/-17ms] http-185.216.35.66",
-        "[745.2ms +/-1ms] http-149.102.245.65",
-        "[708.2ms +/-13ms] http-185.221.132.226",
-        "[732.2ms +/-2ms] http-84.233.178.33",
-        "[843.5ms +/-16ms] 4Mohsen-1121b0fd9a",
-        "[748.7ms +/-5ms] http-95.153.32.2",
-        "[847.0ms +/-24ms] 4Mohsen-9c8e574918",
-        "[859.3ms +/-16ms] 4Kian-433683f471",
-        "[862.4ms +/-25ms] 4Sarina-4cdaf09efc",
-        "[878.3ms +/-15ms] 4FreeIran-8dabb58c1a",
-        "[864.9ms +/-27ms] 4Mohsen-c112486dc9",
-        "[861.7ms +/-32ms] 4Kian-9efb213ccf",
-        "[819.5ms +/-5ms] 4Kian-d685820aca",
-        "[793.5ms +/-7ms] http-149.50.216.65",
-        "[901.8ms +/-11ms] 4Mohsen-4416cecff2",
-        "[882.5ms +/-33ms] 4Nika-30a4c215d4",
-        "[894.7ms +/-26ms] 4Nika-81397f636b",
-        "[1007.7ms +/-17ms] http-31.186.220.204",
-        "[948.3ms +/-3ms] http-146.70.203.18",
-        "[875.3ms +/-16ms] 4Jadi-1c30de8965",
-        "[870.0ms +/-15ms] 4Jadi-88d106e77c",
-        "[1099.8ms +/-3ms] http-130.195.250.18",
-        "[813.6ms +/-20ms] http-46.29.166.134",
-        "[856.3ms +/-39ms] http-185.245.84.50",
-        "[984.2ms +/-39ms] 4Nika-d9a91205bb",
-        "[933.5ms +/-3ms] http-146.70.221.18",
-        "[877.2ms +/-72ms] 4FreeIran-ccc5edbec2",
-        "[884.7ms +/-65ms] 4Nika-1c595ee186",
-        "[828.3ms +/-149ms] 4Nika-1e96677b7a",
-        "[1667.3ms +/-44ms] 4Mohsen-c0e4b82bce",
-        "🇮🇹 [718.0ms +/-365ms] @V2ray_confiig",
-        "[1657.6ms +/-103ms] 4Kian-a0e61ad436",
-        "[1612.6ms +/-31ms] 4Sarina-b6beea80d9",
-        "[1652.8ms +/-89ms] 4FreeIran-15e6f1f6dd",
-        "[483.9ms +/-5ms] 🇩🇪207516 | ⚡️Telegram = t.me(…)",
-        "[1456.9ms +/-120ms] 🇱🇻207510 | ⚡️Telegram = t(…)"
+        "🇺🇸 [262.3ms +/-2ms] vless-1835128666",
+        "🇺🇸 [291.8ms +/-10ms] shadowsocks-1827146667",
+        "🇸🇬 [539.9ms +/-5ms] vless-1898602719",
+        "🇮🇹 [552.2ms +/-0ms] shadowsocks-1827147481",
+        "[273.0ms +/-3ms] http-138.199.35.198",
+        "[271.4ms +/-1ms] http-138.199.35.208",
+        "[270.5ms +/-0ms] http-138.199.35.220",
+        "[274.5ms +/-2ms] http-138.199.35.216",
+        "[273.4ms +/-1ms] http-138.199.35.206",
+        "[272.5ms +/-2ms] http-138.199.35.213",
+        "[442.7ms +/-7ms] http-38.247.141.135",
+        "[303.9ms +/-4ms] http-138.199.35.199",
+        "[317.1ms +/-5ms] http-138.199.35.195",
+        "[451.2ms +/-7ms] 4Jadi-69976a015b",
+        "[351.9ms +/-1ms] 4Kian-dd9cf83019",
+        "🇮🇹 [620.3ms +/-9ms] shadowsocks-1875022929",
+        "🇮🇹 [640.0ms +/-1ms] shadowsocks-1875023009",
+        "🇮🇹 [630.0ms +/-21ms] shadowsocks-1875023048",
+        "[434.9ms +/-5ms] http-12.202.180.118",
+        "🇺🇸 [355.0ms +/-358ms] shadowsocks-1827146549",
+        "🇮🇹 [709.1ms +/-3ms] shadowsocks-1875022946",
+        "[522.3ms +/-2ms] http-121.127.34.82",
+        "[370.4ms +/-3ms] http-129.153.93.183",
+        "🇺🇸 [244.0ms +/-2ms] 4FreeIran-4c22cd00f9",
+        "[504.7ms +/-1ms] http-138.199.35.203",
+        "[493.4ms +/-3ms] http-149.88.98.81",
+        "🇮🇹 [644.1ms +/-74ms] shadowsocks-1875023019",
+        "🇺🇸 [447.0ms +/-365ms] shadowsocks-1827146051",
+        "[470.2ms +/-1ms] http-198.44.157.27",
+        "[601.8ms +/-3ms] 4Kian-23481a1e3c",
+        "[514.7ms +/-0ms] http-149.88.21.140",
+        "🇮🇹 [631.2ms +/-3ms] YFZ",
+        "[538.1ms +/-2ms] http-206.223.161.47",
+        "[551.9ms +/-2ms] http-198.44.135.27",
+        "🇮🇹 [631.8ms +/-1ms] @V2ray_confiig",
+        "[560.9ms +/-1ms] 4Nika-1fab105ff0",
+        "🇮🇹 [632.7ms +/-13ms] @v2ray_configs_pools",
+        "🇮🇹 [632.4ms +/-19ms] 🇮🇹",
+        "[701.9ms +/-1ms] http-82.65.162.76",
+        "[519.4ms +/-2ms] http-23.169.224.34",
+        "🇺🇸 [326.2ms +/-361ms] 4Kian-9cb85f9a48",
+        "[694.5ms +/-7ms] http-84.17.47.124",
+        "[589.9ms +/-2ms] 4FreeIran-6c6e5f325f",
+        "[690.1ms +/-15ms] http-84.17.47.149",
+        "[698.0ms +/-8ms] http-158.173.154.5",
+        "[617.3ms +/-8ms] http-162.244.227.36",
+        "[723.1ms +/-7ms] http-84.17.47.148",
+        "[758.2ms +/-4ms] http-103.97.88.154",
+        "[655.4ms +/-1ms] http-68.235.56.59",
+        "[749.1ms +/-2ms] http-51.159.225.197",
+        "[771.1ms +/-0ms] http-213.109.163.119",
+        "[771.3ms +/-1ms] http-34.249.214.108",
+        "[783.4ms +/-9ms] http-158.173.154.1",
+        "🇮🇹 [650.7ms +/-96ms] @ICV2RAY",
+        "[756.7ms +/-4ms] http-152.233.20.206",
+        "[767.6ms +/-2ms] http-185.221.132.242",
+        "[800.3ms +/-14ms] http-146.70.176.242",
+        "[810.1ms +/-0ms] http-185.183.105.146",
+        "[855.8ms +/-1ms] http-146.70.244.2",
+        "[777.9ms +/-3ms] http-84.17.50.193",
+        "[851.4ms +/-5ms] http-146.70.242.146",
+        "[686.0ms +/-9ms] http-84.17.47.126",
+        "[866.7ms +/-1ms] http-185.183.105.130",
+        "[853.3ms +/-8ms] http-185.219.159.15",
+        "[870.5ms +/-3ms] http-185.219.159.16",
+        "[861.0ms +/-2ms] http-146.70.221.34",
+        "[832.0ms +/-3ms] http-146.70.203.18",
+        "[701.0ms +/-0ms] http-84.17.50.129",
+        "[902.6ms +/-2ms] http-83.206.1.225",
+        "[953.6ms +/-10ms] http-84.17.47.125",
+        "[755.6ms +/-1ms] http-51.159.225.196",
+        "[975.9ms +/-5ms] http-84.17.47.123",
+        "[877.9ms +/-2ms] http-213.139.9.142",
+        "[833.4ms +/-3ms] http-152.233.16.174",
+        "[1037.5ms +/-41ms] http-31.186.220.204",
+        "[778.3ms +/-177ms] http-44.248.167.117",
+        "[1144.6ms +/-15ms] http-130.195.250.18",
+        "[923.7ms +/-7ms] http-46.29.166.134",
+        "[1000.6ms +/-1ms] http-149.50.216.65"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": 600
@@ -257,94 +213,67 @@
       "type": "url-test",
       "tag": "其他",
       "outbounds": [
-        "[269.0ms +/-2ms] http-154.47.25.78",
-        "[382.5ms +/-3ms] http-121.127.34.82",
-        "[386.7ms +/-4ms] http-68.235.56.59",
-        "[403.7ms +/-1ms] http-167.88.60.242",
-        "[347.1ms +/-6ms] http-149.88.21.140",
-        "[399.8ms +/-23ms] http-44.248.167.117",
-        "[554.1ms +/-0ms] http-34.249.214.108",
-        "[463.9ms +/-1ms] http-23.169.224.34",
-        "[575.6ms +/-4ms] http-84.17.47.123",
-        "[592.1ms +/-10ms] http-82.65.162.76",
-        "[338.5ms +/-0ms] http-172.64.68.89",
-        "[588.2ms +/-9ms] http-51.159.225.197",
-        "[587.9ms +/-9ms] http-84.17.47.125",
-        "[595.6ms +/-4ms] http-158.173.154.1",
-        "[658.0ms +/-1ms] http-84.17.47.148",
-        "[643.5ms +/-1ms] http-149.36.50.157",
-        "[535.5ms +/-6ms] 4Sarina-b59d1a52a1",
-        "[633.8ms +/-27ms] http-51.159.225.196",
-        "[659.8ms +/-10ms] http-158.173.154.5",
-        "[703.5ms +/-1ms] http-146.70.244.18",
-        "[700.3ms +/-1ms] http-84.17.47.124",
-        "[726.3ms +/-1ms] http-185.219.159.15",
-        "[698.9ms +/-1ms] http-146.70.244.2",
-        "[606.4ms +/-0ms] http-149.88.27.46",
-        "[756.1ms +/-7ms] http-103.97.88.154",
-        "[755.2ms +/-0ms] http-213.109.163.119",
-        "[632.3ms +/-3ms] http-149.36.50.129",
-        "[715.6ms +/-0ms] http-37.120.213.210",
-        "[773.0ms +/-1ms] http-146.70.242.130",
-        "[680.8ms +/-0ms] http-84.17.50.193",
-        "[768.3ms +/-6ms] http-84.17.47.149",
-        "[762.1ms +/-6ms] http-185.219.159.16",
-        "[645.6ms +/-15ms] http-146.70.123.98",
-        "[711.1ms +/-6ms] http-146.70.176.242",
-        "[708.3ms +/-1ms] http-185.183.105.146",
-        "[752.9ms +/-0ms] http-185.183.105.130",
-        "[721.0ms +/-1ms] http-154.47.29.174",
-        "[670.2ms +/-2ms] http-149.36.51.161",
-        "[700.1ms +/-1ms] http-185.221.132.242",
-        "[612.2ms +/-0ms] http-84.17.50.129",
-        "[591.9ms +/-6ms] http-84.17.47.126",
-        "[806.2ms +/-3ms] 4Jadi-ee33c27b7b",
-        "[716.4ms +/-1ms] http-152.233.20.206",
-        "[650.8ms +/-2ms] http-212.102.63.1",
-        "[769.1ms +/-1ms] http-83.206.1.225",
-        "[849.2ms +/-6ms] http-146.70.242.146",
-        "[644.0ms +/-2ms] http-213.139.9.142",
-        "[728.2ms +/-2ms] http-95.153.31.66",
-        "[665.0ms +/-11ms] http-5.255.97.222",
-        "[828.8ms +/-3ms] http-146.70.221.34",
-        "[814.6ms +/-3ms] http-135.136.1.2",
-        "[690.4ms +/-5ms] http-152.233.16.174",
-        "[802.5ms +/-15ms] 4Jadi-8ae4aa9d17",
-        "[913.0ms +/-17ms] http-185.216.35.66",
-        "[745.2ms +/-1ms] http-149.102.245.65",
-        "[708.2ms +/-13ms] http-185.221.132.226",
-        "[732.2ms +/-2ms] http-84.233.178.33",
-        "[843.5ms +/-16ms] 4Mohsen-1121b0fd9a",
-        "[748.7ms +/-5ms] http-95.153.32.2",
-        "[847.0ms +/-24ms] 4Mohsen-9c8e574918",
-        "[859.3ms +/-16ms] 4Kian-433683f471",
-        "[862.4ms +/-25ms] 4Sarina-4cdaf09efc",
-        "[878.3ms +/-15ms] 4FreeIran-8dabb58c1a",
-        "[864.9ms +/-27ms] 4Mohsen-c112486dc9",
-        "[861.7ms +/-32ms] 4Kian-9efb213ccf",
-        "[819.5ms +/-5ms] 4Kian-d685820aca",
-        "[793.5ms +/-7ms] http-149.50.216.65",
-        "[901.8ms +/-11ms] 4Mohsen-4416cecff2",
-        "[882.5ms +/-33ms] 4Nika-30a4c215d4",
-        "[894.7ms +/-26ms] 4Nika-81397f636b",
-        "[1007.7ms +/-17ms] http-31.186.220.204",
-        "[948.3ms +/-3ms] http-146.70.203.18",
-        "[875.3ms +/-16ms] 4Jadi-1c30de8965",
-        "[870.0ms +/-15ms] 4Jadi-88d106e77c",
-        "[1099.8ms +/-3ms] http-130.195.250.18",
-        "[813.6ms +/-20ms] http-46.29.166.134",
-        "[856.3ms +/-39ms] http-185.245.84.50",
-        "[984.2ms +/-39ms] 4Nika-d9a91205bb",
-        "[933.5ms +/-3ms] http-146.70.221.18",
-        "[877.2ms +/-72ms] 4FreeIran-ccc5edbec2",
-        "[884.7ms +/-65ms] 4Nika-1c595ee186",
-        "[828.3ms +/-149ms] 4Nika-1e96677b7a",
-        "[1667.3ms +/-44ms] 4Mohsen-c0e4b82bce",
-        "[1657.6ms +/-103ms] 4Kian-a0e61ad436",
-        "[1612.6ms +/-31ms] 4Sarina-b6beea80d9",
-        "[1652.8ms +/-89ms] 4FreeIran-15e6f1f6dd",
-        "[483.9ms +/-5ms] 🇩🇪207516 | ⚡️Telegram = t.me(…)",
-        "[1456.9ms +/-120ms] 🇱🇻207510 | ⚡️Telegram = t(…)"
+        "[273.0ms +/-3ms] http-138.199.35.198",
+        "[271.4ms +/-1ms] http-138.199.35.208",
+        "[270.5ms +/-0ms] http-138.199.35.220",
+        "[274.5ms +/-2ms] http-138.199.35.216",
+        "[273.4ms +/-1ms] http-138.199.35.206",
+        "[272.5ms +/-2ms] http-138.199.35.213",
+        "[442.7ms +/-7ms] http-38.247.141.135",
+        "[303.9ms +/-4ms] http-138.199.35.199",
+        "[317.1ms +/-5ms] http-138.199.35.195",
+        "[451.2ms +/-7ms] 4Jadi-69976a015b",
+        "[351.9ms +/-1ms] 4Kian-dd9cf83019",
+        "[434.9ms +/-5ms] http-12.202.180.118",
+        "[522.3ms +/-2ms] http-121.127.34.82",
+        "[370.4ms +/-3ms] http-129.153.93.183",
+        "[504.7ms +/-1ms] http-138.199.35.203",
+        "[493.4ms +/-3ms] http-149.88.98.81",
+        "[470.2ms +/-1ms] http-198.44.157.27",
+        "[601.8ms +/-3ms] 4Kian-23481a1e3c",
+        "[514.7ms +/-0ms] http-149.88.21.140",
+        "[538.1ms +/-2ms] http-206.223.161.47",
+        "[551.9ms +/-2ms] http-198.44.135.27",
+        "[560.9ms +/-1ms] 4Nika-1fab105ff0",
+        "[701.9ms +/-1ms] http-82.65.162.76",
+        "[519.4ms +/-2ms] http-23.169.224.34",
+        "[694.5ms +/-7ms] http-84.17.47.124",
+        "[589.9ms +/-2ms] 4FreeIran-6c6e5f325f",
+        "[690.1ms +/-15ms] http-84.17.47.149",
+        "[698.0ms +/-8ms] http-158.173.154.5",
+        "[617.3ms +/-8ms] http-162.244.227.36",
+        "[723.1ms +/-7ms] http-84.17.47.148",
+        "[758.2ms +/-4ms] http-103.97.88.154",
+        "[655.4ms +/-1ms] http-68.235.56.59",
+        "[749.1ms +/-2ms] http-51.159.225.197",
+        "[771.1ms +/-0ms] http-213.109.163.119",
+        "[771.3ms +/-1ms] http-34.249.214.108",
+        "[783.4ms +/-9ms] http-158.173.154.1",
+        "[756.7ms +/-4ms] http-152.233.20.206",
+        "[767.6ms +/-2ms] http-185.221.132.242",
+        "[800.3ms +/-14ms] http-146.70.176.242",
+        "[810.1ms +/-0ms] http-185.183.105.146",
+        "[855.8ms +/-1ms] http-146.70.244.2",
+        "[777.9ms +/-3ms] http-84.17.50.193",
+        "[851.4ms +/-5ms] http-146.70.242.146",
+        "[686.0ms +/-9ms] http-84.17.47.126",
+        "[866.7ms +/-1ms] http-185.183.105.130",
+        "[853.3ms +/-8ms] http-185.219.159.15",
+        "[870.5ms +/-3ms] http-185.219.159.16",
+        "[861.0ms +/-2ms] http-146.70.221.34",
+        "[832.0ms +/-3ms] http-146.70.203.18",
+        "[701.0ms +/-0ms] http-84.17.50.129",
+        "[902.6ms +/-2ms] http-83.206.1.225",
+        "[953.6ms +/-10ms] http-84.17.47.125",
+        "[755.6ms +/-1ms] http-51.159.225.196",
+        "[975.9ms +/-5ms] http-84.17.47.123",
+        "[877.9ms +/-2ms] http-213.139.9.142",
+        "[833.4ms +/-3ms] http-152.233.16.174",
+        "[1037.5ms +/-41ms] http-31.186.220.204",
+        "[778.3ms +/-177ms] http-44.248.167.117",
+        "[1144.6ms +/-15ms] http-130.195.250.18",
+        "[923.7ms +/-7ms] http-46.29.166.134",
+        "[1000.6ms +/-1ms] http-149.50.216.65"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": 600
@@ -353,16 +282,17 @@
       "type": "url-test",
       "tag": "🇮🇹 其他",
       "outbounds": [
-        "🇮🇹 [594.1ms +/-3ms] shadowsocks-1875022946",
-        "🇮🇹 [580.5ms +/-20ms] shadowsocks-1875023009",
-        "🇮🇹 [638.6ms +/-14ms] shadowsocks-1875023048",
-        "🇮🇹 [714.0ms +/-14ms] shadowsocks-1875022929",
-        "🇮🇹 [771.5ms +/-13ms] shadowsocks-1875023019",
-        "🇮🇹 [623.1ms +/-14ms] ProxyMtpVPN-74",
-        "🇮🇹 [629.4ms +/-11ms] @v2ray_configs_pools",
-        "🇮🇹 [766.7ms +/-3ms] @ICV2RAY",
-        "🇮🇹 [753.3ms +/-6ms] YFZ",
-        "🇮🇹 [718.0ms +/-365ms] @V2ray_confiig"
+        "🇮🇹 [552.2ms +/-0ms] shadowsocks-1827147481",
+        "🇮🇹 [620.3ms +/-9ms] shadowsocks-1875022929",
+        "🇮🇹 [640.0ms +/-1ms] shadowsocks-1875023009",
+        "🇮🇹 [630.0ms +/-21ms] shadowsocks-1875023048",
+        "🇮🇹 [709.1ms +/-3ms] shadowsocks-1875022946",
+        "🇮🇹 [644.1ms +/-74ms] shadowsocks-1875023019",
+        "🇮🇹 [631.2ms +/-3ms] YFZ",
+        "🇮🇹 [631.8ms +/-1ms] @V2ray_confiig",
+        "🇮🇹 [632.7ms +/-13ms] @v2ray_configs_pools",
+        "🇮🇹 [632.4ms +/-19ms] 🇮🇹",
+        "🇮🇹 [650.7ms +/-96ms] @ICV2RAY"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": 600
@@ -371,9 +301,12 @@
       "type": "url-test",
       "tag": "🇺🇸 美国",
       "outbounds": [
-        "🇺🇸 [300.3ms +/-31ms] vless-1835128666",
-        "🇺🇸 [506.4ms +/-1ms] @FXxNET⚡️",
-        "🇺🇸 [488.0ms +/-7ms] @FXxNET⚡️"
+        "🇺🇸 [262.3ms +/-2ms] vless-1835128666",
+        "🇺🇸 [291.8ms +/-10ms] shadowsocks-1827146667",
+        "🇺🇸 [355.0ms +/-358ms] shadowsocks-1827146549",
+        "🇺🇸 [244.0ms +/-2ms] 4FreeIran-4c22cd00f9",
+        "🇺🇸 [447.0ms +/-365ms] shadowsocks-1827146051",
+        "🇺🇸 [326.2ms +/-361ms] 4Kian-9cb85f9a48"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": 600
@@ -402,20 +335,215 @@
         }
       },
       "type": "vless",
-      "tag": "🇺🇸 [300.3ms +/-31ms] vless-1835128666",
+      "tag": "🇺🇸 [262.3ms +/-2ms] vless-1835128666",
       "server": "45.63.53.81",
+      "server_port": 443
+    },
+    {
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "type": "shadowsocks",
+      "tag": "🇺🇸 [291.8ms +/-10ms] shadowsocks-1827146667",
+      "server": "173.244.56.9",
+      "server_port": 443
+    },
+    {
+      "uuid": "49c0aac1-5e05-4f04-b624-248fc59e03c4",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.intel.com",
+        "insecure": true,
+        "reality": {
+          "enabled": true,
+          "public_key": "srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk",
+          "short_id": "7f342137c20387"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "ios"
+        }
+      },
+      "type": "vless",
+      "tag": "🇸🇬 [539.9ms +/-5ms] vless-1898602719",
+      "server": "54.169.200.246",
+      "server_port": 41688
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [552.2ms +/-0ms] shadowsocks-1827147481",
+      "server": "185.164.175.81",
+      "server_port": 19999
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "138.199.35.198",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[273.0ms +/-3ms] http-138.199.35.198",
+      "server": "138.199.35.198",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "138.199.35.208",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[271.4ms +/-1ms] http-138.199.35.208",
+      "server": "138.199.35.208",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "138.199.35.220",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[270.5ms +/-0ms] http-138.199.35.220",
+      "server": "138.199.35.220",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "138.199.35.216",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[274.5ms +/-2ms] http-138.199.35.216",
+      "server": "138.199.35.216",
+      "server_port": 9002
+    },
+    {
+      "username": "null",
+      "password": "null",
+      "tls": {
+        "enabled": true,
+        "server_name": "138.199.35.206",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[273.4ms +/-1ms] http-138.199.35.206",
+      "server": "138.199.35.206",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "138.199.35.213",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[272.5ms +/-2ms] http-138.199.35.213",
+      "server": "138.199.35.213",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "38.247.141.135",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[442.7ms +/-7ms] http-38.247.141.135",
+      "server": "38.247.141.135",
       "server_port": 443
     },
     {
       "tls": {
         "enabled": true,
-        "server_name": "154.47.25.78",
+        "server_name": "138.199.35.199",
         "insecure": true
       },
       "type": "http",
-      "tag": "[269.0ms +/-2ms] http-154.47.25.78",
-      "server": "154.47.25.78",
-      "server_port": 9443
+      "tag": "[303.9ms +/-4ms] http-138.199.35.199",
+      "server": "138.199.35.199",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "138.199.35.195",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[317.1ms +/-5ms] http-138.199.35.195",
+      "server": "138.199.35.195",
+      "server_port": 9002
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "[451.2ms +/-7ms] 4Jadi-69976a015b",
+      "server": "38.22.17.139",
+      "server_port": 19999
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "[351.9ms +/-1ms] 4Kian-dd9cf83019",
+      "server": "167.88.62.56",
+      "server_port": 19999
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [620.3ms +/-9ms] shadowsocks-1875022929",
+      "server": "202.50.253.90",
+      "server_port": 19999
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [640.0ms +/-1ms] shadowsocks-1875023009",
+      "server": "202.50.253.27",
+      "server_port": 19999
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [630.0ms +/-21ms] shadowsocks-1875023048",
+      "server": "202.50.253.72",
+      "server_port": 19999
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "12.202.180.118",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[434.9ms +/-5ms] http-12.202.180.118",
+      "server": "12.202.180.118",
+      "server_port": 443
+    },
+    {
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "type": "shadowsocks",
+      "tag": "🇺🇸 [355.0ms +/-358ms] shadowsocks-1827146549",
+      "server": "156.146.38.170",
+      "server_port": 443
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [709.1ms +/-3ms] shadowsocks-1875022946",
+      "server": "202.50.253.54",
+      "server_port": 19999
     },
     {
       "tls": {
@@ -424,74 +552,89 @@
         "insecure": true
       },
       "type": "http",
-      "tag": "[382.5ms +/-3ms] http-121.127.34.82",
+      "tag": "[522.3ms +/-2ms] http-121.127.34.82",
       "server": "121.127.34.82",
       "server_port": 443
     },
     {
       "tls": {
         "enabled": true,
-        "server_name": "68.235.56.59",
+        "server_name": "129.153.93.183",
         "insecure": true
       },
       "type": "http",
-      "tag": "[386.7ms +/-4ms] http-68.235.56.59",
-      "server": "68.235.56.59",
+      "tag": "[370.4ms +/-3ms] http-129.153.93.183",
+      "server": "129.153.93.183",
       "server_port": 443
     },
     {
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "type": "shadowsocks",
-      "tag": "🇮🇹 [594.1ms +/-3ms] shadowsocks-1875022946",
-      "server": "202.50.253.54",
-      "server_port": 19999
-    },
-    {
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "type": "shadowsocks",
-      "tag": "🇮🇹 [580.5ms +/-20ms] shadowsocks-1875023009",
-      "server": "202.50.253.27",
-      "server_port": 19999
-    },
-    {
+      "password": "600421cf-11d7-429f-a65b-c30397f1bc03",
       "tls": {
         "enabled": true,
-        "server_name": "167.88.60.242",
+        "server_name": "sj6.freeguard.org",
         "insecure": true
-      },
-      "type": "http",
-      "tag": "[403.7ms +/-1ms] http-167.88.60.242",
-      "server": "167.88.60.242",
-      "server_port": 443
-    },
-    {
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "type": "shadowsocks",
-      "tag": "🇮🇹 [638.6ms +/-14ms] shadowsocks-1875023048",
-      "server": "202.50.253.72",
-      "server_port": 19999
-    },
-    {
-      "password": "MiTiVPN",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdn.akamai.steamstatic.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/---@MiTiVPN---@MiTiVPN",
-        "headers": {
-          "Host": "mtlooabmakaakaoijji.global.ssl.fastly.net"
-        }
       },
       "type": "trojan",
-      "tag": "🇺🇸 [506.4ms +/-1ms] @FXxNET⚡️",
-      "server": "199.232.78.120",
+      "tag": "🇺🇸 [244.0ms +/-2ms] 4FreeIran-4c22cd00f9",
+      "server": "23.106.44.14",
       "server_port": 443
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "138.199.35.203",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[504.7ms +/-1ms] http-138.199.35.203",
+      "server": "138.199.35.203",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "149.88.98.81",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[493.4ms +/-3ms] http-149.88.98.81",
+      "server": "149.88.98.81",
+      "server_port": 9443
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [644.1ms +/-74ms] shadowsocks-1875023019",
+      "server": "202.50.253.63",
+      "server_port": 19999
+    },
+    {
+      "method": "aes-128-gcm",
+      "password": "shadowsocks",
+      "type": "shadowsocks",
+      "tag": "🇺🇸 [447.0ms +/-365ms] shadowsocks-1827146051",
+      "server": "37.19.198.243",
+      "server_port": 443
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "198.44.157.27",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[470.2ms +/-1ms] http-198.44.157.27",
+      "server": "198.44.157.27",
+      "server_port": 9443
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "[601.8ms +/-3ms] 4Kian-23481a1e3c",
+      "server": "167.17.64.175",
+      "server_port": 19999
     },
     {
       "tls": {
@@ -500,38 +643,92 @@
         "insecure": true
       },
       "type": "http",
-      "tag": "[347.1ms +/-6ms] http-149.88.21.140",
+      "tag": "[514.7ms +/-0ms] http-149.88.21.140",
       "server": "149.88.21.140",
       "server_port": 9443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "44.248.167.117",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[399.8ms +/-23ms] http-44.248.167.117",
-      "server": "44.248.167.117",
-      "server_port": 8443
     },
     {
       "method": "aes-256-gcm",
       "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
       "type": "shadowsocks",
-      "tag": "🇮🇹 [714.0ms +/-14ms] shadowsocks-1875022929",
-      "server": "202.50.253.90",
+      "tag": "🇮🇹 [631.2ms +/-3ms] YFZ",
+      "server": "202.50.253.99",
       "server_port": 19999
     },
     {
       "tls": {
         "enabled": true,
-        "server_name": "34.249.214.108",
+        "server_name": "206.223.161.47",
         "insecure": true
       },
       "type": "http",
-      "tag": "[554.1ms +/-0ms] http-34.249.214.108",
-      "server": "34.249.214.108",
+      "tag": "[538.1ms +/-2ms] http-206.223.161.47",
+      "server": "206.223.161.47",
+      "server_port": 443
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "198.44.135.27",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[551.9ms +/-2ms] http-198.44.135.27",
+      "server": "198.44.135.27",
+      "server_port": 443
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [631.8ms +/-1ms] @V2ray_confiig",
+      "server": "202.50.253.36",
+      "server_port": 19999
+    },
+    {
+      "password": "70756c73-0000-4000-8000-650000000000",
+      "tls": {
+        "enabled": true,
+        "server_name": "parsa-panel-u48we.wotic15356.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/pulse",
+        "headers": {
+          "Host": "parsa-panel-u48we.wotic15356.workers.dev"
+        }
+      },
+      "type": "trojan",
+      "tag": "[560.9ms +/-1ms] 4Nika-1fab105ff0",
+      "server": "199.181.197.99",
+      "server_port": 443
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [632.7ms +/-13ms] @v2ray_configs_pools",
+      "server": "202.50.253.45",
+      "server_port": 19999
+    },
+    {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [632.4ms +/-19ms] 🇮🇹",
+      "server": "202.50.253.81",
+      "server_port": 19999
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "82.65.162.76",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[701.9ms +/-1ms] http-82.65.162.76",
+      "server": "82.65.162.76",
       "server_port": 443
     },
     {
@@ -541,194 +738,20 @@
         "insecure": true
       },
       "type": "http",
-      "tag": "[463.9ms +/-1ms] http-23.169.224.34",
+      "tag": "[519.4ms +/-2ms] http-23.169.224.34",
       "server": "23.169.224.34",
       "server_port": 9443
     },
     {
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "type": "shadowsocks",
-      "tag": "🇮🇹 [771.5ms +/-13ms] shadowsocks-1875023019",
-      "server": "202.50.253.63",
-      "server_port": 19999
-    },
-    {
+      "password": "63e1b9462d708b56d5d5a0267cffecdc",
       "tls": {
         "enabled": true,
-        "server_name": "84.17.47.123",
+        "server_name": "promo3.goonars.com",
         "insecure": true
       },
-      "type": "http",
-      "tag": "[575.6ms +/-4ms] http-84.17.47.123",
-      "server": "84.17.47.123",
-      "server_port": 9002
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "82.65.162.76",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[592.1ms +/-10ms] http-82.65.162.76",
-      "server": "82.65.162.76",
-      "server_port": 443
-    },
-    {
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "type": "shadowsocks",
-      "tag": "🇮🇹 [623.1ms +/-14ms] ProxyMtpVPN-74",
-      "server": "202.50.253.18",
-      "server_port": 19999
-    },
-    {
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "type": "shadowsocks",
-      "tag": "🇮🇹 [629.4ms +/-11ms] @v2ray_configs_pools",
-      "server": "202.50.253.45",
-      "server_port": 19999
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "172.64.68.89",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[338.5ms +/-0ms] http-172.64.68.89",
-      "server": "172.64.68.89",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "51.159.225.197",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[588.2ms +/-9ms] http-51.159.225.197",
-      "server": "51.159.225.197",
-      "server_port": 19362
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "84.17.47.125",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[587.9ms +/-9ms] http-84.17.47.125",
-      "server": "84.17.47.125",
-      "server_port": 9002
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "158.173.154.1",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[595.6ms +/-4ms] http-158.173.154.1",
-      "server": "158.173.154.1",
-      "server_port": 9002
-    },
-    {
-      "password": "MiTiVPN",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdn.akamai.steamstatic.com",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/---@MiTiVPN---@MiTiVPN",
-        "headers": {
-          "Host": "mtlooabmakaakaoijji.global.ssl.fastly.net"
-        }
-      },
-      "type": "trojan",
-      "tag": "🇺🇸 [488.0ms +/-7ms] @FXxNET⚡️",
-      "server": "146.75.57.120",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "84.17.47.148",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[658.0ms +/-1ms] http-84.17.47.148",
-      "server": "84.17.47.148",
-      "server_port": 9002
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "149.36.50.157",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[643.5ms +/-1ms] http-149.36.50.157",
-      "server": "149.36.50.157",
-      "server_port": 443
-    },
-    {
-      "uuid": "b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b",
-      "tls": {
-        "enabled": true,
-        "server_name": "138-124-86-230.sslip.io",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "138-124-86-230-sslip-io"
-      },
-      "type": "vless",
-      "tag": "[535.5ms +/-6ms] 4Sarina-b59d1a52a1",
-      "server": "138.124.86.230",
-      "server_port": 48115
-    },
-    {
-      "username": "null",
-      "password": "null",
-      "tls": {
-        "enabled": true,
-        "server_name": "51.159.225.196",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[633.8ms +/-27ms] http-51.159.225.196",
-      "server": "51.159.225.196",
-      "server_port": 23856
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "158.173.154.5",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[659.8ms +/-10ms] http-158.173.154.5",
-      "server": "158.173.154.5",
-      "server_port": 9002
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "146.70.244.18",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[703.5ms +/-1ms] http-146.70.244.18",
-      "server": "146.70.244.18",
+      "type": "hysteria2",
+      "tag": "🇺🇸 [326.2ms +/-361ms] 4Kian-9cb85f9a48",
+      "server": "88.216.195.188",
       "server_port": 443
     },
     {
@@ -738,58 +761,78 @@
         "insecure": true
       },
       "type": "http",
-      "tag": "[700.3ms +/-1ms] http-84.17.47.124",
+      "tag": "[694.5ms +/-7ms] http-84.17.47.124",
       "server": "84.17.47.124",
       "server_port": 9002
     },
     {
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "type": "shadowsocks",
-      "tag": "🇮🇹 [766.7ms +/-3ms] @ICV2RAY",
-      "server": "202.50.253.81",
-      "server_port": 19999
-    },
-    {
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "type": "shadowsocks",
-      "tag": "🇮🇹 [753.3ms +/-6ms] YFZ",
-      "server": "202.50.253.99",
-      "server_port": 19999
+      "uuid": "cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1",
+      "tls": {
+        "enabled": true,
+        "server_name": "res.cdn.office.net",
+        "insecure": true,
+        "reality": {
+          "enabled": true,
+          "public_key": "4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo",
+          "short_id": ""
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "TunService"
+      },
+      "type": "vless",
+      "tag": "[589.9ms +/-2ms] 4FreeIran-6c6e5f325f",
+      "server": "178.20.28.3",
+      "server_port": 8443
     },
     {
       "tls": {
         "enabled": true,
-        "server_name": "185.219.159.15",
+        "server_name": "84.17.47.149",
         "insecure": true
       },
       "type": "http",
-      "tag": "[726.3ms +/-1ms] http-185.219.159.15",
-      "server": "185.219.159.15",
+      "tag": "[690.1ms +/-15ms] http-84.17.47.149",
+      "server": "84.17.47.149",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "158.173.154.5",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[698.0ms +/-8ms] http-158.173.154.5",
+      "server": "158.173.154.5",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "162.244.227.36",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[617.3ms +/-8ms] http-162.244.227.36",
+      "server": "162.244.227.36",
       "server_port": 443
     },
     {
       "tls": {
         "enabled": true,
-        "server_name": "146.70.244.2",
+        "server_name": "84.17.47.148",
         "insecure": true
       },
       "type": "http",
-      "tag": "[698.9ms +/-1ms] http-146.70.244.2",
-      "server": "146.70.244.2",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "149.88.27.46",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[606.4ms +/-0ms] http-149.88.27.46",
-      "server": "149.88.27.46",
-      "server_port": 9443
+      "tag": "[723.1ms +/-7ms] http-84.17.47.148",
+      "server": "84.17.47.148",
+      "server_port": 9002
     },
     {
       "username": "null",
@@ -800,9 +843,31 @@
         "insecure": true
       },
       "type": "http",
-      "tag": "[756.1ms +/-7ms] http-103.97.88.154",
+      "tag": "[758.2ms +/-4ms] http-103.97.88.154",
       "server": "103.97.88.154",
       "server_port": 443
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "68.235.56.59",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[655.4ms +/-1ms] http-68.235.56.59",
+      "server": "68.235.56.59",
+      "server_port": 443
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "51.159.225.197",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[749.1ms +/-2ms] http-51.159.225.197",
+      "server": "51.159.225.197",
+      "server_port": 19362
     },
     {
       "tls": {
@@ -811,85 +876,60 @@
         "insecure": true
       },
       "type": "http",
-      "tag": "[755.2ms +/-0ms] http-213.109.163.119",
+      "tag": "[771.1ms +/-0ms] http-213.109.163.119",
       "server": "213.109.163.119",
       "server_port": 443
     },
     {
       "tls": {
         "enabled": true,
-        "server_name": "149.36.50.129",
+        "server_name": "34.249.214.108",
         "insecure": true
       },
       "type": "http",
-      "tag": "[632.3ms +/-3ms] http-149.36.50.129",
-      "server": "149.36.50.129",
+      "tag": "[771.3ms +/-1ms] http-34.249.214.108",
+      "server": "34.249.214.108",
       "server_port": 443
     },
     {
       "tls": {
         "enabled": true,
-        "server_name": "37.120.213.210",
+        "server_name": "158.173.154.1",
         "insecure": true
       },
       "type": "http",
-      "tag": "[715.6ms +/-0ms] http-37.120.213.210",
-      "server": "37.120.213.210",
-      "server_port": 9443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "146.70.242.130",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[773.0ms +/-1ms] http-146.70.242.130",
-      "server": "146.70.242.130",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "84.17.50.193",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[680.8ms +/-0ms] http-84.17.50.193",
-      "server": "84.17.50.193",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "84.17.47.149",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[768.3ms +/-6ms] http-84.17.47.149",
-      "server": "84.17.47.149",
+      "tag": "[783.4ms +/-9ms] http-158.173.154.1",
+      "server": "158.173.154.1",
       "server_port": 9002
     },
     {
+      "method": "aes-256-gcm",
+      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
+      "type": "shadowsocks",
+      "tag": "🇮🇹 [650.7ms +/-96ms] @ICV2RAY",
+      "server": "202.50.253.18",
+      "server_port": 19999
+    },
+    {
       "tls": {
         "enabled": true,
-        "server_name": "185.219.159.16",
+        "server_name": "152.233.20.206",
         "insecure": true
       },
       "type": "http",
-      "tag": "[762.1ms +/-6ms] http-185.219.159.16",
-      "server": "185.219.159.16",
+      "tag": "[756.7ms +/-4ms] http-152.233.20.206",
+      "server": "152.233.20.206",
       "server_port": 443
     },
     {
       "tls": {
         "enabled": true,
-        "server_name": "146.70.123.98",
+        "server_name": "185.221.132.242",
         "insecure": true
       },
       "type": "http",
-      "tag": "[645.6ms +/-15ms] http-146.70.123.98",
-      "server": "146.70.123.98",
+      "tag": "[767.6ms +/-2ms] http-185.221.132.242",
+      "server": "185.221.132.242",
       "server_port": 443
     },
     {
@@ -899,7 +939,7 @@
         "insecure": true
       },
       "type": "http",
-      "tag": "[711.1ms +/-6ms] http-146.70.176.242",
+      "tag": "[800.3ms +/-14ms] http-146.70.176.242",
       "server": "146.70.176.242",
       "server_port": 443
     },
@@ -910,127 +950,31 @@
         "insecure": true
       },
       "type": "http",
-      "tag": "[708.3ms +/-1ms] http-185.183.105.146",
+      "tag": "[810.1ms +/-0ms] http-185.183.105.146",
       "server": "185.183.105.146",
       "server_port": 443
     },
     {
       "tls": {
         "enabled": true,
-        "server_name": "185.183.105.130",
+        "server_name": "146.70.244.2",
         "insecure": true
       },
       "type": "http",
-      "tag": "[752.9ms +/-0ms] http-185.183.105.130",
-      "server": "185.183.105.130",
+      "tag": "[855.8ms +/-1ms] http-146.70.244.2",
+      "server": "146.70.244.2",
       "server_port": 443
     },
     {
       "tls": {
         "enabled": true,
-        "server_name": "154.47.29.174",
+        "server_name": "84.17.50.193",
         "insecure": true
       },
       "type": "http",
-      "tag": "[721.0ms +/-1ms] http-154.47.29.174",
-      "server": "154.47.29.174",
+      "tag": "[777.9ms +/-3ms] http-84.17.50.193",
+      "server": "84.17.50.193",
       "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "149.36.51.161",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[670.2ms +/-2ms] http-149.36.51.161",
-      "server": "149.36.51.161",
-      "server_port": 9443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "185.221.132.242",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[700.1ms +/-1ms] http-185.221.132.242",
-      "server": "185.221.132.242",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "84.17.50.129",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[612.2ms +/-0ms] http-84.17.50.129",
-      "server": "84.17.50.129",
-      "server_port": 9443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "84.17.47.126",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[591.9ms +/-6ms] http-84.17.47.126",
-      "server": "84.17.47.126",
-      "server_port": 9002
-    },
-    {
-      "uuid": "fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349",
-      "tls": {
-        "enabled": true,
-        "server_name": "vpn.cintaku.qzz.io",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/vlessws",
-        "headers": {
-          "Host": "vpn.cintaku.qzz.io"
-        }
-      },
-      "type": "vless",
-      "tag": "[806.2ms +/-3ms] 4Jadi-ee33c27b7b",
-      "server": "104.17.11.191",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "152.233.20.206",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[716.4ms +/-1ms] http-152.233.20.206",
-      "server": "152.233.20.206",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "212.102.63.1",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[650.8ms +/-2ms] http-212.102.63.1",
-      "server": "212.102.63.1",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "83.206.1.225",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[769.1ms +/-1ms] http-83.206.1.225",
-      "server": "83.206.1.225",
-      "server_port": 8090
     },
     {
       "tls": {
@@ -1039,41 +983,52 @@
         "insecure": true
       },
       "type": "http",
-      "tag": "[849.2ms +/-6ms] http-146.70.242.146",
+      "tag": "[851.4ms +/-5ms] http-146.70.242.146",
       "server": "146.70.242.146",
       "server_port": 443
     },
     {
       "tls": {
         "enabled": true,
-        "server_name": "213.139.9.142",
+        "server_name": "84.17.47.126",
         "insecure": true
       },
       "type": "http",
-      "tag": "[644.0ms +/-2ms] http-213.139.9.142",
-      "server": "213.139.9.142",
-      "server_port": 9443
+      "tag": "[686.0ms +/-9ms] http-84.17.47.126",
+      "server": "84.17.47.126",
+      "server_port": 9002
     },
     {
       "tls": {
         "enabled": true,
-        "server_name": "95.153.31.66",
+        "server_name": "185.183.105.130",
         "insecure": true
       },
       "type": "http",
-      "tag": "[728.2ms +/-2ms] http-95.153.31.66",
-      "server": "95.153.31.66",
-      "server_port": 9443
+      "tag": "[866.7ms +/-1ms] http-185.183.105.130",
+      "server": "185.183.105.130",
+      "server_port": 443
     },
     {
       "tls": {
         "enabled": true,
-        "server_name": "5.255.97.222",
+        "server_name": "185.219.159.15",
         "insecure": true
       },
       "type": "http",
-      "tag": "[665.0ms +/-11ms] http-5.255.97.222",
-      "server": "5.255.97.222",
+      "tag": "[853.3ms +/-8ms] http-185.219.159.15",
+      "server": "185.219.159.15",
+      "server_port": 443
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "185.219.159.16",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[870.5ms +/-3ms] http-185.219.159.16",
+      "server": "185.219.159.16",
       "server_port": 443
     },
     {
@@ -1083,379 +1038,8 @@
         "insecure": true
       },
       "type": "http",
-      "tag": "[828.8ms +/-3ms] http-146.70.221.34",
+      "tag": "[861.0ms +/-2ms] http-146.70.221.34",
       "server": "146.70.221.34",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "135.136.1.2",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[814.6ms +/-3ms] http-135.136.1.2",
-      "server": "135.136.1.2",
-      "server_port": 9443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "152.233.16.174",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[690.4ms +/-5ms] http-152.233.16.174",
-      "server": "152.233.16.174",
-      "server_port": 9443
-    },
-    {
-      "uuid": "b8d8a5b0-867f-4491-b4e4-30edc04bb10e",
-      "tls": {
-        "enabled": true,
-        "server_name": "u.srilankangrill.online",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "u.srilankangrill.online"
-        }
-      },
-      "type": "vless",
-      "tag": "[802.5ms +/-15ms] 4Jadi-8ae4aa9d17",
-      "server": "104.168.132.109",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "185.216.35.66",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[913.0ms +/-17ms] http-185.216.35.66",
-      "server": "185.216.35.66",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "149.102.245.65",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[745.2ms +/-1ms] http-149.102.245.65",
-      "server": "149.102.245.65",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "185.221.132.226",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[708.2ms +/-13ms] http-185.221.132.226",
-      "server": "185.221.132.226",
-      "server_port": 9443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "84.233.178.33",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[732.2ms +/-2ms] http-84.233.178.33",
-      "server": "84.233.178.33",
-      "server_port": 9443
-    },
-    {
-      "uuid": "b8d8a5b0-867f-4491-b4e4-30edc04bb10e",
-      "tls": {
-        "enabled": true,
-        "server_name": "u.srilankangrill.online",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "u.srilankangrill.online"
-        }
-      },
-      "type": "vless",
-      "tag": "[843.5ms +/-16ms] 4Mohsen-1121b0fd9a",
-      "server": "104.21.5.75",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "95.153.32.2",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[748.7ms +/-5ms] http-95.153.32.2",
-      "server": "95.153.32.2",
-      "server_port": 443
-    },
-    {
-      "uuid": "b8d8a5b0-867f-4491-b4e4-30edc04bb10e",
-      "tls": {
-        "enabled": true,
-        "server_name": "u.srilankangrill.online",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "u.srilankangrill.online"
-        }
-      },
-      "type": "vless",
-      "tag": "[847.0ms +/-24ms] 4Mohsen-9c8e574918",
-      "server": "104.16.3.98",
-      "server_port": 443
-    },
-    {
-      "uuid": "b8d8a5b0-867f-4491-b4e4-30edc04bb10e",
-      "tls": {
-        "enabled": true,
-        "server_name": "u.srilankangrill.online",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "u.srilankangrill.online"
-        }
-      },
-      "type": "vless",
-      "tag": "[859.3ms +/-16ms] 4Kian-433683f471",
-      "server": "104.16.10.191",
-      "server_port": 443
-    },
-    {
-      "uuid": "b8d8a5b0-867f-4491-b4e4-30edc04bb10e",
-      "tls": {
-        "enabled": true,
-        "server_name": "u.srilankangrill.online",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "u.srilankangrill.online"
-        }
-      },
-      "type": "vless",
-      "tag": "[862.4ms +/-25ms] 4Sarina-4cdaf09efc",
-      "server": "104.16.10.116",
-      "server_port": 443
-    },
-    {
-      "uuid": "b8d8a5b0-867f-4491-b4e4-30edc04bb10e",
-      "tls": {
-        "enabled": true,
-        "server_name": "u.srilankangrill.online",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "u.srilankangrill.online"
-        }
-      },
-      "type": "vless",
-      "tag": "[878.3ms +/-15ms] 4FreeIran-8dabb58c1a",
-      "server": "104.16.10.198",
-      "server_port": 443
-    },
-    {
-      "uuid": "b8d8a5b0-867f-4491-b4e4-30edc04bb10e",
-      "tls": {
-        "enabled": true,
-        "server_name": "u.srilankangrill.online",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "u.srilankangrill.online"
-        }
-      },
-      "type": "vless",
-      "tag": "[864.9ms +/-27ms] 4Mohsen-c112486dc9",
-      "server": "104.17.117.137",
-      "server_port": 443
-    },
-    {
-      "uuid": "b8d8a5b0-867f-4491-b4e4-30edc04bb10e",
-      "tls": {
-        "enabled": true,
-        "server_name": "u.srilankangrill.online",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "u.srilankangrill.online"
-        }
-      },
-      "type": "vless",
-      "tag": "[861.7ms +/-32ms] 4Kian-9efb213ccf",
-      "server": "104.16.10.10",
-      "server_port": 443
-    },
-    {
-      "uuid": "b8d8a5b0-867f-4491-b4e4-30edc04bb10e",
-      "tls": {
-        "enabled": true,
-        "server_name": "u.srilankangrill.online",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "u.srilankangrill.online"
-        }
-      },
-      "type": "vless",
-      "tag": "[819.5ms +/-5ms] 4Kian-d685820aca",
-      "server": "104.16.156.227",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "149.50.216.65",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[793.5ms +/-7ms] http-149.50.216.65",
-      "server": "149.50.216.65",
-      "server_port": 443
-    },
-    {
-      "uuid": "b8d8a5b0-867f-4491-b4e4-30edc04bb10e",
-      "tls": {
-        "enabled": true,
-        "server_name": "u.srilankangrill.online",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "u.srilankangrill.online"
-        }
-      },
-      "type": "vless",
-      "tag": "[901.8ms +/-11ms] 4Mohsen-4416cecff2",
-      "server": "104.16.10.103",
-      "server_port": 443
-    },
-    {
-      "uuid": "b8d8a5b0-867f-4491-b4e4-30edc04bb10e",
-      "tls": {
-        "enabled": true,
-        "server_name": "u.srilankangrill.online",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "u.srilankangrill.online"
-        }
-      },
-      "type": "vless",
-      "tag": "[882.5ms +/-33ms] 4Nika-30a4c215d4",
-      "server": "104.16.10.235",
-      "server_port": 443
-    },
-    {
-      "uuid": "b8d8a5b0-867f-4491-b4e4-30edc04bb10e",
-      "tls": {
-        "enabled": true,
-        "server_name": "u.srilankangrill.online",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "u.srilankangrill.online"
-        }
-      },
-      "type": "vless",
-      "tag": "[894.7ms +/-26ms] 4Nika-81397f636b",
-      "server": "104.19.32.166",
-      "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "31.186.220.204",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[1007.7ms +/-17ms] http-31.186.220.204",
-      "server": "31.186.220.204",
       "server_port": 443
     },
     {
@@ -1465,55 +1049,108 @@
         "insecure": true
       },
       "type": "http",
-      "tag": "[948.3ms +/-3ms] http-146.70.203.18",
+      "tag": "[832.0ms +/-3ms] http-146.70.203.18",
       "server": "146.70.203.18",
       "server_port": 443
     },
     {
-      "uuid": "b8d8a5b0-867f-4491-b4e4-30edc04bb10e",
       "tls": {
         "enabled": true,
-        "server_name": "u.srilankangrill.online",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
+        "server_name": "84.17.50.129",
+        "insecure": true
       },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "u.srilankangrill.online"
-        }
+      "type": "http",
+      "tag": "[701.0ms +/-0ms] http-84.17.50.129",
+      "server": "84.17.50.129",
+      "server_port": 9443
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "83.206.1.225",
+        "insecure": true
       },
-      "type": "vless",
-      "tag": "[875.3ms +/-16ms] 4Jadi-1c30de8965",
-      "server": "104.16.10.117",
+      "type": "http",
+      "tag": "[902.6ms +/-2ms] http-83.206.1.225",
+      "server": "83.206.1.225",
+      "server_port": 8090
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "84.17.47.125",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[953.6ms +/-10ms] http-84.17.47.125",
+      "server": "84.17.47.125",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "51.159.225.196",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[755.6ms +/-1ms] http-51.159.225.196",
+      "server": "51.159.225.196",
+      "server_port": 23856
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "84.17.47.123",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[975.9ms +/-5ms] http-84.17.47.123",
+      "server": "84.17.47.123",
+      "server_port": 9002
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "213.139.9.142",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[877.9ms +/-2ms] http-213.139.9.142",
+      "server": "213.139.9.142",
+      "server_port": 9443
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "152.233.16.174",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[833.4ms +/-3ms] http-152.233.16.174",
+      "server": "152.233.16.174",
+      "server_port": 9443
+    },
+    {
+      "tls": {
+        "enabled": true,
+        "server_name": "31.186.220.204",
+        "insecure": true
+      },
+      "type": "http",
+      "tag": "[1037.5ms +/-41ms] http-31.186.220.204",
+      "server": "31.186.220.204",
       "server_port": 443
     },
     {
-      "uuid": "fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349",
       "tls": {
         "enabled": true,
-        "server_name": "vpn.cintaku.qzz.io",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
+        "server_name": "44.248.167.117",
+        "insecure": true
       },
-      "transport": {
-        "type": "ws",
-        "path": "/vlessws",
-        "headers": {
-          "Host": "vpn.cintaku.qzz.io"
-        }
-      },
-      "type": "vless",
-      "tag": "[870.0ms +/-15ms] 4Jadi-88d106e77c",
-      "server": "172.67.166.188",
-      "server_port": 443
+      "type": "http",
+      "tag": "[778.3ms +/-177ms] http-44.248.167.117",
+      "server": "44.248.167.117",
+      "server_port": 8443
     },
     {
       "tls": {
@@ -1522,7 +1159,7 @@
         "insecure": true
       },
       "type": "http",
-      "tag": "[1099.8ms +/-3ms] http-130.195.250.18",
+      "tag": "[1144.6ms +/-15ms] http-130.195.250.18",
       "server": "130.195.250.18",
       "server_port": 443
     },
@@ -1533,210 +1170,20 @@
         "insecure": true
       },
       "type": "http",
-      "tag": "[813.6ms +/-20ms] http-46.29.166.134",
+      "tag": "[923.7ms +/-7ms] http-46.29.166.134",
       "server": "46.29.166.134",
       "server_port": 1446
     },
     {
       "tls": {
         "enabled": true,
-        "server_name": "185.245.84.50",
+        "server_name": "149.50.216.65",
         "insecure": true
       },
       "type": "http",
-      "tag": "[856.3ms +/-39ms] http-185.245.84.50",
-      "server": "185.245.84.50",
-      "server_port": 9443
-    },
-    {
-      "uuid": "b8d8a5b0-867f-4491-b4e4-30edc04bb10e",
-      "tls": {
-        "enabled": true,
-        "server_name": "u.srilankangrill.online",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "u.srilankangrill.online"
-        }
-      },
-      "type": "vless",
-      "tag": "[984.2ms +/-39ms] 4Nika-d9a91205bb",
-      "server": "185.174.137.106",
+      "tag": "[1000.6ms +/-1ms] http-149.50.216.65",
+      "server": "149.50.216.65",
       "server_port": 443
-    },
-    {
-      "tls": {
-        "enabled": true,
-        "server_name": "146.70.221.18",
-        "insecure": true
-      },
-      "type": "http",
-      "tag": "[933.5ms +/-3ms] http-146.70.221.18",
-      "server": "146.70.221.18",
-      "server_port": 443
-    },
-    {
-      "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a",
-      "tls": {
-        "enabled": true,
-        "server_name": "courses.yourultimateprofessionalcareerhub.com",
-        "insecure": true
-      },
-      "type": "trojan",
-      "tag": "[877.2ms +/-72ms] 4FreeIran-ccc5edbec2",
-      "server": "208.69.78.33",
-      "server_port": 443
-    },
-    {
-      "uuid": "b8d8a5b0-867f-4491-b4e4-30edc04bb10e",
-      "tls": {
-        "enabled": true,
-        "server_name": "u.srilankangrill.online",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "u.srilankangrill.online"
-        }
-      },
-      "type": "vless",
-      "tag": "[884.7ms +/-65ms] 4Nika-1c595ee186",
-      "server": "104.19.178.244",
-      "server_port": 443
-    },
-    {
-      "uuid": "b8d8a5b0-867f-4491-b4e4-30edc04bb10e",
-      "tls": {
-        "enabled": true,
-        "server_name": "u.srilankangrill.online",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "u.srilankangrill.online"
-        }
-      },
-      "type": "vless",
-      "tag": "[828.3ms +/-149ms] 4Nika-1e96677b7a",
-      "server": "104.24.11.68",
-      "server_port": 443
-    },
-    {
-      "password": "gHQP0D7D15",
-      "tls": {
-        "enabled": true,
-        "server_name": "marvdasht.phonecomparisonblog.org",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "marvdasht.phonecomparisonblog.org"
-        }
-      },
-      "type": "trojan",
-      "tag": "[1667.3ms +/-44ms] 4Mohsen-c0e4b82bce",
-      "server": "104.18.0.1",
-      "server_port": 2053
-    },
-    {
-      "method": "aes-256-gcm",
-      "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=",
-      "type": "shadowsocks",
-      "tag": "🇮🇹 [718.0ms +/-365ms] @V2ray_confiig",
-      "server": "202.50.253.36",
-      "server_port": 19999
-    },
-    {
-      "password": "gHQP0D7D15",
-      "tls": {
-        "enabled": true,
-        "server_name": "marvdasht.phonecomparisonblog.org",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "marvdasht.phonecomparisonblog.org"
-        }
-      },
-      "type": "trojan",
-      "tag": "[1657.6ms +/-103ms] 4Kian-a0e61ad436",
-      "server": "172.66.0.1",
-      "server_port": 2053
-    },
-    {
-      "password": "gHQP0D7D15",
-      "tls": {
-        "enabled": true,
-        "server_name": "marvdasht.phonecomparisonblog.org",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "marvdasht.phonecomparisonblog.org"
-        }
-      },
-      "type": "trojan",
-      "tag": "[1612.6ms +/-31ms] 4Sarina-b6beea80d9",
-      "server": "104.16.186.130",
-      "server_port": 2053
-    },
-    {
-      "password": "gHQP0D7D15",
-      "tls": {
-        "enabled": true,
-        "server_name": "marvdasht.phonecomparisonblog.org",
-        "insecure": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "marvdasht.phonecomparisonblog.org"
-        }
-      },
-      "type": "trojan",
-      "tag": "[1652.8ms +/-89ms] 4FreeIran-15e6f1f6dd",
-      "server": "104.24.0.1",
-      "server_port": 2053
-    },
-    {
-      "uuid": "a8f77620-a7fd-4f53-b8b2-4ab7b34fd0d7",
-      "type": "vless",
-      "tag": "[483.9ms +/-5ms] 🇩🇪207516 | ⚡️Telegram = t.me(…)",
-      "server": "2.31.84.12",
-      "server_port": 18392
-    },
-    {
-      "uuid": "a7b17df0-446e-4e45-ad11-43ff5ee04a75",
-      "type": "vless",
-      "tag": "[1456.9ms +/-120ms] 🇱🇻207510 | ⚡️Telegram = t(…)",
-      "server": "31.56.196.199",
-      "server_port": 41783
     },
     {
       "type": "direct",
